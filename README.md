@@ -52,6 +52,11 @@ Here are some ideas to get you started:
 
 ---
 
+  [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinctofel)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinctofel)](https://github.com/anuraghazra/github-readme-stats)
+  
+---
 
 ### 📕 Latest About Chromebook Blog Posts
 
@@ -74,13 +79,6 @@ Here are some ideas to get you started:
 <!-- PERSONAL-BLOG-POST-LIST:END -->
 
 ---
-
-<details>
-  <summary>:zap: Public GitHub Stats</summary>
-  
-  [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinctofel)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
 
 [personal website]: https://www.kctofel.com
 [twitter]: https://twitter.com/kevinctofel
