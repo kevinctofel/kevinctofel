@@ -70,24 +70,15 @@ Here are some ideas to get you started:
 ### 📕 Latest Personal Blog Posts
 
 <!-- PERSONAL-BLOG-POST-LIST:START -->
-
+# Coming soon!
 <!-- PERSONAL-BLOG-POST-LIST:END -->
 
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: Public GitHub Stats</summary>
-
-  <img align="left" alt="Kevin's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kevinctofel&show_icons=true&hide_border=true" />
+  
+  [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinctofel)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
