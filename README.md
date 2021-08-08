@@ -24,8 +24,10 @@ Here are some ideas to get you started:
 ## I'm a 52 year old self-taught computer geek.
 
 - 🌱 I’m currently learning TBD 🤣
-- 🥅 2021 Goals:
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2021 Goals: Finish my first graduate CS course with at least a B.
+- ⚡ Fun fact: I once ran at least a mile per day for 987 days in a row
+- 💬 Ask me about Chromebooks! 
+- 😄 Pronouns: He/him
 
 ### Connect with me:
 
