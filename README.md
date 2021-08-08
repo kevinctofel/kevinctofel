@@ -19,17 +19,17 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Kevin - aka [kct][personal website] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/kevinctofel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=kevinctofel)
-
 ## I'm a 52 year old self-taught computer geek.
 
-- 🌱 I’m currently learning TBD 🤣
+- 🌱 I’m currently learning TBD, at GA Tech; classes start August 23rd. 🤣
 - 🥅 2021 Goals: Finish my first graduate CS course with at least a B.
 - ⚡ Fun fact: I once ran at least a mile per day for 987 days in a row
 - 💬 Ask me about Chromebooks! 
 - 😄 Pronouns: He/him
 
 ### Connect with me:
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/kevinctofel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=kevinctofel)
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][personal website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
