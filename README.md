@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#Kevin C. Tofel
+# Kevin C. Tofel
 
 ### Hi there, I'm Kevin - aka [kct][personal website] 👋
 
