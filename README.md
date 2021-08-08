@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 ---
 
 
-### 📕 Latest Blog Posts
+### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Hands-on: Lenovo IdeaPad 5i Chromebook first impressions](https://www.aboutchromebooks.com/news/hands-on-lenovo-ideapad-5i-chromebook-first-impressions/)
@@ -64,6 +64,14 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
+
+---
+
+### 📕 Latest Personal Blog Posts
+
+<!-- PERSONAL-BLOG-POST-LIST:START -->
+
+<!-- PERSONAL-BLOG-POST-LIST:END -->
 
 ---
 
