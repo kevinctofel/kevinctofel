@@ -56,7 +56,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Hands-on: Lenovo IdeaPad 5i Chromebook first impressions](https://www.aboutchromebooks.com/news/hands-on-lenovo-ideapad-5i-chromebook-first-impressions/)
+- [Deal: Core i3 HP Chromebook X360 14c is discounted by $200 to $429 (Updated)](https://www.aboutchromebooks.com/news/intel-corei3-hp-chromebook-x360-14c-discounted-by-200/)
+- [Want an LTE Chromebook? Here are your current options (Updated)](https://www.aboutchromebooks.com/news/want-an-lte-chromebook-here-are-your-current-options/)
+- [Samsung Galaxy Chromebook Go with 5G lands at AT&T](https://www.aboutchromebooks.com/news/samsung-galaxy-chromebook-go-with-5g-lte-lands-at-att/)
+- [I was wrong: The MediaTek Kompanio 1300T isn’t for Chrome OS tablets at all](https://www.aboutchromebooks.com/news/i-was-wrong-the-mediatek-kompanio-1300t-isnt-for-chrome-os-tablets-at-all/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
