@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ktofel3
-### Hi there, I'm Kevin C. Tofel - aka [kct][personal website] 👋
+#Kevin C. Tofel
+
+### Hi there, I'm Kevin - aka [kct][personal website] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kevinctofel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=kevinctofel)
 
