@@ -78,8 +78,8 @@ Here are some ideas to get you started:
 # Coming soon!
 <!-- PERSONAL-BLOG-POST-LIST:END -->
 
----
-
 [personal website]: https://www.kctofel.com
 [twitter]: https://twitter.com/kevinctofel
 [linkedin]: https://linkedin.com/in/kevinctofel
+
+The most excellent [blog post workflow](https://github.com/gautamkrishnar/blog-post-workflow) and [GitHub stats](https://github.com/gautamkrishnar/github-readme-stats) from [guatamkrishnar](https://github.com/gautamkrishnar)
