@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to add full restore on a Chromebook to reopen all apps in Chrome OS 92](https://www.aboutchromebooks.com/news/how-to-add-full-restore-on-a-chromebook-to-reopen-all-apps-in-chrome-os-92/)
+- [Deal alert: Asus Chromebook Flip C536 with 11th-gen Core i3 on sale for $469 (Update: It’s back!)](https://www.aboutchromebooks.com/news/deal-alert-asus-chromebook-flip-c536-with-11th-gen-core-i3-on-sale-for-469/)
 - [HP Chromebook x2 11 detachable LTE Chrome OS tablet and HP Chromebase 21.5 debut](https://www.aboutchromebooks.com/news/hp-chromebook-x2-11-detachable-lte-chrome-os-tablet-and-hp-chromebase-21-5-debut/)
 - [Hands-on: Lenovo IdeaPad 5i Chromebook first impressions](https://www.aboutchromebooks.com/news/hands-on-lenovo-ideapad-5i-chromebook-first-impressions/)
 - [Deal: Core i3 HP Chromebook X360 14c is discounted by $200 to $429 (Updated)](https://www.aboutchromebooks.com/news/intel-corei3-hp-chromebook-x360-14c-discounted-by-200/)
-- [Want an LTE Chromebook? Here are your current options (Updated)](https://www.aboutchromebooks.com/news/want-an-lte-chromebook-here-are-your-current-options/)
-- [Samsung Galaxy Chromebook Go with 5G lands at AT&T](https://www.aboutchromebooks.com/news/samsung-galaxy-chromebook-go-with-5g-lte-lands-at-att/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
