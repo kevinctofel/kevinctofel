@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chrome OS 94 brings Debian Bullseye to Linux on Chromebooks](https://www.aboutchromebooks.com/news/chrome-os-94-brings-debian-bullseye-to-linux-on-chromebooks/)
 - [How to change the zoom levels in Android apps on a Chromebook for easier reading](https://www.aboutchromebooks.com/news/how-to-change-the-zoom-levels-in-android-apps-on-a-chromebook-for-easier-reading/)
 - [$100 instant rebate brings the Core i3 Samsung Galaxy Chromebook 2 down to $599.99](https://www.aboutchromebooks.com/news/100-instant-rebate-brings-the-core-i3-samsung-galaxy-chromebook-2-down-to-599-99/)
 - [Want an Acer Chromebook Spin 513 with LTE? The current minimum cost is $699](https://www.aboutchromebooks.com/news/want-acer-chromebook-spin-513-with-lte-the-current-minimum-cost-is-699/)
 - [How to add full restore on a Chromebook to reopen all apps in Chrome OS 92](https://www.aboutchromebooks.com/news/how-to-add-full-restore-on-a-chromebook-to-reopen-all-apps-in-chrome-os-92/)
-- [Deal alert: Asus Chromebook Flip C536 with 11th-gen Core i3 on sale for $469 (Update: It’s back!)](https://www.aboutchromebooks.com/news/deal-alert-asus-chromebook-flip-c536-with-11th-gen-core-i3-on-sale-for-469/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
