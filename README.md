@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## I'm a 52 year old self-taught computer geek.
 
-- 🌱 I’m currently learning TBD, at GA Tech; classes start August 23rd. 🤣
+- 🌱 I’m currently learning about [Human-Computer Interaction](http://omscs6750.gatech.edu/fall-2021/) at GA Tech 🤓
 - 🥅 2021 Goals: Finish my first graduate CS course with at least a B.
 - ⚡ Fun fact: I once ran at least a mile per day for 987 days in a row
 - 💬 Ask me about Chromebooks! 
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 ### 📕 Latest Personal Blog Posts
 
 <!-- PERSONAL-BLOG-POST-LIST:START -->
-# Coming soon!
+Coming soon!
 <!-- PERSONAL-BLOG-POST-LIST:END -->
 
 [personal website]: https://www.kctofel.com
