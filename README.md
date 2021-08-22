@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lenovo IdeaPad 5i Chromebook review: A potent Pentium-powered laptop](https://www.aboutchromebooks.com/news/lenovo-ideapad-5i-chromebook-review-a-potent-pentium-powered-laptop/)
 - [This Lenovo Chromebook Flex 5 sale is almost as good as the Amazon Prime Day deal (Updated)](https://www.aboutchromebooks.com/news/this-lenovo-chromebook-flex-5-sale-is-almost-as-good-as-the-amazon-prime-day-deal/)
 - [Orders open for the pricey HP Pro c640 G2 Chromebook with 11th-gen Intel processors](https://www.aboutchromebooks.com/news/orders-open-for-the-pricey-hp-pro-c640-g2-chromebook-with-11th-gen-intel-processors/)
 - [Surprise: There’s an Asus Chromebook Detachable CZ1 for classrooms](https://www.aboutchromebooks.com/news/surprise-theres-an-asus-chromebook-detachable-cz1-for-classrooms/)
 - [Chrome OS 94 brings Debian Bullseye to Linux on Chromebooks](https://www.aboutchromebooks.com/news/chrome-os-94-brings-debian-bullseye-to-linux-on-chromebooks/)
-- [How to change the zoom levels in Android apps on a Chromebook for easier reading](https://www.aboutchromebooks.com/news/how-to-change-the-zoom-levels-in-android-apps-on-a-chromebook-for-easier-reading/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
