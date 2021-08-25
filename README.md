@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft ending Chromebook support for Office Android apps in September](https://www.aboutchromebooks.com/news/microsoft-ending-chromebook-support-for-office-android-apps-in-september/)
 - [2021 Acer Chromebook Spin 713 with Intel Evo gets an $80 discount: $619](https://www.aboutchromebooks.com/news/2021-acer-chromebook-spin-713-with-intel-evo-gets-an-80-discount-619/)
 - [Lenovo 300e Chromebook LTE pre-orders start next month at AT&T](https://www.aboutchromebooks.com/news/att-lenovo-300e-chromebook-lte-pricing-specifications/)
 - [Lenovo IdeaPad 5i Chromebook review: A potent Pentium-powered laptop](https://www.aboutchromebooks.com/news/lenovo-ideapad-5i-chromebook-review-a-potent-pentium-powered-laptop/)
 - [This Lenovo Chromebook Flex 5 sale is almost as good as the Amazon Prime Day deal (Updated)](https://www.aboutchromebooks.com/news/this-lenovo-chromebook-flex-5-sale-is-almost-as-good-as-the-amazon-prime-day-deal/)
-- [Orders open for the pricey HP Pro c640 G2 Chromebook with 11th-gen Intel processors](https://www.aboutchromebooks.com/news/orders-open-for-the-pricey-hp-pro-c640-g2-chromebook-with-11th-gen-intel-processors/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
