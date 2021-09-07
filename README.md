@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Perspective: Google chips in Chromebooks](https://www.aboutchromebooks.com/news/perspective-google-chips-in-chromebooks/)
 - [How to install and use Google’s new Cursive app for Chromebooks](https://www.aboutchromebooks.com/news/how-to-install-and-use-googles-new-cursive-app-for-chromebooks/)
 - [Hands-on: Acer Chromebook Spin 513 LTE first impressions](https://www.aboutchromebooks.com/news/hands-on-acer-chromebook-spin-513-lte-first-impressions/)
 - [Discounted to $399.99, this Core i3 Lenovo Flex 5i Chromebook is cheaper than the 5i with a Pentium](https://www.aboutchromebooks.com/news/discounted-to-399-99-this-core-i3-lenovo-flex-5i-chromebook-is-cheaper-than-the-5i-with-a-pentium/)
 - [Microsoft ending Chromebook support for Office Android apps in September (Update: Google statement added)](https://www.aboutchromebooks.com/news/microsoft-ending-chromebook-support-for-office-android-apps-in-september/)
-- [2021 Acer Chromebook Spin 713 with Intel Evo gets an $80 discount: $619](https://www.aboutchromebooks.com/news/2021-acer-chromebook-spin-713-with-intel-evo-gets-an-80-discount-619/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
