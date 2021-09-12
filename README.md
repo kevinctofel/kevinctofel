@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Acer Chromebook Spin 513 LTE review: A lot to pay for that mobile broadband](https://www.aboutchromebooks.com/news/acer-chromebook-spin-513-lte-review-a-lot-to-pay-for-that-mobile-broadband/)
 - [Lenovo Chromebook Duet 5 detachable debuts with 2nd-gen Snapdragon 7c, OLED screen](https://www.aboutchromebooks.com/news/lenovo-chromebook-duet-5-detachable-debuts-with-2nd-gen-snapdragon-7c-oled-screen/)
 - [Perspective: Google chips in Chromebooks](https://www.aboutchromebooks.com/news/perspective-google-chips-in-chromebooks/)
 - [How to install and use Google’s new Cursive app for Chromebooks](https://www.aboutchromebooks.com/news/how-to-install-and-use-googles-new-cursive-app-for-chromebooks/)
 - [Hands-on: Acer Chromebook Spin 513 LTE first impressions](https://www.aboutchromebooks.com/news/hands-on-acer-chromebook-spin-513-lte-first-impressions/)
-- [Discounted to $399.99, this Core i3 Lenovo Flex 5i Chromebook is cheaper than the 5i with a Pentium](https://www.aboutchromebooks.com/news/discounted-to-399-99-this-core-i3-lenovo-flex-5i-chromebook-is-cheaper-than-the-5i-with-a-pentium/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
