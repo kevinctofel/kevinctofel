@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chrome OS may include native Chromebook recovery software, no USB needed](https://www.aboutchromebooks.com/news/chrome-os-may-include-native-chromebook-recovery-software-no-usb-needed/)
 - [The $599 HP Chromebook x2 11 is already discounted 33%: Down to $399](https://www.aboutchromebooks.com/news/the-599-hp-chromebook-x2-11-is-already-discounted-33-down-to-399/)
 - [Acer Chromebook Spin 513 LTE review: A lot to pay for that mobile broadband](https://www.aboutchromebooks.com/news/acer-chromebook-spin-513-lte-review-a-lot-to-pay-for-that-mobile-broadband/)
 - [Lenovo Chromebook Duet 5 detachable debuts with 2nd-gen Snapdragon 7c, OLED screen](https://www.aboutchromebooks.com/news/lenovo-chromebook-duet-5-detachable-debuts-with-2nd-gen-snapdragon-7c-oled-screen/)
 - [Perspective: Google chips in Chromebooks](https://www.aboutchromebooks.com/news/perspective-google-chips-in-chromebooks/)
-- [How to install and use Google’s new Cursive app for Chromebooks](https://www.aboutchromebooks.com/news/how-to-install-and-use-googles-new-cursive-app-for-chromebooks/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
