@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hyper supplements its Works with Chromebook docks with new USB Type-C adapters](https://www.aboutchromebooks.com/news/hyper-supplements-its-works-with-chromebook-docks-with-new-usb-type-c-adapters/)
 - [Hello big boy! An upgraded 17.3″ Acer Chromebook 317 now available for $499](https://www.aboutchromebooks.com/news/hello-big-boy-an-upgraded-17-3-acer-chromebook-317-now-available-for-499/)
 - [Lenovo Chromebook Flex 5i hands-on and first impressions](https://www.aboutchromebooks.com/news/lenovo-chromebook-flex-5i-hands-on-and-first-impressions/)
 - [Getting your first Chromebook? Here’s a buying guide. (Updated)](https://www.aboutchromebooks.com/news/getting-your-first-chromebook-buyers-guide-2021/)
 - [Chrome OS may include native Chromebook recovery software, no USB needed](https://www.aboutchromebooks.com/news/chrome-os-may-include-native-chromebook-recovery-software-no-usb-needed/)
-- [The $599 HP Chromebook x2 11 is already discounted 33%: Down to $399](https://www.aboutchromebooks.com/news/the-599-hp-chromebook-x2-11-is-already-discounted-33-down-to-399/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
