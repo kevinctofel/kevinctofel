@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chrome OS productivity tip: Add a Chromebook site blocker extension](https://www.aboutchromebooks.com/news/chrome-os-productivity-tip-add-a-chromebook-site-blocker-extension/)
 - [Lenovo Flex 5i Chromebook review](https://www.aboutchromebooks.com/news/lenovo-flex-5i-chromebook-review/)
 - [Patience rewarded: HP Chromebook X2 11 sees a $220 price drop](https://www.aboutchromebooks.com/news/patience-rewarded-hp-chromebook-x2-11-sees-a-220-price-drop/)
 - [The $199 Lenovo Chromebook Duet sale is a great bang for buck deal](https://www.aboutchromebooks.com/news/lenovo-chromebook-duet-sale-is-a-great-bang-for-buck-deal/)
 - [Hyper supplements its Works with Chromebook docks with new USB Type-C adapters](https://www.aboutchromebooks.com/news/hyper-supplements-its-works-with-chromebook-docks-with-new-usb-type-c-adapters/)
-- [Hello big boy! An upgraded 17.3″ Acer Chromebook 317 now available for $499](https://www.aboutchromebooks.com/news/hello-big-boy-an-upgraded-17-3-acer-chromebook-317-now-available-for-499/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
