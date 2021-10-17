@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [4 updated Acer Chromebooks arrive starting next month](https://www.aboutchromebooks.com/news/4-updated-acer-chromebooks-arrive-starting-next-month/)
 - [Chrome OS 94 Stable Channel update for Chromebooks: Here’s what you need to know](https://www.aboutchromebooks.com/news/chrome-os-94-stable-channel-update-for-chromebooks-heres-what-you-need-to-know/)
 - [Here’s how the Lacros browser will improve profile switching on Chromebooks](https://www.aboutchromebooks.com/news/heres-how-the-lacros-browser-will-improve-profile-switching-on-chromebooks/)
 - [Chromebook myths continue because of articles like this](https://www.aboutchromebooks.com/news/chromebook-myths-continue-because-of-articles-like-this/)
 - [Is a Chromebox right for you? How to try Chromium OS on a Raspberry Pi to find out.](https://www.aboutchromebooks.com/news/is-a-chromebox-right-for-you-how-to-try-chromium-os-on-a-raspberry-pi-to-find-out/)
-- [HP Chromebook X2 11: Hands-on and first impressions of the newest Chrome OS tablet](https://www.aboutchromebooks.com/news/hp-chromebook-x2-11-hands-on-and-first-impressions-of-the-newest-chrome-os-tablet/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
