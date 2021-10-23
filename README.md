@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A new option to code on a Chromebook: VSCode.dev](https://www.aboutchromebooks.com/news/a-new-option-to-code-on-a-chromebook-vscode-dev/)
 - [Lenovo Duet 5 Chromebook orders begin, arriving October 28](https://www.aboutchromebooks.com/news/lenovo-duet-5-chromebook-orders-begin-arriving-october-28/)
 - [Pixel 6 launch hope: Run Android apps on a Chromebook from the phone](https://www.aboutchromebooks.com/news/pixel-6-launch-hope-run-android-apps-on-a-chromebook-from-the-phone/)
 - [4 updated Acer Chromebooks arrive starting next month](https://www.aboutchromebooks.com/news/4-updated-acer-chromebooks-arrive-starting-next-month/)
 - [Chrome OS 94 Stable Channel update for Chromebooks: Here’s what you need to know](https://www.aboutchromebooks.com/news/chrome-os-94-stable-channel-update-for-chromebooks-heres-what-you-need-to-know/)
-- [Here’s how the Lacros browser will improve profile switching on Chromebooks](https://www.aboutchromebooks.com/news/heres-how-the-lacros-browser-will-improve-profile-switching-on-chromebooks/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
