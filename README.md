@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Android 12L could vastly improve mobile apps on Chromebooks. Will it?](https://www.aboutchromebooks.com/news/android-12l-could-vastly-improve-mobile-apps-on-chromebooks-will-it/)
 - [Adobe Photoshop on Chromebooks edges closer to reality](https://www.aboutchromebooks.com/news/adobe-photoshop-on-chromebooks-edges-closer-to-reality/)
 - [A new option to code on a Chromebook: VSCode.dev](https://www.aboutchromebooks.com/news/a-new-option-to-code-on-a-chromebook-vscode-dev/)
 - [Lenovo Duet 5 Chromebook orders begin, arriving October 28](https://www.aboutchromebooks.com/news/lenovo-duet-5-chromebook-orders-begin-arriving-october-28/)
 - [Pixel 6 launch hope: Run Android apps on a Chromebook from the phone](https://www.aboutchromebooks.com/news/pixel-6-launch-hope-run-android-apps-on-a-chromebook-from-the-phone/)
-- [4 updated Acer Chromebooks arrive starting next month](https://www.aboutchromebooks.com/news/4-updated-acer-chromebooks-arrive-starting-next-month/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
