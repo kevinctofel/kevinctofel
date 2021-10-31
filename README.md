@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HP Chromebook X2 11 review: A good value when on sale](https://www.aboutchromebooks.com/news/hp-chromebook-x2-11-review-a-good-value-when-on-sale/)
 - [Asus Chromebook Flip CX3400 quietly debuts with fanless Intel Core processors](https://www.aboutchromebooks.com/news/asus-chromebook-flip-cx3400-quietly-debuts-with-fanless-intel-core-processors/)
 - [Android 12L could vastly improve mobile apps on Chromebooks. Will it?](https://www.aboutchromebooks.com/news/android-12l-could-vastly-improve-mobile-apps-on-chromebooks-will-it/)
 - [Adobe Photoshop on Chromebooks edges closer to reality](https://www.aboutchromebooks.com/news/adobe-photoshop-on-chromebooks-edges-closer-to-reality/)
 - [A new option to code on a Chromebook: VSCode.dev](https://www.aboutchromebooks.com/news/a-new-option-to-code-on-a-chromebook-vscode-dev/)
-- [Lenovo Duet 5 Chromebook orders begin, arriving October 28](https://www.aboutchromebooks.com/news/lenovo-duet-5-chromebook-orders-begin-arriving-october-28/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
