@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chrome OS Sharing Hub has a nice copy to clipboard Chromebook feature](https://www.aboutchromebooks.com/news/chrome-os-sharing-hub-has-a-nice-copy-to-clipboard-chromebook-feature/)
 - [How to easily share web content to PWAs or nearby devices on a Chromebook](https://www.aboutchromebooks.com/news/how-to-easily-share-web-content-to-pwas-or-nearby-devices-on-a-chromebook/)
 - [A new trio of Asus Chromebooks for students are coming](https://www.aboutchromebooks.com/news/a-new-trio-of-asus-chromebooks-for-students-are-coming/)
 - [How to install Microsoft Edge on a Chromebook](https://www.aboutchromebooks.com/news/how-to-install-microsoft-edge-on-a-chromebook/)
 - [You’ll soon be able to easily run multiple Linux containers on Chromebooks](https://www.aboutchromebooks.com/news/youll-soon-be-able-to-easily-run-multiple-linux-containers-on-chromebooks/)
-- [HP Chromebook X2 11 review: A good value when on sale](https://www.aboutchromebooks.com/news/hp-chromebook-x2-11-review-a-good-value-when-on-sale/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
