@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [No Pixelbook successor in 2022 isn’t all doom and gloom](https://www.aboutchromebooks.com/news/no-pixelbook-successor-in-2022-isnt-all-doom-and-gloom/)
 - [Lenovo Duet 5 Chromebook first impressions: A solid 2-in-1 Chrome OS device](https://www.aboutchromebooks.com/news/lenovo-duet-5-chromebook-first-impressions-a-solid-2-in-1-chrome-os-device/)
 - [How a Microsoft Surface Edgebook could challenge Chromebooks in education](https://www.aboutchromebooks.com/news/how-a-microsoft-surface-edgebook-could-challenge-chromebooks-in-education/)
 - [Chrome OS Sharing Hub has a nice copy to clipboard Chromebook feature](https://www.aboutchromebooks.com/news/chrome-os-sharing-hub-has-a-nice-copy-to-clipboard-chromebook-feature/)
 - [How to easily share web content to PWAs or nearby devices on a Chromebook](https://www.aboutchromebooks.com/news/how-to-easily-share-web-content-to-pwas-or-nearby-devices-on-a-chromebook/)
-- [A new trio of Asus Chromebooks for students are coming](https://www.aboutchromebooks.com/news/a-new-trio-of-asus-chromebooks-for-students-are-coming/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
