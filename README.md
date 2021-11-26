@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2021 Chromebook Black Friday deals: Buy this, not that](https://www.aboutchromebooks.com/news/2021-chromebook-black-friday-deals-buy-this-not-that/)
 - [Getting your first Chromebook? Here’s a buying guide. &lpar;Updated&rpar;](https://www.aboutchromebooks.com/news/getting-your-first-chromebook-buyers-guide-2021/)
 - [New Chromebook privacy feature already common to macOS and Windows PCs on the way](https://www.aboutchromebooks.com/news/new-chromebook-privacy-feature-already-common-to-macos-and-windows-pcs-on-the-way/)
 - [The $599 HP Chromebook x2 11 is discounted 33%: Down to $399 &lpar;Updated&rpar;](https://www.aboutchromebooks.com/news/the-599-hp-chromebook-x2-11-is-already-discounted-33-down-to-399/)
 - [Lenovo Duet 5 Chromebook review: A better laptop than tablet but great for the money](https://www.aboutchromebooks.com/news/lenovo-duet-5-chromebook-review-a-better-laptop-than-tablet-but-great-for-the-money/)
-- [Lenovo’s Core i3 Chromebook Flex 5i is only $10 more than than the Pentium Chromebook 5i](https://www.aboutchromebooks.com/news/lenovos-core-i3-chromebook-flex-5i-is-only-10-more-than-than-the-pentium-chromebook-5i/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
