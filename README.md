@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chrome OS 98 adds management of multiple Chromebook Linux containers](https://www.aboutchromebooks.com/news/chrome-os-98-adds-management-of-multiple-chromebook-linux-containers/)
 - [HP Chromebook x360 14c first impressions: Great build quality in a smallish high-performing package](https://www.aboutchromebooks.com/news/hp-chromebook-x360-14c-first-impressions-great-build-quality-in-a-smallish-high-performing-package/)
 - [2021 Chromebook Black Friday deals: Buy this, not that &lpar;Updated&rpar;](https://www.aboutchromebooks.com/news/2021-chromebook-black-friday-deals-buy-this-not-that/)
 - [Getting your first Chromebook? Here’s a buying guide. &lpar;Updated&rpar;](https://www.aboutchromebooks.com/news/getting-your-first-chromebook-buyers-guide-2021/)
 - [New Chromebook privacy feature already common to macOS and Windows PCs on the way](https://www.aboutchromebooks.com/news/new-chromebook-privacy-feature-already-common-to-macos-and-windows-pcs-on-the-way/)
-- [The $599 HP Chromebook x2 11 is discounted 33%: Down to $399 &lpar;Updated&rpar;](https://www.aboutchromebooks.com/news/the-599-hp-chromebook-x2-11-is-already-discounted-33-down-to-399/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
