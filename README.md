@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Verizon-branded LTE Chromebook is tipped to arrive](https://www.aboutchromebooks.com/news/a-verizon-branded-lte-chromebook-is-tipped-to-arrive/)
 - [Chrome OS 98 adds management of multiple Chromebook Linux containers](https://www.aboutchromebooks.com/news/chrome-os-98-adds-management-of-multiple-chromebook-linux-containers/)
 - [HP Chromebook x360 14c first impressions: Great build quality in a smallish high-performing package](https://www.aboutchromebooks.com/news/hp-chromebook-x360-14c-first-impressions-great-build-quality-in-a-smallish-high-performing-package/)
 - [2021 Chromebook Black Friday deals: Buy this, not that &lpar;Updated&rpar;](https://www.aboutchromebooks.com/news/2021-chromebook-black-friday-deals-buy-this-not-that/)
 - [Getting your first Chromebook? Here’s a buying guide. &lpar;Updated&rpar;](https://www.aboutchromebooks.com/news/getting-your-first-chromebook-buyers-guide-2021/)
-- [New Chromebook privacy feature already common to macOS and Windows PCs on the way](https://www.aboutchromebooks.com/news/new-chromebook-privacy-feature-already-common-to-macos-and-windows-pcs-on-the-way/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
