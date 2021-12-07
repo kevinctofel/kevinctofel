@@ -37,6 +37,9 @@ Here are some ideas to get you started:
 
 <br />
 
+### My FreeCodeCamp profile:
+[<img align ="left" alt="FreeCodeCamp" src="#" width "22px">](https://www.freecodecamp.org/fcc711379c0-b694-4072-b533-b9226036f6ea)
+
 ### Languages and Tools I've used:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
