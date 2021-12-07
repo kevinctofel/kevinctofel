@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My favorite hidden Chrome OS feature that you’re probably not using](https://www.aboutchromebooks.com/news/my-favorite-hidden-chrome-os-feature-that-youre-probably-not-using/)
 - [Why I have high hopes for Qualcomm Snapdragon 7c+ Gen 3 Chromebooks](https://www.aboutchromebooks.com/news/why-i-have-high-hopes-for-qualcomm-snapdragon-7c-gen-3-chromebooks/)
 - [Here’s how initial Chromebook performance will improve in a future Chrome OS update](https://www.aboutchromebooks.com/news/heres-how-initial-chromebook-performance-will-improve-in-a-future-chrome-os-update/)
 - [Holiday Giveaway: Lenovo IdeaPad 5 Chromebook 14 and Lenovo Smart Clock 2](https://www.aboutchromebooks.com/news/holiday-giveaway-lenovo-ideapad-5-chromebook-14-and-lenovo-smart-clock-2/)
 - [Chrome OS 98 may offer a glimpse at Steam gaming on Chromebooks](https://www.aboutchromebooks.com/news/chrome-os-98-may-offer-a-glimpse-at-steam-gaming-on-chromebooks/)
-- [A Verizon-branded LTE Chromebook is tipped to arrive](https://www.aboutchromebooks.com/news/a-verizon-branded-lte-chromebook-is-tipped-to-arrive/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
