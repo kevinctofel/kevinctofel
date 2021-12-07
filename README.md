@@ -38,7 +38,9 @@ Here are some ideas to get you started:
 <br />
 
 ### My FreeCodeCamp profile:
-[<img align ="left" alt="FreeCodeCamp" src="#" width "22px">](https://www.freecodecamp.org/fcc711379c0-b694-4072-b533-b9226036f6ea)
+[![image alt text](image url link)](anchor link)
+
+[![FreeCodeCamp profile](https://raw.githubusercontent.com/kevinctofel/kevinctofel/main/freecodecamp_logo_40x40.jpg)](https://www.freecodecamp.org/fcc711379c0-b694-4072-b533-b9226036f6ea)
 
 ### Languages and Tools I've used:
 
