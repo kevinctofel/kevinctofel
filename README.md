@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chrome OS notifications settings appear to be getting a revamp](https://www.aboutchromebooks.com/news/chrome-os-notifications-settings-appear-to-be-getting-a-revamp/)
 - [How to add Google side search in Chrome OS 96](https://www.aboutchromebooks.com/news/how-to-add-google-side-search-in-chrome-os-96/)
 - [Chrome OS 96 update arrives &lpar;again&rpar;: What you need to know](https://www.aboutchromebooks.com/news/chrome-os-96-update-arrives-again-what-you-need-to-know/)
 - [How secure is a Chromebook after it stops getting Chrome OS updates?](https://www.aboutchromebooks.com/news/how-secure-is-a-chromebook-after-it-stops-getting-chrome-os-updates/)
 - [What happened to the Chrome OS 96 update for Chromebooks? &lpar;Updated&rpar;](https://www.aboutchromebooks.com/news/what-happened-to-the-chrome-os-96-update-for-chromebooks/)
-- [Chrome OS 98 adds Chromebook snooping detection to watch your back](https://www.aboutchromebooks.com/news/chrome-os-98-adds-chromebook-snooping-detection-to-watch-your-back/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
