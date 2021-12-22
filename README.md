@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The $599 HP Chromebook x2 11 is discounted 33%: Down to $399 again](https://www.aboutchromebooks.com/news/the-599-hp-chromebook-x2-11-is-already-discounted-33-down-to-399/)
 - [Google wants developers to know that more people are using Android apps on Chromebooks](https://www.aboutchromebooks.com/news/google-wants-developers-to-know-that-more-people-are-using-android-apps-on-chromebooks/)
 - [Chrome OS notifications settings appear to be getting a revamp](https://www.aboutchromebooks.com/news/chrome-os-notifications-settings-appear-to-be-getting-a-revamp/)
 - [How to add Google side search in Chrome OS 96](https://www.aboutchromebooks.com/news/how-to-add-google-side-search-in-chrome-os-96/)
 - [Chrome OS 96 update arrives &lpar;again&rpar;: What you need to know](https://www.aboutchromebooks.com/news/chrome-os-96-update-arrives-again-what-you-need-to-know/)
-- [How secure is a Chromebook after it stops getting Chrome OS updates?](https://www.aboutchromebooks.com/news/how-secure-is-a-chromebook-after-it-stops-getting-chrome-os-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
