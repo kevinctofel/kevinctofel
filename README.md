@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Lenovo Duet 5 Chromebook stylus experience: Good with the right app](https://www.aboutchromebooks.com/news/the-lenovo-duet-5-chromebook-stylus-experience-good-with-the-right-app/)
 - [Asus Chromebook Flip CX3 first impressions: $979 for a power-sipping Core i7 and loaded internals packed in plastic](https://www.aboutchromebooks.com/news/asus-chromebook-flip-cx3-first-impressions-979-for-a-power-sipping-core-i7-and-loaded-internals-packed-in-plastic/)
 - [The $599 HP Chromebook x2 11 is discounted 33%: Down to $399 again](https://www.aboutchromebooks.com/news/the-599-hp-chromebook-x2-11-is-already-discounted-33-down-to-399/)
 - [Google wants developers to know that more people are using Android apps on Chromebooks](https://www.aboutchromebooks.com/news/google-wants-developers-to-know-that-more-people-are-using-android-apps-on-chromebooks/)
 - [Chrome OS notifications settings appear to be getting a revamp](https://www.aboutchromebooks.com/news/chrome-os-notifications-settings-appear-to-be-getting-a-revamp/)
-- [How to add Google side search in Chrome OS 96](https://www.aboutchromebooks.com/news/how-to-add-google-side-search-in-chrome-os-96/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
