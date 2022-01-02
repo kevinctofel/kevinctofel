@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HP Chromebook x360 14c review: Good performance priced a bit too high](https://www.aboutchromebooks.com/news/hp-chromebook-x360-14c-review-good-performance-priced-a-bit-too-high/)
 - [My pick for 2021 Chromebook of the year](https://www.aboutchromebooks.com/news/my-pick-for-2021-chromebook-of-the-year/)
 - [There’s a cheaper Lenovo Duet 5 Chromebook on sale for $399. Should you buy it?](https://www.aboutchromebooks.com/news/theres-a-cheaper-lenovo-duet-5-chromebook-on-sale-for-399-should-you-buy-it/)
 - [How to connect an iPhone to a Chromebook to move photos](https://www.aboutchromebooks.com/news/how-to-easily-move-iphone-photos-to-your-chromebook/)
 - [The Lenovo Duet 5 Chromebook stylus experience: Good with the right app](https://www.aboutchromebooks.com/news/the-lenovo-duet-5-chromebook-stylus-experience-good-with-the-right-app/)
-- [Asus Chromebook Flip CX3 first impressions: $979 for a power-sipping Core i7 and loaded internals packed in plastic](https://www.aboutchromebooks.com/news/asus-chromebook-flip-cx3-first-impressions-979-for-a-power-sipping-core-i7-and-loaded-internals-packed-in-plastic/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
