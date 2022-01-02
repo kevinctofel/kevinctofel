@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## I'm a 52 year old self-taught computer geek.
 
-- 🌱 I’m currently learning about [Human-Computer Interaction](http://omscs6750.gatech.edu/fall-2021/) at GA Tech 🤓
-- 🥅 2021 Goals: Finish my first graduate CS course with at least a B.
-- ⚡ Fun fact: I once ran at least a mile per day for 987 days in a row
+- 🌱 I’m currently working through orientation at [Launch School](http://www.launchschool.com) 🤓
+- 🥅 2022 Goals: Progress towards JavaScript mastery
+- ⚡ Fun facts: I once ran at least a mile per day for 987 days in a row, earned U.S. All American status at age 47 in the 400m (64.8 seconds) and have completed 4 marathons
 - 💬 Ask me about Chromebooks! 
 - 😄 Pronouns: He/him
 
