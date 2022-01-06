@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The HP Chromebook x2 11 sale is back: Down to $399 again](https://www.aboutchromebooks.com/news/hp-chromebook-x2-11-sale-discount/)
 - [Chrome OS Bluetooth Fast Pair, Android chat app streaming from Phone Hub coming to Chromebooks](https://www.aboutchromebooks.com/news/chrome-os-bluetooth-fast-pair-android-chat-app-streaming-from-phone-hub-coming-to-chromebooks/)
 - [The new AMD Ryzen 6000 chips would be great for Steam on Chromebooks](https://www.aboutchromebooks.com/news/the-new-amd-ryzen-6000-chips-would-be-great-for-steam-on-chromebooks/)
 - [Why the new Acer Chromebook Spin 513 could set the stage for 2022](https://www.aboutchromebooks.com/news/why-the-new-acer-chromebook-spin-513-could-set-the-stage-for-2022/)
 - [HP Chromebook x360 14c review: Good performance priced a bit too high](https://www.aboutchromebooks.com/news/hp-chromebook-x360-14c-review-good-performance-priced-a-bit-too-high/)
-- [My pick for 2021 Chromebook of the year](https://www.aboutchromebooks.com/news/my-pick-for-2021-chromebook-of-the-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
