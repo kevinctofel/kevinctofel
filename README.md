@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Asus Chromebook Flip CX5601 is a 16-inch convertible with 12th-gen Intel chips](https://www.aboutchromebooks.com/news/asus-chromebook-flip-cx5601-is-a-16-inch-convertible-with-12th-gen-intel-chips/)
+- [Asus Chromebook Flip CX5 / 5601 is a 16-inch convertible with 12th-gen Intel chips](https://www.aboutchromebooks.com/news/asus-chromebook-flip-cx5601-is-a-16-inch-convertible-with-12th-gen-intel-chips/)
 - [The HP Chromebook x2 11 sale is back: Down to $399 again](https://www.aboutchromebooks.com/news/hp-chromebook-x2-11-sale-discount/)
 - [Chrome OS Bluetooth Fast Pair, Android chat app streaming from Phone Hub coming to Chromebooks](https://www.aboutchromebooks.com/news/chrome-os-bluetooth-fast-pair-android-chat-app-streaming-from-phone-hub-coming-to-chromebooks/)
 - [The new AMD Ryzen 6000 chips would be great for Steam on Chromebooks](https://www.aboutchromebooks.com/news/the-new-amd-ryzen-6000-chips-would-be-great-for-steam-on-chromebooks/)
