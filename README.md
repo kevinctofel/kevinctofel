@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is the HP Elite Dragonfly Chromebook the new king for 2022?](https://www.aboutchromebooks.com/news/is-the-hp-elite-dragonfly-chromebook-the-new-king-for-2022/)
 - [You can nab the $659 HP Chromebook x360 14c for $539](https://www.aboutchromebooks.com/news/you-can-nab-the-659-hp-chromebook-x360-14c-for-539/)
 - [Chrome OS 97 Stable Channel arrives: What you need to know](https://www.aboutchromebooks.com/news/chrome-os-97-stable-channel-arrives-what-you-need-to-know/)
 - [Asus Chromebook Flip CX5 / 5601 is a 16-inch convertible with 12th-gen Intel chips](https://www.aboutchromebooks.com/news/asus-chromebook-flip-cx5601-is-a-16-inch-convertible-with-12th-gen-intel-chips/)
 - [The HP Chromebook x2 11 sale is back: Down to $399 again](https://www.aboutchromebooks.com/news/hp-chromebook-x2-11-sale-discount/)
-- [Chrome OS Bluetooth Fast Pair, Android chat app streaming from Phone Hub coming to Chromebooks](https://www.aboutchromebooks.com/news/chrome-os-bluetooth-fast-pair-android-chat-app-streaming-from-phone-hub-coming-to-chromebooks/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
