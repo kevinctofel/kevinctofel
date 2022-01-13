@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chrome OS 99 integrates Google Calendar events on the new calendar quick view](https://www.aboutchromebooks.com/news/chrome-os-99-integrates-google-calendar-events-on-the-new-calendar-quick-view/)
 - [What Chrome OS feedback would you give to Google?](https://www.aboutchromebooks.com/news/what-chrome-os-feedback-would-you-give-to-google/)
 - [Lenovo Duet 5 Chromebook sale drops the price down to $449](https://www.aboutchromebooks.com/news/lenovo-duet-5-chromebook-sale-drops-the-price-down-to-449/)
 - [Chromebook and iPhone user? Consider a third-party password manager.](https://www.aboutchromebooks.com/news/chromebook-and-iphone-user-consider-a-third-party-password-manager/)
 - [How to enable the on-device Chromebook grammar check in Chrome OS 97](https://www.aboutchromebooks.com/news/how-to-enable-the-on-device-chromebook-grammar-check-in-chrome-os-97/)
-- [Is the HP Elite Dragonfly Chromebook the new king for 2022?](https://www.aboutchromebooks.com/news/is-the-hp-elite-dragonfly-chromebook-the-new-king-for-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
