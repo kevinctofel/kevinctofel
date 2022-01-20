@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Clearing up confusion about the Chrome OS Self Share feature in Nearby Share](https://www.aboutchromebooks.com/news/clearing-up-confusion-about-the-chrome-os-self-share-feature-in-nearby-share/)
 - [HP Fortis Chromebooks for students debut, starting at $349](https://www.aboutchromebooks.com/news/hp-fortis-chromebooks-for-students-debut-starting-at-349/)
 - [Logitech Pen is a $65 USI stylus for Chromebooks in the classroom](https://www.aboutchromebooks.com/news/logitech-pen-is-a-65-usi-stylus-for-chromebooks-in-the-classroom/)
 - [Chrome OS 99 integrates Google Calendar events on the new calendar quick view](https://www.aboutchromebooks.com/news/chrome-os-99-integrates-google-calendar-events-on-the-new-calendar-quick-view/)
 - [What Chrome OS feedback would you give to Google?](https://www.aboutchromebooks.com/news/what-chrome-os-feedback-would-you-give-to-google/)
-- [Lenovo Duet 5 Chromebook sale drops the price down to $449](https://www.aboutchromebooks.com/news/lenovo-duet-5-chromebook-sale-drops-the-price-down-to-449/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
