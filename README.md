@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Asus Chromebook Flip CX3 review: Not the Core i7 laptop you were looking for](https://www.aboutchromebooks.com/news/asus-chromebook-flip-cx3-review-not-the-core-i7-laptop-you-were-looking-for/)
 - [Chrome OS change expected to bring 50% faster palm rejection on Chromebooks](https://www.aboutchromebooks.com/news/chrome-os-change-expected-to-bring-50-faster-palm-rejection-on-chromebooks/)
 - [Clearing up confusion about the Chrome OS Self Share feature in Nearby Share](https://www.aboutchromebooks.com/news/clearing-up-confusion-about-the-chrome-os-self-share-feature-in-nearby-share/)
 - [HP Fortis Chromebooks for students debut, starting at $349](https://www.aboutchromebooks.com/news/hp-fortis-chromebooks-for-students-debut-starting-at-349/)
 - [Logitech Pen is a $65 USI stylus for Chromebooks in the classroom](https://www.aboutchromebooks.com/news/logitech-pen-is-a-65-usi-stylus-for-chromebooks-in-the-classroom/)
-- [Chrome OS 99 integrates Google Calendar events on the new calendar quick view](https://www.aboutchromebooks.com/news/chrome-os-99-integrates-google-calendar-events-on-the-new-calendar-quick-view/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
