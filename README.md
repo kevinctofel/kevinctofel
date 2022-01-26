@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Specs of the MediaTek Kompanio 1380 for Chromebooks announced](https://www.aboutchromebooks.com/news/specs-of-the-mediatek-kompanio-1380-for-chromebooks-announced/)
+- [Specs of the MediaTek Kompanio 1380 for Chromebooks announced &lpar;updated&rpar;](https://www.aboutchromebooks.com/news/specs-of-the-mediatek-kompanio-1380-for-chromebooks-announced/)
 - [Is Google adding more Files app integration with Microsoft Office documents on Chromebooks?](https://www.aboutchromebooks.com/news/is-google-adding-more-files-app-integration-with-microsoft-office-documents-on-chromebooks/)
 - [4 new Acer Chromebooks for education debut, start at $349.99](https://www.aboutchromebooks.com/news/4-new-acer-chromebooks-for-education-debut-start-at-349-99/)
 - [Asus Chromebook Flip CX3 review: Not the Core i7 laptop you were looking for](https://www.aboutchromebooks.com/news/asus-chromebook-flip-cx3-review-not-the-core-i7-laptop-you-were-looking-for/)
