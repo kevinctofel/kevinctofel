@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My 2021 Chromebook of the year pick is on sale: $499 for the Acer Chromebook Spin 713](https://www.aboutchromebooks.com/news/my-2021-chromebook-of-the-year-pick-is-on-sale-499-for-the-acer-chromebook-spin-713/)
 - [Chromebook won’t print to an HP printer with Chrome OS 97? You’re not alone](https://www.aboutchromebooks.com/news/chromebook-wont-print-to-an-hp-printer-with-chrome-os-97-youre-not-alone/)
 - [Of course, Google gaming Chromebooks are planned: Look at the last 3 years](https://www.aboutchromebooks.com/news/of-course-google-gaming-chromebooks-are-planned-look-at-the-last-3-years/)
 - [Lenovo Duet 5 Chromebook sale drops the price down to $449](https://www.aboutchromebooks.com/news/lenovo-duet-5-chromebook-sale-drops-the-price-down-to-449/)
 - [Specs of the MediaTek Kompanio 1380 for Chromebooks announced &lpar;updated&rpar;](https://www.aboutchromebooks.com/news/specs-of-the-mediatek-kompanio-1380-for-chromebooks-announced/)
-- [Is Google adding more Files app integration with Microsoft Office documents on Chromebooks?](https://www.aboutchromebooks.com/news/is-google-adding-more-files-app-integration-with-microsoft-office-documents-on-chromebooks/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
