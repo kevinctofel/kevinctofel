@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [Fix for the Chrome OS 97 printer bug on ARM Chromebooks is found](https://www.aboutchromebooks.com/news/fix-for-the-chrome-os-97-printer-bug-on-arm-chromebooks-is-found/)
 - [My 2021 Chromebook of the year pick is on sale: $499 for the Acer Chromebook Spin 713](https://www.aboutchromebooks.com/news/my-2021-chromebook-of-the-year-pick-is-on-sale-499-for-the-acer-chromebook-spin-713/)
-- [Chromebook won’t print to an HP printer with Chrome OS 97? You’re not alone](https://www.aboutchromebooks.com/news/chromebook-wont-print-to-an-hp-printer-with-chrome-os-97-youre-not-alone/)
+- [Chromebook won’t print to an HP printer with Chrome OS 97? You’re not alone &lpar;updated&rpar;](https://www.aboutchromebooks.com/news/chromebook-wont-print-to-an-hp-printer-with-chrome-os-97-youre-not-alone/)
 - [Of course, Google gaming Chromebooks are planned: Look at the last 3 years](https://www.aboutchromebooks.com/news/of-course-google-gaming-chromebooks-are-planned-look-at-the-last-3-years/)
 - [Lenovo Duet 5 Chromebook sale drops the price down to $449](https://www.aboutchromebooks.com/news/lenovo-duet-5-chromebook-sale-drops-the-price-down-to-449/)
 <!-- BLOG-POST-LIST:END -->
