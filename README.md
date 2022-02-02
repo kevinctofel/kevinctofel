@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to change the zoom levels in Android apps on a Chromebook for easier reading](https://www.aboutchromebooks.com/news/how-to-change-the-zoom-levels-in-android-apps-on-a-chromebook-for-easier-reading/)
 - [User-controlled Chromebook screen brightness power management Settings on the way?](https://www.aboutchromebooks.com/news/user-controlled-chromebook-screen-brightness-power-management-settings-on-the-way/)
 - [Fix for the Chrome OS 97 printer bug on ARM Chromebooks is found](https://www.aboutchromebooks.com/news/fix-for-the-chrome-os-97-printer-bug-on-arm-chromebooks-is-found/)
 - [My 2021 Chromebook of the year pick is on sale: $499 for the Acer Chromebook Spin 713](https://www.aboutchromebooks.com/news/my-2021-chromebook-of-the-year-pick-is-on-sale-499-for-the-acer-chromebook-spin-713/)
 - [Chromebook won’t print to an HP printer with Chrome OS 97? You’re not alone &lpar;updated&rpar;](https://www.aboutchromebooks.com/news/chromebook-wont-print-to-an-hp-printer-with-chrome-os-97-youre-not-alone/)
-- [Of course, Google gaming Chromebooks are planned: Look at the last 3 years](https://www.aboutchromebooks.com/news/of-course-google-gaming-chromebooks-are-planned-look-at-the-last-3-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
