@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Now available: Acer Chromebook 514 with MediaTek Kompanio 828](https://www.aboutchromebooks.com/news/now-available-acer-chromebook-514-with-mediatek-kompanio-828/)
+- [Now available: New Acer Chromebook 514 with MediaTek Kompanio 828](https://www.aboutchromebooks.com/news/now-available-acer-chromebook-514-with-mediatek-kompanio-828/)
 - [How to change the zoom levels in Android apps on a Chromebook for easier reading](https://www.aboutchromebooks.com/news/how-to-change-the-zoom-levels-in-android-apps-on-a-chromebook-for-easier-reading/)
 - [User-controlled Chromebook screen brightness power management Settings on the way?](https://www.aboutchromebooks.com/news/user-controlled-chromebook-screen-brightness-power-management-settings-on-the-way/)
 - [Fix for the Chrome OS 97 printer bug on ARM Chromebooks is found](https://www.aboutchromebooks.com/news/fix-for-the-chrome-os-97-printer-bug-on-arm-chromebooks-is-found/)
