@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google helps teachers pick Chromebooks, adds student-led Chromebook repair program](https://www.aboutchromebooks.com/news/google-helps-teachers-pick-chromebooks-adds-student-led-chromebook-repair-program/)
 - [Now available: New Acer Chromebook 514 with MediaTek Kompanio 828](https://www.aboutchromebooks.com/news/now-available-acer-chromebook-514-with-mediatek-kompanio-828/)
 - [How to change the zoom levels in Android apps on a Chromebook for easier reading](https://www.aboutchromebooks.com/news/how-to-change-the-zoom-levels-in-android-apps-on-a-chromebook-for-easier-reading/)
 - [User-controlled Chromebook screen brightness power management Settings on the way?](https://www.aboutchromebooks.com/news/user-controlled-chromebook-screen-brightness-power-management-settings-on-the-way/)
 - [Fix for the Chrome OS 97 printer bug on ARM Chromebooks is found](https://www.aboutchromebooks.com/news/fix-for-the-chrome-os-97-printer-bug-on-arm-chromebooks-is-found/)
-- [My 2021 Chromebook of the year pick is on sale: $499 for the Acer Chromebook Spin 713](https://www.aboutchromebooks.com/news/my-2021-chromebook-of-the-year-pick-is-on-sale-499-for-the-acer-chromebook-spin-713/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
