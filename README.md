@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chrome OS 98 Stable Channel arrives: What you need to know](https://www.aboutchromebooks.com/news/chrome-os-98-stable-channel-arrives-what-you-need-to-know/)
 - [Chrome OS 100 lets you open events from the Calendar quick settings](https://www.aboutchromebooks.com/news/chrome-os-100-lets-you-open-events-from-the-calendar-quick-settings/)
 - [Microsoft Surface Laptop SE vs Chromebooks: A limited but capable competitor](https://www.aboutchromebooks.com/news/microsoft-surface-laptop-se-vs-chromebooks-a-limited-but-capable-competitor/)
 - [How to revert Chrome OS to a prior version on a Chromebook](https://www.aboutchromebooks.com/news/how-to-revert-chrome-os-to-a-prior-version-on-a-chromebook/)
 - [Google helps teachers pick Chromebooks, adds student-led Chromebook repair program](https://www.aboutchromebooks.com/news/google-helps-teachers-pick-chromebooks-adds-student-led-chromebook-repair-program/)
-- [Now available: New Acer Chromebook 514 with MediaTek Kompanio 828](https://www.aboutchromebooks.com/news/now-available-acer-chromebook-514-with-mediatek-kompanio-828/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
