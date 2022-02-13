@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I’m still using a Chromebook from 2018 as my daily driver](https://www.aboutchromebooks.com/news/why-im-still-using-a-chromebook-from-2018-as-my-daily-driver/)
 - [If the new Samsung Galaxy Tab S8 could run Chrome OS, it would be awesome](https://www.aboutchromebooks.com/news/why-doesnt-the-new-samsung-galaxy-tab-s8-run-chrome-os/)
 - [Chrome OS 98 Stable Channel arrives: What you need to know](https://www.aboutchromebooks.com/news/chrome-os-98-stable-channel-arrives-what-you-need-to-know/)
 - [Chrome OS 100 lets you open events from the Calendar quick settings](https://www.aboutchromebooks.com/news/chrome-os-100-lets-you-open-events-from-the-calendar-quick-settings/)
 - [Microsoft Surface Laptop SE vs Chromebooks: A limited but capable competitor](https://www.aboutchromebooks.com/news/microsoft-surface-laptop-se-vs-chromebooks-a-limited-but-capable-competitor/)
-- [How to revert Chrome OS to a prior version on a Chromebook](https://www.aboutchromebooks.com/news/how-to-revert-chrome-os-to-a-prior-version-on-a-chromebook/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
