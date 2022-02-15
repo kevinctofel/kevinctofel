@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chrome OS Flex turns PCs and Macs into Chromebooks](https://www.aboutchromebooks.com/news/chrome-os-flex-turns-pcs-and-macs-into-chromebooks/)
 - [16″ Asus Chromebook Flip CX5 full specs arrive](https://www.aboutchromebooks.com/news/16-asus-chromebook-flip-cx5-full-specs-arrive/)
 - [Why I’m still using a Chromebook from 2018 as my daily driver](https://www.aboutchromebooks.com/news/why-im-still-using-a-chromebook-from-2018-as-my-daily-driver/)
 - [If the new Samsung Galaxy Tab S8 could run Chrome OS, it would be awesome](https://www.aboutchromebooks.com/news/why-doesnt-the-new-samsung-galaxy-tab-s8-run-chrome-os/)
 - [Chrome OS 98 Stable Channel arrives: What you need to know](https://www.aboutchromebooks.com/news/chrome-os-98-stable-channel-arrives-what-you-need-to-know/)
-- [Chrome OS 100 lets you open events from the Calendar quick settings](https://www.aboutchromebooks.com/news/chrome-os-100-lets-you-open-events-from-the-calendar-quick-settings/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
