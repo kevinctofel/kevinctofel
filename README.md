@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chrome OS 100 brings the first look at animated screensavers for Chromebooks](https://www.aboutchromebooks.com/news/chrome-os-100-brings-the-first-look-at-animated-screensavers-for-chromebooks/)
 - [Chrome OS Flex isn’t the solution for Chromebooks past their software support date](https://www.aboutchromebooks.com/news/chrome-os-flex-isnt-the-solution-for-chromebooks-past-their-software-support-date/)
 - [Chrome OS Flex turns PCs and Macs into Chromebooks](https://www.aboutchromebooks.com/news/chrome-os-flex-turns-pcs-and-macs-into-chromebooks/)
 - [16″ Asus Chromebook Flip CX5 full specs arrive](https://www.aboutchromebooks.com/news/16-asus-chromebook-flip-cx5-full-specs-arrive/)
 - [Why I’m still using a Chromebook from 2018 as my daily driver](https://www.aboutchromebooks.com/news/why-im-still-using-a-chromebook-from-2018-as-my-daily-driver/)
-- [If the new Samsung Galaxy Tab S8 could run Chrome OS, it would be awesome](https://www.aboutchromebooks.com/news/why-doesnt-the-new-samsung-galaxy-tab-s8-run-chrome-os/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
