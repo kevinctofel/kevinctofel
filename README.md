@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How this $16 Chromebook accessory boosts performance and comfort](https://www.aboutchromebooks.com/news/how-this-16-chromebook-accessory-boosts-performance-and-comfort/)
 - [Chromebook how-to: Drag and drop apps from Launcher to the System Tray](https://www.aboutchromebooks.com/news/chromebook-how-to-drag-and-drop-apps-from-launcher-to-the-system-tray/)
 - [Steam gaming on Chromebooks likely limited to 2020 and up models](https://www.aboutchromebooks.com/news/steam-gaming-on-chromebooks-hardware-requirements/)
 - [Chrome OS 100 brings the first look at animated screensavers for Chromebooks](https://www.aboutchromebooks.com/news/chrome-os-100-brings-the-first-look-at-animated-screensavers-for-chromebooks/)
 - [Chrome OS Flex isn’t the solution for Chromebooks past their software support date](https://www.aboutchromebooks.com/news/chrome-os-flex-isnt-the-solution-for-chromebooks-past-their-software-support-date/)
-- [Chrome OS Flex turns PCs and Macs into Chromebooks](https://www.aboutchromebooks.com/news/chrome-os-flex-turns-pcs-and-macs-into-chromebooks/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
