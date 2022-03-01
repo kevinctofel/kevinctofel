@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lacros in Chrome OS 100 is a pretty capable Chromebook experience](https://www.aboutchromebooks.com/news/lacros-in-chrome-os-100-is-a-pretty-capable-chromebook-experience/)
 - [Lenovo Duet 3 Chromebook is a $399 successor to my 2020 Chromebook of the year](https://www.aboutchromebooks.com/news/lenovo-duet-3-chromebook-is-a-399-successor-to-my-2020-chromebook-of-the-year/)
 - [HP Elite Dragonfly Chromebook cost might be higher than you think](https://www.aboutchromebooks.com/news/hp-elite-dragonfly-chromebook-cost/)
 - [Steam Deck reviews tell you much about Steam gaming on Chromebooks](https://www.aboutchromebooks.com/news/steam-deck-reviews-tell-you-much-about-steam-gaming-on-chromebooks/)
 - [Lenovo Duet 5 Chromebook discounted by $100: A great deal for $399](https://www.aboutchromebooks.com/news/lenovo-duet-5-chromebook-discounted-by-100-a-great-deal-for-399/)
-- [How this $16 Chromebook accessory boosts performance and comfort](https://www.aboutchromebooks.com/news/how-this-16-chromebook-accessory-boosts-performance-and-comfort/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
