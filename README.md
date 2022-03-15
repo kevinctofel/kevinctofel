@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HP Chromebase AIO 21.5 unboxing and first look](https://www.aboutchromebooks.com/news/hp-chromebase-aio-21-5-unboxing-and-first-look/)
 - [Lenovo Chromebook Flex 5i discounted down to $349.99 &lpar;$200 off MSRP&rpar;](https://www.aboutchromebooks.com/news/lenovo-chromebook-flex-5i-discounted-down-to-349-99-200-off-msrp/)
 - [Behold the Chrome OS 101 dark Chromebook boot screen that no longer blinds you!](https://www.aboutchromebooks.com/news/behold-the-chrome-os-101-dark-chromebook-boot-screen-that-no-longer-blinds-you/)
 - [Chromebook owners will get to disable automatic Chrome OS updates. YES!](https://www.aboutchromebooks.com/news/chromebook-owners-will-get-to-disable-automatic-chrome-os-updates-yes/)
 - [Lacros in Chrome OS 100 is a pretty capable Chromebook experience](https://www.aboutchromebooks.com/news/lacros-in-chrome-os-100-is-a-pretty-capable-chromebook-experience/)
-- [Lenovo Duet 3 Chromebook is a $399 successor to my 2020 Chromebook of the year](https://www.aboutchromebooks.com/news/lenovo-duet-3-chromebook-is-a-399-successor-to-my-2020-chromebook-of-the-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
