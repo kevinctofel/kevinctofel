@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to find your Chromebook board name &lpar;and why you want to&rpar;](https://www.aboutchromebooks.com/news/how-to-find-your-chromebook-board-name-and-why-you-want-to/)
 - [Chrome OS 101 adds support for variable refresh rates on Chromebook displays](https://www.aboutchromebooks.com/news/chrome-os-101-adds-support-for-variable-refresh-rates-on-chromebook-displays/)
 - [How finding optimized Android apps on Chromebooks will get easier](https://www.aboutchromebooks.com/news/how-finding-optimized-android-apps-on-chromebooks-will-get-easier/)
 - [HP Chromebase AIO 21.5 unboxing and first look](https://www.aboutchromebooks.com/news/hp-chromebase-aio-21-5-unboxing-and-first-look/)
 - [Lenovo Chromebook Flex 5i discounted down to $349.99 &lpar;$200 off MSRP&rpar;](https://www.aboutchromebooks.com/news/lenovo-chromebook-flex-5i-discounted-down-to-349-99-200-off-msrp/)
-- [Behold the Chrome OS 101 dark Chromebook boot screen that no longer blinds you!](https://www.aboutchromebooks.com/news/behold-the-chrome-os-101-dark-chromebook-boot-screen-that-no-longer-blinds-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
