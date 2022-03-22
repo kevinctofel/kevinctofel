@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Highest-end HP Chromebase sees a $100 discount: $669.99 for Core i3, 16 GB of memory](https://www.aboutchromebooks.com/news/highest-end-hp-chromebase-sees-a-100-discount-669-99-for-core-i3-16-gb-of-memory/)
 - [Lenovo Chromebook Flex 5i discounted down to $299.99 &lpar;Updated&rpar;](https://www.aboutchromebooks.com/news/lenovo-chromebook-flex-5i-discounted-down-to-349-99-200-off-msrp/)
 - [How to find your Chromebook board name &lpar;and why you want to&rpar;](https://www.aboutchromebooks.com/news/how-to-find-your-chromebook-board-name-and-why-you-want-to/)
 - [Chrome OS 101 adds support for variable refresh rates on Chromebook displays](https://www.aboutchromebooks.com/news/chrome-os-101-adds-support-for-variable-refresh-rates-on-chromebook-displays/)
 - [How finding optimized Android apps on Chromebooks will get easier](https://www.aboutchromebooks.com/news/how-finding-optimized-android-apps-on-chromebooks-will-get-easier/)
-- [HP Chromebase AIO 21.5 unboxing and first look](https://www.aboutchromebooks.com/news/hp-chromebase-aio-21-5-unboxing-and-first-look/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
