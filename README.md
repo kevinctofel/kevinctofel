@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The HP Chromebook x2 11 sale is back: Down to $349 from $599](https://www.aboutchromebooks.com/news/hp-chromebook-x2-11-sale-discount/)
 - [Samsung Galaxy Chromebook 2 360 is an education-focused laptop with odd specs](https://www.aboutchromebooks.com/news/samsung-galaxy-chromebook-2-360/)
 - [Chrome OS virtual desks are getting a useful upgrade](https://www.aboutchromebooks.com/news/chrome-os-virtual-desks-are-getting-a-useful-upgrade/)
 - [Snapdragon 8cx Chromebooks could be coming, but not soon](https://www.aboutchromebooks.com/news/snapdragon-8cx-chromebooks-could-be-coming-but-not-soon/)
 - [Steam launches on Chromebooks: What you need to know](https://www.aboutchromebooks.com/news/steam-launches-on-chromebooks-what-you-need-to-know/)
-- [Highest-end HP Chromebase sees a $100 discount: $669.99 for Core i3, 16 GB of memory](https://www.aboutchromebooks.com/news/highest-end-hp-chromebase-sees-a-100-discount-669-99-for-core-i3-16-gb-of-memory/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
