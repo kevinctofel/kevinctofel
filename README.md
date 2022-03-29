@@ -68,11 +68,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Which printers work with Chromebooks? Here’s a resource.](https://www.aboutchromebooks.com/news/which-printers-work-with-chromebooks-heres-a-resource/)
 - [Google Chrome zero-day bug update shows the benefit of Lacros on a Chromebook](https://www.aboutchromebooks.com/news/google-chrome-zero-day-bug-update-shows-the-benefit-of-lacros-on-a-chromebook/)
 - [How to upgrade Linux on a Chromebook to Debian Bullseye 11.3](https://www.aboutchromebooks.com/news/how-to-upgrade-linux-on-a-chromebook-to-debian-bullseye-11-3/)
 - [Lenovo Duet 5 Chromebook discounted by $100: A great deal for $399](https://www.aboutchromebooks.com/news/lenovo-duet-5-chromebook-discounted-by-100-a-great-deal-for-399/)
 - [The Chromebook fingerprint sensor needs to do more](https://www.aboutchromebooks.com/news/the-chromebook-fingerprint-sensor-needs-to-do-more/)
-- [The HP Chromebook x2 11 sale is back: Down to $349 from $599](https://www.aboutchromebooks.com/news/hp-chromebook-x2-11-sale-discount/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
