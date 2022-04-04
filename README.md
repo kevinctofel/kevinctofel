@@ -68,11 +68,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Chrome side panel getting private user notes and Read  Anywhere to replace Reader Mode](https://www.aboutchromebooks.com/news/google-chrome-side-panel-getting-private-user-notes-and-read-anywhere-to-replace-reader-mode/)
 - [HP Chromebase 21.5 review: A well designed and enjoyable Chrome OS desktop](https://www.aboutchromebooks.com/news/hp-chromebase-21-5-review-a-well-designed-and-enjoyable-chrome-os-desktop/)
 - [I want my next Chromebook stylus to have what Dell put in its pen](https://www.aboutchromebooks.com/news/i-want-my-next-chromebook-stylus-to-have-what-dell-put-in-its-pen/)
 - [As Lacros for Chromebooks nears, is it time for more Google Chrome coverage?](https://www.aboutchromebooks.com/news/as-lacros-for-chromebooks-nears-is-it-time-for-more-google-chrome-coverage/)
 - [Google Chrome OS 100 is coming soon: New Launcher, GIF creation, and more](https://www.aboutchromebooks.com/news/google-chrome-os-100-is-coming-soon-new-launcher-gif-creation-and-more/)
-- [Which printers work with Chromebooks? Here’s a resource.](https://www.aboutchromebooks.com/news/which-printers-work-with-chromebooks-heres-a-resource/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
