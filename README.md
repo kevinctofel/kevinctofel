@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Some Chromebook cameras not working after a recent Chrome OS update](https://www.aboutchromebooks.com/news/some-chromebook-cameras-not-working-after-a-recent-chrome-os-update/)
+- [Some Chromebook cameras not working after a recent Chrome OS update &lpar;Updated&rpar;](https://www.aboutchromebooks.com/news/some-chromebook-cameras-not-working-after-a-recent-chrome-os-update/)
 - [Google Chrome Browser Cloud Management now works with Android and iPhones](https://www.aboutchromebooks.com/news/google-chrome-browser-cloud-management-now-works-with-android-and-iphones/)
 - [Google Chrome side panel getting private user notes and Read  Anywhere to replace Reader Mode](https://www.aboutchromebooks.com/news/google-chrome-side-panel-getting-private-user-notes-and-read-anywhere-to-replace-reader-mode/)
 - [HP Chromebase 21.5 review: A well designed and enjoyable Chrome OS desktop](https://www.aboutchromebooks.com/news/hp-chromebase-21-5-review-a-well-designed-and-enjoyable-chrome-os-desktop/)
