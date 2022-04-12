@@ -68,11 +68,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This small Google Chrome OS 102 change brings a huge benefit](https://www.aboutchromebooks.com/news/this-small-google-chrome-os-102-change-brings-a-huge-benefit/)
 - [HP Elite Dragonfly Chromebook Enterprise shows up with a $2,165 price tag](https://www.aboutchromebooks.com/news/hp-elite-dragonfly-chromebook-enterprise-shows-up-with-a-2165-price-tag/)
 - [Chrome OS 100 update fixes some Chromebook cameras](https://www.aboutchromebooks.com/news/chrome-os-100-update-fixes-some-chromebook-cameras/)
 - [Chrome OS adds Stability to the three core principles of Speed, Simplicity and Security](https://www.aboutchromebooks.com/news/chrome-os-adds-stability-to-the-three-core-principles-of-speed-simplicity-and-security/)
 - [Some Chromebook cameras not working after a recent Chrome OS update &lpar;Updated&rpar;](https://www.aboutchromebooks.com/news/some-chromebook-cameras-not-working-after-a-recent-chrome-os-update/)
-- [Google Chrome Browser Cloud Management now works with Android and iPhones](https://www.aboutchromebooks.com/news/google-chrome-browser-cloud-management-now-works-with-android-and-iphones/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
