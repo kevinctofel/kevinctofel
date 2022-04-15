@@ -68,11 +68,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung Galaxy Chromebook 2 360 now available for $429.99](https://www.aboutchromebooks.com/news/samsung-galaxy-chromebook-2-360-now-available-for-429-99/)
 - [You can now order an HP Elite Dragonfly Chromebook but…](https://www.aboutchromebooks.com/news/you-can-now-order-an-hp-elite-dragonfly-chromebook-but/)
 - [5 great Google Chrome Web Store extensions for your Chromebook](https://www.aboutchromebooks.com/news/5-great-google-chrome-web-store-extensions-for-your-chromebook/)
 - [This small Google Chrome OS 102 change brings a huge benefit](https://www.aboutchromebooks.com/news/this-small-google-chrome-os-102-change-brings-a-huge-benefit/)
 - [HP Elite Dragonfly Chromebook Enterprise shows up with a $2,165 price tag](https://www.aboutchromebooks.com/news/hp-elite-dragonfly-chromebook-enterprise-shows-up-with-a-2165-price-tag/)
-- [Chrome OS 100 update fixes some Chromebook cameras](https://www.aboutchromebooks.com/news/chrome-os-100-update-fixes-some-chromebook-cameras/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
