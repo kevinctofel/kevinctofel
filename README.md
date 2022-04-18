@@ -68,11 +68,11 @@ Here are some ideas to get you started:
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Asus Chromebook Flip CX1 availability with Jasper Lake is likely near](https://www.aboutchromebooks.com/news/asus-chromebook-flip-cx1-availability-with-jasper-lake-is-likely-near/)
 - [HP Chromebook x2 11 is discounted to half-price: $299 for a Chrome OS tablet](https://www.aboutchromebooks.com/news/hp-chromebook-x2-11-is-discounted-to-half-price-299-for-a-chrome-os-tablet/)
 - [Samsung Galaxy Chromebook 2 360 now available for $429.99](https://www.aboutchromebooks.com/news/samsung-galaxy-chromebook-2-360-now-available-for-429-99/)
 - [You can now order an HP Elite Dragonfly Chromebook but…](https://www.aboutchromebooks.com/news/you-can-now-order-an-hp-elite-dragonfly-chromebook-but/)
 - [5 great Google Chrome Web Store extensions for your Chromebook](https://www.aboutchromebooks.com/news/5-great-google-chrome-web-store-extensions-for-your-chromebook/)
-- [This small Google Chrome OS 102 change brings a huge benefit](https://www.aboutchromebooks.com/news/this-small-google-chrome-os-102-change-brings-a-huge-benefit/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
