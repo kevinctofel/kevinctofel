@@ -62,11 +62,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to connect an iPhone to a Chromebook to move photos](https://www.aboutchromebooks.com/news/how-to-easily-move-iphone-photos-to-your-chromebook/)
 - [This Google Chrome tip shows you more browser bookmarks at once](https://www.aboutchromebooks.com/news/this-google-chrome-tip-shows-you-more-browser-bookmarks-at-once/)
 - [Asus Chromebook Flip CX1 availability with Jasper Lake is likely near](https://www.aboutchromebooks.com/news/asus-chromebook-flip-cx1-availability-with-jasper-lake-is-likely-near/)
 - [HP Chromebook x2 11 is discounted to half-price: $299 for a Chrome OS tablet](https://www.aboutchromebooks.com/news/hp-chromebook-x2-11-is-discounted-to-half-price-299-for-a-chrome-os-tablet/)
 - [Samsung Galaxy Chromebook 2 360 now available for $429.99](https://www.aboutchromebooks.com/news/samsung-galaxy-chromebook-2-360-now-available-for-429-99/)
-- [You can now order an HP Elite Dragonfly Chromebook but…](https://www.aboutchromebooks.com/news/you-can-now-order-an-hp-elite-dragonfly-chromebook-but/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
