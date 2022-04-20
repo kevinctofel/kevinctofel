@@ -2,17 +2,6 @@
 
 <!--
 **kevinctofel/kevinctofel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 # Kevin C. Tofel
@@ -27,6 +16,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about Chromebooks! 
 - 😄 Pronouns: He/him
 
+### My Helium hotspot
+
+[<img align="left" alt="Helium network logo" width="50px" src="https://github.com/kevinctofel/kevinctofel/blob/main/Helium%20hotspot.jpg" />](https://explorer.helium.com/hotspots/11MXnz4pSzQgCAnPQpxD75Wi5XAJLwm6o2APdtgj91Vc2inzMX7)
+<br />
+<br>
 ### Connect with me:
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kevinctofel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=kevinctofel)
