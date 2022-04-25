@@ -62,11 +62,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to search for saved passwords on a Chromebook](https://www.aboutchromebooks.com/news/how-to-search-for-saved-passwords-on-a-chromebook/)
 - [New Chromebook user? Learn to use Chrome OS with this simulator](https://www.aboutchromebooks.com/news/new-chromebook-user-learn-to-use-chrome-os-with-this-simulator/)
 - [HP Chromebook x2 11 is discounted to half-price: $299 for a Chrome OS tablet &lpar;Updated&rpar;](https://www.aboutchromebooks.com/news/hp-chromebook-x2-11-is-discounted-to-half-price-299-for-a-chrome-os-tablet/)
 - [Zoom PWA for Chromebook gains blur and virtual backgrounds](https://www.aboutchromebooks.com/news/zoom-pwa-for-chromebook-gains-blur-and-virtual-backgrounds/)
 - [Chromebook users: Look for these new badges in the Google Chrome Web Store](https://www.aboutchromebooks.com/news/chromebook-users-look-for-these-new-badges-in-the-google-chrome-web-store/)
-- [How to connect an iPhone to a Chromebook to move photos](https://www.aboutchromebooks.com/news/how-to-easily-move-iphone-photos-to-your-chromebook/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
