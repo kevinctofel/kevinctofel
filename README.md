@@ -62,7 +62,7 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Chrome OS Diagnostics app gains some new tricks](https://www.aboutchromebooks.com/news/google-chrome-os-diagnostics-app-gains-some-new-tricks/)
+- [Chrome OS Diagnostics app gains some new tricks](https://www.aboutchromebooks.com/news/google-chrome-os-diagnostics-app-gains-some-new-tricks/)
 - [Google Chrome 101 arrives with password notes feature in tow](https://www.aboutchromebooks.com/news/google-chrome-101-arrives-with-password-notes-feature-in-tow/)
 - [Lenovo IdeaPad Flex 3 is a 15.6″ Chromebook with Jasper Lake](https://www.aboutchromebooks.com/news/lenovo-ideapad-flex-3-is-a-15-6-chromebook-with-jasper-lake/)
 - [Lenovo Duet 5 Chromebook discounted by $100: A great deal for $399](https://www.aboutchromebooks.com/news/lenovo-duet-5-chromebook-discounted-by-100-a-great-deal-for-399/)
