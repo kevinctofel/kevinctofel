@@ -62,11 +62,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to reorder browser tabs with your Chromebook keyboard](https://www.aboutchromebooks.com/news/how-to-reorder-browser-tabs-with-your-chromebook-keyboard/)
 - [Here’s a look at the Chrome OS Personalization Hub on Chromebooks](https://www.aboutchromebooks.com/news/heres-a-lookt-at-the-chrome-os-personalization-hub-on-chromebooks/)
 - [How to view your internal Chrome OS engagement metrics](https://www.aboutchromebooks.com/news/how-to-view-your-internal-chrome-os-engagement-metrics/)
 - [Chrome OS Diagnostics app gains some new tricks](https://www.aboutchromebooks.com/news/google-chrome-os-diagnostics-app-gains-some-new-tricks/)
 - [Google Chrome 101 arrives with password notes feature in tow](https://www.aboutchromebooks.com/news/google-chrome-101-arrives-with-password-notes-feature-in-tow/)
-- [Lenovo IdeaPad Flex 3 is a 15.6″ Chromebook with Jasper Lake](https://www.aboutchromebooks.com/news/lenovo-ideapad-flex-3-is-a-15-6-chromebook-with-jasper-lake/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
