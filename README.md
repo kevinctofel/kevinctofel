@@ -62,11 +62,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lenovo Duet 5 Chromebook drops to all-time low price: $379.99](https://www.aboutchromebooks.com/news/lenovo-duet-5-chromebook-drops-to-all-time-low-price-379-99/)
 - [HP has a new pair of enterprise Chromebooks, bundled with Parallels Desktop](https://www.aboutchromebooks.com/news/hp-has-a-new-pair-of-enterprise-chromebooks-bundled-with-parallels-desktop/)
 - [2022 Acer Chromebook Spin 514 is powered by AMD Zen 3 chips](https://www.aboutchromebooks.com/news/2022-acer-chromebook-spin-514-is-powered-by-amd-zen-3-chips/)
 - [The HP Elite Dragonfly Chromebook consumer version starts at $1,149](https://www.aboutchromebooks.com/news/the-hp-elite-dragonfly-chromebook-consumer-version-starts-at-1149/)
 - [HP Elite Dragonfly Chromebook price slashed by $911](https://www.aboutchromebooks.com/news/hp-elite-dragonfly-chromebook-price-slashed-by-911/)
-- [How to reorder browser tabs with your Chromebook keyboard](https://www.aboutchromebooks.com/news/how-to-reorder-browser-tabs-with-your-chromebook-keyboard/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
