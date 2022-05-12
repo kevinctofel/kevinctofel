@@ -62,7 +62,7 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Full HP Elite Dragonfly Chromebook specs of the $1,149 model appear sans haptic trackpad](https://www.aboutchromebooks.com/news/full-hp-elite-dragonfly-chromebook-specs-of-the-1149-model-appear-sans-haptic-trackpad/)
+- [HP Elite Dragonfly Chromebook specs of $1,149 model appear, sans haptic trackpad](https://www.aboutchromebooks.com/news/full-hp-elite-dragonfly-chromebook-specs-of-the-1149-model-appear-sans-haptic-trackpad/)
 - [Chrome OS 101 update arrives: What you need to know](https://www.aboutchromebooks.com/news/google-chrome-os-101-update-arrives-what-you-need-to-know/)
 - [Lenovo Duet 5 Chromebook drops to all-time low price: $379.99](https://www.aboutchromebooks.com/news/lenovo-duet-5-chromebook-drops-to-all-time-low-price-379-99/)
 - [HP has a new pair of enterprise Chromebooks, bundled with Parallels Desktop](https://www.aboutchromebooks.com/news/hp-has-a-new-pair-of-enterprise-chromebooks-bundled-with-parallels-desktop/)
