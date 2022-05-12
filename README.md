@@ -62,11 +62,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Full HP Elite Dragonfly Chromebook specs of the $1,149 model appear sans haptic trackpad](https://www.aboutchromebooks.com/news/full-hp-elite-dragonfly-chromebook-specs-of-the-1149-model-appear-sans-haptic-trackpad/)
 - [Chrome OS 101 update arrives: What you need to know](https://www.aboutchromebooks.com/news/google-chrome-os-101-update-arrives-what-you-need-to-know/)
 - [Lenovo Duet 5 Chromebook drops to all-time low price: $379.99](https://www.aboutchromebooks.com/news/lenovo-duet-5-chromebook-drops-to-all-time-low-price-379-99/)
 - [HP has a new pair of enterprise Chromebooks, bundled with Parallels Desktop](https://www.aboutchromebooks.com/news/hp-has-a-new-pair-of-enterprise-chromebooks-bundled-with-parallels-desktop/)
 - [2022 Acer Chromebook Spin 514 is powered by AMD Zen 3 chips](https://www.aboutchromebooks.com/news/2022-acer-chromebook-spin-514-is-powered-by-amd-zen-3-chips/)
-- [The HP Elite Dragonfly Chromebook consumer version starts at $1,149](https://www.aboutchromebooks.com/news/the-hp-elite-dragonfly-chromebook-consumer-version-starts-at-1149/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
