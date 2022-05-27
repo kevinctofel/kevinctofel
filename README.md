@@ -62,11 +62,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This is the Chromebook I would buy from these Memorial Day deals](https://www.aboutchromebooks.com/news/this-is-the-chromebook-i-would-buy-from-these-memorial-day-deals/)
 - [Google cans saving tab groups in the Chrome side panel](https://www.aboutchromebooks.com/news/saved-tab-groups-in-chrome-side-panel/)
 - [Another Chrome OS 101 update arrives with a big focus on Lacros](https://www.aboutchromebooks.com/news/another-chrome-os-101-update-arrives-with-a-big-focus-on-lacros/)
 - [Why the new Acer Chromebook Spin 714 will be my next purchase](https://www.aboutchromebooks.com/news/why-the-new-acer-chromebook-spin-714-will-be-my-next-purchase/)
 - [Lenovo ThinkPad C14 Chromebook has 12th-gen Intel, starts at $629](https://www.aboutchromebooks.com/news/lenovo-thinkpad-c14-chromebook-has-12th-gen-intel-starts-at-629/)
-- [Chrome OS Reddit nears 500k members, celebrate and win!](https://www.aboutchromebooks.com/news/chrome-os-reddit-500k-members-celebration-giveaway/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
