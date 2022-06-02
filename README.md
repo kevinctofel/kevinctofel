@@ -62,11 +62,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cheaper $729 Acer Chromebook Spin 714 isn’t for me but it might be for you](https://www.aboutchromebooks.com/news/cheaper-729-acer-chromebook-spin-714-isnt-for-me-but-it-might-be-for-you/)
 - [PWAs on a Chromebook may soon support multiple in-app tabs](https://www.aboutchromebooks.com/news/pwas-on-a-chromebook-may-soon-support-multiple-in-app-tabs/)
 - [2022 Acer Chromebook Spin 513 available for $614.99](https://www.aboutchromebooks.com/news/2022-acer-chromebook-spin-513-available-for-614-99/)
 - [Chromebooks get these 6 new Chrome OS 102 features](https://www.aboutchromebooks.com/news/chromebooks-get-these-6-new-chrome-os-102-features/)
 - [This is the Chromebook I would buy from these Memorial Day deals](https://www.aboutchromebooks.com/news/this-is-the-chromebook-i-would-buy-from-these-memorial-day-deals/)
-- [Google cans saving tab groups in the Chrome side panel](https://www.aboutchromebooks.com/news/saved-tab-groups-in-chrome-side-panel/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
