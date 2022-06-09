@@ -62,11 +62,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chrome OS will mimic Windows 11 with Partial Split Chromebook windows](https://www.aboutchromebooks.com/news/chrome-os-will-mimic-windows-11-with-partial-split-chromebook-windows/)
 - [Can Chromebooks share Bluetooth audio? Maybe soon with AuraCast.](https://www.aboutchromebooks.com/news/can-chromebooks-share-bluetooth-audio-maybe-soon-with-auracast/)
 - [Lenovo IdeaPad Chromebook Duet 3: First impressions](https://www.aboutchromebooks.com/news/lenovo-ideapad-chromebook-duet-3-first-impressions/)
 - [Cheaper $729 Acer Chromebook Spin 714 isn’t for me but it might be for you](https://www.aboutchromebooks.com/news/cheaper-729-acer-chromebook-spin-714-isnt-for-me-but-it-might-be-for-you/)
 - [PWAs on a Chromebook may soon support multiple in-app tabs](https://www.aboutchromebooks.com/news/pwas-on-a-chromebook-may-soon-support-multiple-in-app-tabs/)
-- [2022 Acer Chromebook Spin 513 available for $614.99](https://www.aboutchromebooks.com/news/2022-acer-chromebook-spin-513-available-for-614-99/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
