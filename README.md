@@ -62,11 +62,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can you use the Lenovo Duet Chromebook 3 with a monitor?](https://www.aboutchromebooks.com/qa/can-you-use-the-lenovo-duet-chromebook-3-with-a-monitor/)
 - [Chrome OS will mimic Windows 11 with Partial Split Chromebook windows](https://www.aboutchromebooks.com/news/chrome-os-will-mimic-windows-11-with-partial-split-chromebook-windows/)
 - [Can Chromebooks share Bluetooth audio? Maybe soon with AuraCast.](https://www.aboutchromebooks.com/news/can-chromebooks-share-bluetooth-audio-maybe-soon-with-auracast/)
 - [Lenovo IdeaPad Chromebook Duet 3: First impressions](https://www.aboutchromebooks.com/news/lenovo-ideapad-chromebook-duet-3-first-impressions/)
 - [Cheaper $729 Acer Chromebook Spin 714 isn’t for me but it might be for you](https://www.aboutchromebooks.com/news/cheaper-729-acer-chromebook-spin-714-isnt-for-me-but-it-might-be-for-you/)
-- [PWAs on a Chromebook may soon support multiple in-app tabs](https://www.aboutchromebooks.com/news/pwas-on-a-chromebook-may-soon-support-multiple-in-app-tabs/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
