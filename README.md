@@ -62,11 +62,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chrome OS tablet mode to get resizable floating windows](https://www.aboutchromebooks.com/news/chrome-os-tablet-mode-to-get-resizable-floating-windows/)
 - [How to screenshot on a Chromebook &lpar;updated&rpar;](https://www.aboutchromebooks.com/how-to/how-to-screenshot-on-a-chromebook/)
 - [Can you use the Lenovo Duet Chromebook 3 with a monitor?](https://www.aboutchromebooks.com/qa/can-you-use-the-lenovo-duet-chromebook-3-with-a-monitor/)
 - [Chrome OS will mimic Windows 11 with Partial Split Chromebook windows](https://www.aboutchromebooks.com/news/chrome-os-will-mimic-windows-11-with-partial-split-chromebook-windows/)
 - [Can Chromebooks share Bluetooth audio? Maybe soon with AuraCast.](https://www.aboutchromebooks.com/news/can-chromebooks-share-bluetooth-audio-maybe-soon-with-auracast/)
-- [Lenovo IdeaPad Chromebook Duet 3: First impressions](https://www.aboutchromebooks.com/news/lenovo-ideapad-chromebook-duet-3-first-impressions/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
