@@ -62,11 +62,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Android 12’s Material You for Chrome OS is making progress](https://www.aboutchromebooks.com/news/android-12s-material-you-for-chrome-os-is-making-progress/)
 - [Chrome OS 103 Linux Terminal is prepped for Guest OS installs, aka Bruschetta](https://www.aboutchromebooks.com/news/chrome-os-103-linux-terminal-guest-os-install-bruschetta-chromebooks/)
 - [Chrome OS tablet mode to get resizable floating windows](https://www.aboutchromebooks.com/news/chrome-os-tablet-mode-to-get-resizable-floating-windows/)
 - [How to screenshot on a Chromebook &lpar;updated&rpar;](https://www.aboutchromebooks.com/how-to/how-to-screenshot-on-a-chromebook/)
 - [Can you use the Lenovo Duet Chromebook 3 with a monitor?](https://www.aboutchromebooks.com/qa/can-you-use-the-lenovo-duet-chromebook-3-with-a-monitor/)
-- [Chrome OS will mimic Windows 11 with Partial Split Chromebook windows](https://www.aboutchromebooks.com/news/chrome-os-will-mimic-windows-11-with-partial-split-chromebook-windows/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
