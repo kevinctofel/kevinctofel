@@ -62,11 +62,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HP Elite Dragonfly Chromebook first impressions](https://www.aboutchromebooks.com/news/hp-elite-dragonfly-chromebook-first-impressions/)
 - [2022 Acer Chromebook 314 with Gemini Lake, 8 GB of RAM is $389.99](https://www.aboutchromebooks.com/news/2022-acer-chromebook-314-with-gemini-lake-8-gb-of-ram-is-389-99/)
 - [Android 12’s Material You for Chrome OS is making progress](https://www.aboutchromebooks.com/news/android-12s-material-you-for-chrome-os-is-making-progress/)
 - [Chrome OS 103 Linux Terminal is prepped for Guest OS installs, aka Bruschetta](https://www.aboutchromebooks.com/news/chrome-os-103-linux-terminal-guest-os-install-bruschetta-chromebooks/)
 - [Chrome OS tablet mode to get resizable floating windows](https://www.aboutchromebooks.com/news/chrome-os-tablet-mode-to-get-resizable-floating-windows/)
-- [How to screenshot on a Chromebook &lpar;updated&rpar;](https://www.aboutchromebooks.com/how-to/how-to-screenshot-on-a-chromebook/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
