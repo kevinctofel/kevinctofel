@@ -62,11 +62,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lenovo Chromebook Duet 3 review: Better than the original](https://www.aboutchromebooks.com/reviews/lenovo-chromebook-duet-3-review-better-than-the-original/)
 - [Here’s the HP Elite Dragonfly Chromebook price by model](https://www.aboutchromebooks.com/news/hp-elite-dragonfly-chromebook-price-by-model/)
 - [Discounted Acer Chromebook 317 gets you 17.3” FullHD, 8 GB of RAM for $299](https://www.aboutchromebooks.com/news/discounted-acer-chromebook-317-gets-you-17-3-fullhd-8-gb-of-ram-for-299/)
 - [How Chrome Journeys on a Chromebook work](https://www.aboutchromebooks.com/news/chrome-journeys-on-a-chromebook/)
 - [HP Elite Dragonfly Chromebook first impressions](https://www.aboutchromebooks.com/news/hp-elite-dragonfly-chromebook-first-impressions/)
-- [2022 Acer Chromebook 314 with Gemini Lake, 8 GB of RAM is $389.99](https://www.aboutchromebooks.com/news/2022-acer-chromebook-314-with-gemini-lake-8-gb-of-ram-is-389-99/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
