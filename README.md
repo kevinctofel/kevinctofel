@@ -62,11 +62,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chrome OS 105 adds Ansible to Linux on Chromebooks](https://www.aboutchromebooks.com/news/chrome-os-105-adds-ansible-to-linux-on-chromebooks/)
 - [Chromebooks get these 7 new Chrome OS 103 features](https://www.aboutchromebooks.com/news/chromebooks-get-these-7-new-chrome-os-103-features/)
 - [Lenovo Chromebook Duet 3 review: Better than the original](https://www.aboutchromebooks.com/reviews/lenovo-chromebook-duet-3-review-better-than-the-original/)
 - [Here’s the HP Elite Dragonfly Chromebook price by model](https://www.aboutchromebooks.com/news/hp-elite-dragonfly-chromebook-price-by-model/)
 - [Discounted Acer Chromebook 317 gets you 17.3” FullHD, 8 GB of RAM for $299](https://www.aboutchromebooks.com/news/discounted-acer-chromebook-317-gets-you-17-3-fullhd-8-gb-of-ram-for-299/)
-- [How Chrome Journeys on a Chromebook work](https://www.aboutchromebooks.com/news/chrome-journeys-on-a-chromebook/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
