@@ -62,11 +62,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [You can now order the $1,049 Lenovo ThinkPad C14 Chromebook](https://www.aboutchromebooks.com/news/lenovo-thinkpad-c14-chromebook-price-specs-availability/)
 - [HP Elite Dragonfly Chromebook sale: Base model is $979.99](https://www.aboutchromebooks.com/news/hp-elite-dragonfly-chromebook-sale-base-model-is-979-99/)
 - [Chrome OS 105 adds Ansible to Linux on Chromebooks](https://www.aboutchromebooks.com/news/chrome-os-105-adds-ansible-to-linux-on-chromebooks/)
 - [Chromebooks get these 7 new Chrome OS 103 features](https://www.aboutchromebooks.com/news/chromebooks-get-these-7-new-chrome-os-103-features/)
 - [Lenovo Chromebook Duet 3 review: Better than the original](https://www.aboutchromebooks.com/reviews/lenovo-chromebook-duet-3-review-better-than-the-original/)
-- [Here’s the HP Elite Dragonfly Chromebook price by model](https://www.aboutchromebooks.com/news/hp-elite-dragonfly-chromebook-price-by-model/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
