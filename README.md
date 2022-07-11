@@ -62,11 +62,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chrome OS 105 partial split windows and multitasking button details](https://www.aboutchromebooks.com/news/chrome-os-105-partial-split-windows-and-multitasking-button-details/)
 - [Asus Chromebook Flip CX5 with Intel 12th gen CPU available for $649](https://www.aboutchromebooks.com/news/asus-chromebook-flip-cx5-with-intel-12th-gen-cpu-available-for-649/)
 - [Lenovo Duet 5 Chromebook drops to all-time low price: $379.99](https://www.aboutchromebooks.com/news/lenovo-duet-5-chromebook-price-sale/)
 - [2022 Acer Chromebook Spin 714 orders begin at $729](https://www.aboutchromebooks.com/news/2022-acer-chromebook-spin-714-price-specs-availability/)
 - [New Chrome OS 105 feature could boost Chromebook battery life](https://www.aboutchromebooks.com/news/chrome-os-105-feature-boost-chromebook-battery-life/)
-- [You can now order the $1,049 Lenovo ThinkPad C14 Chromebook](https://www.aboutchromebooks.com/news/lenovo-thinkpad-c14-chromebook-price-specs-availability/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
