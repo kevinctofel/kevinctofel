@@ -62,11 +62,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lenovo ThinkPad C14 Chromebook with 12th gen Intel is $866.15](https://www.aboutchromebooks.com/news/lenovo-thinkpad-c14-chromebook-with-12th-gen-intel-is-866-15/)
 - [Why Google ChromeOS Flex is quickly becoming a big deal](https://www.aboutchromebooks.com/news/why-google-chromeos-flex-is-quickly-becoming-a-big-deal/)
 - [Chromebook battery saver: Display refresh rate based on power](https://www.aboutchromebooks.com/news/chromebook-battery-saver-display-refresh-rate-based-on-power/)
 - [This is the Amazon Prime Day Chromebook I’d buy](https://www.aboutchromebooks.com/news/this-is-the-amazon-prime-day-chromebook-id-buy/)
 - [Chrome OS 105 partial split windows and multitasking button details](https://www.aboutchromebooks.com/news/chrome-os-105-partial-split-windows-and-multitasking-button-details/)
-- [Asus Chromebook Flip CX5 with Intel 12th gen CPU available for $649](https://www.aboutchromebooks.com/news/asus-chromebook-flip-cx5-with-intel-12th-gen-cpu-available-for-649/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
