@@ -62,7 +62,7 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ChromeOS has a test tool for Chromebook privacy from snooping](https://www.aboutchromebooks.com/news/chromeos-tool-for-chromebook-privacy-snooping/)
+- [This ChromeOS tool tests Chromebook privacy from snoopers behind you](https://www.aboutchromebooks.com/news/chromeos-tool-for-chromebook-privacy-snooping/)
 - [12th gen Intel Chromebook spec showdown](https://www.aboutchromebooks.com/news/12th-gen-intel-chromebook-specifications-prices/)
 - [Super sale: Lenovo ThinkPad C14 Chromebook with 12th gen Intel is $866.15](https://www.aboutchromebooks.com/news/lenovo-thinkpad-c14-chromebook-with-12th-gen-intel-is-866-15/)
 - [Why Google ChromeOS Flex is quickly becoming a big deal](https://www.aboutchromebooks.com/news/why-google-chromeos-flex-is-quickly-becoming-a-big-deal/)
