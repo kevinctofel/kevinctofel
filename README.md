@@ -62,11 +62,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [First look: ChromeOS 105 partial split window options](https://www.aboutchromebooks.com/news/chromeos-105-partial-split-window-options/)
 - [Google’s password strength indicator will boost ChromeOS online security](https://www.aboutchromebooks.com/news/password-strength-indicator-boost-chromeos-online-security/)
 - [HP Elite Dragonfly Chromebook review: The MacBook of ChromeOS laptops](https://www.aboutchromebooks.com/reviews/hp-elite-dragonfly-chromebook-review/)
 - [This ChromeOS tool tests Chromebook privacy from snoopers behind you](https://www.aboutchromebooks.com/news/chromeos-tool-for-chromebook-privacy-snooping/)
 - [12th gen Intel Chromebook spec showdown](https://www.aboutchromebooks.com/news/12th-gen-intel-chromebook-specifications-prices/)
-- [Super sale: Lenovo ThinkPad C14 Chromebook with 12th gen Intel is $866.15](https://www.aboutchromebooks.com/news/lenovo-thinkpad-c14-chromebook-with-12th-gen-intel-is-866-15/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
