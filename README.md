@@ -62,7 +62,7 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to install ChromeOS Flex the hard way](https://www.aboutchromebooks.com/how-to/how-to-install-chromeos-flex-the-hard-way/)
+- [How to install ChromeOS Flex the hard way](https://www.aboutchromebooks.com/how-to/how-to-install-chrome-os-flex-the-hard-way/)
 - [First look: ChromeOS 105 partial split window options](https://www.aboutchromebooks.com/news/chrome-os-105-partial-split-window-options/)
 - [Google’s password strength indicator will boost ChromeOS online security](https://www.aboutchromebooks.com/news/password-strength-indicator-boost-chromeos-online-security/)
 - [HP Elite Dragonfly Chromebook review: The MacBook of ChromeOS laptops](https://www.aboutchromebooks.com/reviews/hp-elite-dragonfly-chromebook-review/)
