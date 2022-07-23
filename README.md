@@ -62,11 +62,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why LTE Chromebooks as mobile hotspots make sense](https://www.aboutchromebooks.com/news/why-lte-chromebooks-as-mobile-hotspots-make-sense/)
 - [I wish ChromeOS Focus Modes existed like they do in iOS](https://www.aboutchromebooks.com/opinion/chrome-os-vs-ios-focus-modes/)
 - [How to install ChromeOS Flex the hard way](https://www.aboutchromebooks.com/how-to/how-to-install-chrome-os-flex-the-hard-way/)
 - [First look: ChromeOS 105 partial split window options](https://www.aboutchromebooks.com/news/chrome-os-105-partial-split-window-options/)
 - [Google’s password strength indicator will boost ChromeOS online security](https://www.aboutchromebooks.com/news/password-strength-indicator-boost-chromeos-online-security/)
-- [HP Elite Dragonfly Chromebook review: The MacBook of ChromeOS laptops](https://www.aboutchromebooks.com/reviews/hp-elite-dragonfly-chromebook-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
