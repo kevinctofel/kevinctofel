@@ -62,11 +62,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChromeOS adding video editing on Chromebooks in Google Photos](https://www.aboutchromebooks.com/news/chromeos-video-editing-on-chromebooks/)
 - [How Google will speed up the Lacros browser on Chromebooks](https://www.aboutchromebooks.com/news/lacros-browser-on-chromebooks-speed-boost/)
 - [Why LTE Chromebooks as mobile hotspots make sense](https://www.aboutchromebooks.com/news/why-lte-chromebooks-as-mobile-hotspots-make-sense/)
 - [I wish ChromeOS Focus Modes existed like they do in iOS](https://www.aboutchromebooks.com/opinion/chrome-os-vs-ios-focus-modes/)
 - [How to install ChromeOS Flex the hard way](https://www.aboutchromebooks.com/how-to/how-to-install-chrome-os-flex-the-hard-way/)
-- [First look: ChromeOS 105 partial split window options](https://www.aboutchromebooks.com/news/chrome-os-105-partial-split-window-options/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
