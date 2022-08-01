@@ -62,11 +62,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to change a Chromebook Downloads folder to Google Drive &lpar;and why you want to&rpar;](https://www.aboutchromebooks.com/how-to/how-to-change-a-chromebook-downloads-folder-to-google-drive-and-why-you-want-to/)
 - [HP Elite Dragonfly Chromebook sale price drops to $869](https://www.aboutchromebooks.com/news/hp-elite-dragonfly-chromebook-sale-price-drops-to-869/)
 - [The ChromeOS Channel on a Chromebook will soon be easier to see](https://www.aboutchromebooks.com/news/how-to-see-chrome-os-channel-on-chromebook/)
 - [ChromeOS adding video editing on Chromebooks in Google Photos](https://www.aboutchromebooks.com/news/chrome-os-video-editing-on-chromebooks/)
 - [How Google will speed up the Lacros browser on Chromebooks](https://www.aboutchromebooks.com/news/lacros-browser-on-chromebooks-speed-boost/)
-- [Why LTE Chromebooks as mobile hotspots make sense](https://www.aboutchromebooks.com/news/why-lte-chromebooks-as-mobile-hotspots-make-sense/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
