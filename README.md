@@ -62,11 +62,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chromebooks get these 8 new ChromeOS 104 features](https://www.aboutchromebooks.com/news/chromebooks-get-these-8-new-chrome-os-104-features/)
 - [Still using apt for Linux on a Chromebook? Try Nala instead](https://www.aboutchromebooks.com/how-to/apt-vs-nala-for-linux-on-a-chromebook/)
 - [Why I use a Chromebook](https://www.aboutchromebooks.com/opinion/why-i-use-a-chromebook/)
 - [How to change a Chromebook Downloads folder to Google Drive](https://www.aboutchromebooks.com/how-to/how-to-change-chromebook-downloads-folder-to-google-drive/)
 - [HP Elite Dragonfly Chromebook sale price drops to $869](https://www.aboutchromebooks.com/news/hp-elite-dragonfly-chromebook-sale-price-drops-to-869/)
-- [The ChromeOS Channel on a Chromebook will soon be easier to see](https://www.aboutchromebooks.com/news/how-to-see-chrome-os-channel-on-chromebook/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
