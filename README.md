@@ -62,11 +62,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [New Chrome OS 105 feature could boost Chromebook battery life](https://www.aboutchromebooks.com/news/chrome-os-105-feature-boost-chromebook-battery-life/)
-- [You can now order the $1,049 Lenovo ThinkPad C14 Chromebook](https://www.aboutchromebooks.com/news/lenovo-thinkpad-c14-chromebook-price-specs-availability/)
-- [HP Elite Dragonfly Chromebook sale: Base model is $979.99](https://www.aboutchromebooks.com/news/hp-elite-dragonfly-chromebook-sale-base-model-is-979-99/)
-- [Chrome OS 105 adds Ansible to Linux on Chromebooks](https://www.aboutchromebooks.com/news/chrome-os-105-adds-ansible-to-linux-on-chromebooks/)
-- [Chromebooks get these 7 new Chrome OS 103 features](https://www.aboutchromebooks.com/news/chromebooks-get-these-7-new-chrome-os-103-features/)
+- [Wait, you can wirelessly transfer iPhone photos to the HP Elite Dragonfly Chromebook?](https://www.aboutchromebooks.com/news/wirelessly-transfer-iphone-photos-to-hp-elite-dragonfly-chromebook/)
+- [Chromebooks get these 8 new ChromeOS 104 features](https://www.aboutchromebooks.com/news/chromebooks-get-these-8-new-chrome-os-104-features/)
+- [Still using apt for Linux on a Chromebook? Try Nala instead](https://www.aboutchromebooks.com/how-to/apt-vs-nala-for-linux-on-a-chromebook/)
+- [Why I use a Chromebook](https://www.aboutchromebooks.com/opinion/why-i-use-a-chromebook/)
+- [How to change a Chromebook Downloads folder to Google Drive](https://www.aboutchromebooks.com/how-to/how-to-change-chromebook-downloads-folder-to-google-drive/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
