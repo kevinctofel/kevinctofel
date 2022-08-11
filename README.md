@@ -62,11 +62,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use function keys on a Chromebook](https://www.aboutchromebooks.com/how-to/how-to-use-function-keys-on-a-chromebook/)
 - [ChromeOS 106 bringing diacritic typing to Chromebooks](https://www.aboutchromebooks.com/news/chrome-os-106-diacritic-typing-chromebooks/)
 - [Wait, you can wirelessly transfer iPhone photos to the HP Elite Dragonfly Chromebook?](https://www.aboutchromebooks.com/news/wirelessly-transfer-iphone-photos-to-hp-elite-dragonfly-chromebook/)
 - [Chromebooks get these 8 new ChromeOS 104 features](https://www.aboutchromebooks.com/news/chromebooks-get-these-8-new-chrome-os-104-features/)
 - [Still using apt for Linux on a Chromebook? Try Nala instead](https://www.aboutchromebooks.com/how-to/apt-vs-nala-for-linux-on-a-chromebook/)
-- [Why I use a Chromebook](https://www.aboutchromebooks.com/opinion/why-i-use-a-chromebook/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
