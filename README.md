@@ -62,11 +62,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChromeOS 106 integrates Google Photos Memories on Chromebooks](https://www.aboutchromebooks.com/news/chrome-os-106-google-photos-memories-on-chromebooks/)
 - [Chrome, ChromeOS 106 getting Partial Translate language feature](https://www.aboutchromebooks.com/news/chrome-chrome-os-106-partial-translate-language-feature/)
 - [How to use function keys on a Chromebook](https://www.aboutchromebooks.com/how-to/how-to-use-function-keys-on-a-chromebook/)
 - [ChromeOS 106 bringing diacritic typing to Chromebooks](https://www.aboutchromebooks.com/news/chrome-os-106-diacritic-typing-chromebooks/)
 - [Wait, you can wirelessly transfer iPhone photos to the HP Elite Dragonfly Chromebook?](https://www.aboutchromebooks.com/news/wirelessly-transfer-iphone-photos-to-hp-elite-dragonfly-chromebook/)
-- [Chromebooks get these 8 new ChromeOS 104 features](https://www.aboutchromebooks.com/news/chromebooks-get-these-8-new-chrome-os-104-features/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
