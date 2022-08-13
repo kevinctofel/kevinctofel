@@ -32,7 +32,7 @@
 <br />
 
 ### My latest custom PC build
-(![image](https://user-images.githubusercontent.com/16373212/184516821-9523423e-e8a9-42a9-9e86-129cf0bacc6a.jpeg)
+![image](https://user-images.githubusercontent.com/16373212/184516821-9523423e-e8a9-42a9-9e86-129cf0bacc6a.jpeg)
 
 
 ### My FreeCodeCamp profile:
