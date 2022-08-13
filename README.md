@@ -31,6 +31,10 @@
 
 <br />
 
+### My latest custom PC build
+(![image](https://user-images.githubusercontent.com/16373212/184516821-9523423e-e8a9-42a9-9e86-129cf0bacc6a.jpeg)
+
+
 ### My FreeCodeCamp profile:
 
 [![FreeCodeCamp profile](https://raw.githubusercontent.com/kevinctofel/kevinctofel/main/freecodecamp_logo_40x40%20.jpg)](https://www.freecodecamp.org/fcc711379c0-b694-4072-b533-b9226036f6ea)
