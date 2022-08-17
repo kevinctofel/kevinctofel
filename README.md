@@ -66,7 +66,7 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ChromeOS 106 gets a Follow site option, likely for RSS](https://www.aboutchromebooks.com/news/chrome-os-106-follow-site-rss-google-reader/)
+- [ChromeOS 106 gets a Follow site option for desktop RSS &lpar;updated&rpar;](https://www.aboutchromebooks.com/news/chrome-os-106-follow-site-rss-google-reader/)
 - [Acer’s new AMD Chromebook comes in at $559.99](https://www.aboutchromebooks.com/news/amd-chromebook-price-specifications/)
 - [2022 Acer Chromebook Spin 714 discount price already $629](https://www.aboutchromebooks.com/news/2022-acer-chromebook-spin-714-discount/)
 - [Is Google Reader coming back?](https://www.aboutchromebooks.com/news/is-google-reader-coming-back/)
