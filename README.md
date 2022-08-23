@@ -66,11 +66,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This is the ChromeOS version tracker that Google should have made](https://www.aboutchromebooks.com/news/this-is-the-chrome-os-version-tracker-that-google-should-have-made/)
 - [Here’s an early look at Google’s Chrome browser PWA store](https://www.aboutchromebooks.com/news/google-chrome-browser-pwa-store/)
 - [I’d pass on the new AMD Ryzen Chromebook at $549](https://www.aboutchromebooks.com/news/pass-on-this-new-amd-ryzen-chromebook/)
 - [First impressions of the 2022 Acer Chromebook Spin 714](https://www.aboutchromebooks.com/reviews/first-impressions-2022-acer-chromebook-spin-714/)
 - [ChromeOS 106 gets a Follow site option for desktop RSS &lpar;updated&rpar;](https://www.aboutchromebooks.com/news/chrome-os-106-follow-site-rss-google-reader/)
-- [Acer’s new AMD Chromebook comes in at $559.99](https://www.aboutchromebooks.com/news/amd-chromebook-price-specifications/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
