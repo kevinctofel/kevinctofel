@@ -66,11 +66,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why a Google Pixelbook with Tensor chip makes sense](https://www.aboutchromebooks.com/opinion/google-pixelbook-with-tensor-chip-makes-sense/)
 - [How to change the Chromebook Quick View Calendar to start on Mondays](https://www.aboutchromebooks.com/how-to/chromebook-quick-view-calendar-start-mondays/)
 - [This is the ChromeOS version tracker that Google should have made](https://www.aboutchromebooks.com/news/this-is-the-chrome-os-version-tracker-that-google-should-have-made/)
 - [Here’s an early look at Google’s Chrome browser PWA store](https://www.aboutchromebooks.com/news/google-chrome-browser-pwa-store/)
 - [I’d pass on the new AMD Ryzen Chromebook at $549](https://www.aboutchromebooks.com/news/pass-on-this-new-amd-ryzen-chromebook/)
-- [First impressions of the 2022 Acer Chromebook Spin 714](https://www.aboutchromebooks.com/reviews/first-impressions-2022-acer-chromebook-spin-714/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
