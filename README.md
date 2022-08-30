@@ -66,11 +66,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux on Chromebooks may get automatic disk storage resizing](https://www.aboutchromebooks.com/news/linux-on-chromebooks-may-get-automatic-disk-storage-resizing/)
 - [Sustainability is only half the Acer Chromebook Vero 514 story](https://www.aboutchromebooks.com/news/sustainability-is-only-half-the-acer-chromebook-vero-514-story/)
 - [Why a Google Pixelbook with Tensor chip makes sense](https://www.aboutchromebooks.com/opinion/google-pixelbook-with-tensor-chip-makes-sense/)
 - [How to change the Chromebook Quick View Calendar to start on Mondays](https://www.aboutchromebooks.com/how-to/chromebook-quick-view-calendar-start-mondays/)
 - [This is the ChromeOS version tracker that Google should have made](https://www.aboutchromebooks.com/news/this-is-the-chrome-os-version-tracker-that-google-should-have-made/)
-- [Here’s an early look at Google’s Chrome browser PWA store](https://www.aboutchromebooks.com/news/google-chrome-browser-pwa-store/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
