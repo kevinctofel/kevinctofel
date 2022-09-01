@@ -66,11 +66,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lenovo’s first 16-inch Chromebook has a fast, 120Hz refresh display](https://www.aboutchromebooks.com/news/lenovos-first-16-inch-chromebook-has-a-fast-120hz-refresh-display/)
 - [A Chromebook and E Ink monitor: Great for reading and typing](https://www.aboutchromebooks.com/news/chromebook-and-e-ink-monitor-reading-typing/)
 - [Linux on Chromebooks may get automatic disk storage resizing](https://www.aboutchromebooks.com/news/linux-on-chromebooks-may-get-automatic-disk-storage-resizing/)
 - [Sustainability is only half the Acer Chromebook Vero 514 story](https://www.aboutchromebooks.com/news/sustainability-is-only-half-the-acer-chromebook-vero-514-story/)
 - [Why a Google Pixelbook with Tensor chip makes sense](https://www.aboutchromebooks.com/opinion/google-pixelbook-with-tensor-chip-makes-sense/)
-- [How to change the Chromebook Quick View Calendar to start on Mondays](https://www.aboutchromebooks.com/how-to/chromebook-quick-view-calendar-start-mondays/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
