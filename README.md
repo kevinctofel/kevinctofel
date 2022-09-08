@@ -66,11 +66,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChromeOS 105 release arrives: What you need to know](https://www.aboutchromebooks.com/news/chromeos-105-release-arrives-what-you-need-to-know/)
 - [This 12th gen Intel Chromebook is down to $549](https://www.aboutchromebooks.com/news/this-12th-gen-intel-chromebook-is-down-to-549/)
 - [ChromeOS 105 adds keyboard controls for Android games](https://www.aboutchromebooks.com/news/chromeos-105-adds-keyboard-controls-for-android-games/)
 - [Lenovo’s first 16-inch Chromebook has a fast, 120Hz refresh display](https://www.aboutchromebooks.com/news/lenovos-first-16-inch-chromebook-has-a-fast-120hz-refresh-display/)
 - [A Chromebook and E Ink monitor: Great for reading and typing](https://www.aboutchromebooks.com/news/chromebook-and-e-ink-monitor-reading-typing/)
-- [Linux on Chromebooks may get automatic disk storage resizing](https://www.aboutchromebooks.com/news/linux-on-chromebooks-may-get-automatic-disk-storage-resizing/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
