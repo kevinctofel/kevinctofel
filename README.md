@@ -66,11 +66,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Acer Chromebook Spin 714 review: An unbecoming workhorse](https://www.aboutchromebooks.com/reviews/acer-chromebook-spin-714-review/)
 - [Some Chromebook cameras still broken since Chrome OS 97](https://www.aboutchromebooks.com/news/chromebook-cameras-still-broken-since-chromeos-97/)
 - [ChromeOS 105 release arrives: What you need to know](https://www.aboutchromebooks.com/news/chromeos-105-release-arrives-what-you-need-to-know/)
 - [This 12th gen Intel Chromebook is down to $549](https://www.aboutchromebooks.com/news/this-12th-gen-intel-chromebook-is-down-to-549/)
 - [ChromeOS 105 adds keyboard controls for Android games](https://www.aboutchromebooks.com/news/chromeos-105-adds-keyboard-controls-for-android-games/)
-- [Lenovo’s first 16-inch Chromebook has a fast, 120Hz refresh display](https://www.aboutchromebooks.com/news/lenovos-first-16-inch-chromebook-has-a-fast-120hz-refresh-display/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
