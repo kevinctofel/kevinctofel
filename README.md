@@ -66,11 +66,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to enable and use partial split on ChromeOS 105 &lpar;video&rpar;](https://www.aboutchromebooks.com/how-to/how-to-enable-and-use-partial-split-on-chromeos-105-video/)
 - [Lenovo Flex 5i Chromebook with 12th gen Intel inside “coming soon”](https://www.aboutchromebooks.com/news/lenovo-flex-5i-chromebook-12th-gen-intel/)
 - [So long Pixelbook? I can live with that.](https://www.aboutchromebooks.com/news/google-pixelbook-canceled/)
 - [Acer Chromebook Spin 714 review: An unbecoming workhorse](https://www.aboutchromebooks.com/reviews/acer-chromebook-spin-714-review/)
 - [Some Chromebook cameras still broken since Chrome OS 97](https://www.aboutchromebooks.com/news/chromebook-cameras-still-broken-since-chromeos-97/)
-- [ChromeOS 105 release arrives: What you need to know](https://www.aboutchromebooks.com/news/chromeos-105-release-arrives-what-you-need-to-know/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
