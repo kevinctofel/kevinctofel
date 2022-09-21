@@ -66,11 +66,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Steam gaming on Chromebooks moving from Dev to Beta Channel of ChromeOS](https://www.aboutchromebooks.com/news/steam-gaming-on-chromebooks-for-chromeos-beta/)
 - [Android app resizing on Chromebooks is finally wowing me](https://www.aboutchromebooks.com/news/android-app-resizing-on-chromebooks/)
 - [Performance boosts for Chromebooks, Chrome browser on the way](https://www.aboutchromebooks.com/news/performance-settings-for-chromebooks-chrome-browser/)
 - [How to enable and use partial split on ChromeOS 105 &lpar;video&rpar;](https://www.aboutchromebooks.com/how-to/how-to-enable-and-use-partial-split-on-chromeos-105-video/)
 - [Lenovo Flex 5i Chromebook with 12th gen Intel inside “coming soon”](https://www.aboutchromebooks.com/news/lenovo-flex-5i-chromebook-12th-gen-intel/)
-- [So long Pixelbook? I can live with that.](https://www.aboutchromebooks.com/news/google-pixelbook-canceled/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
