@@ -66,11 +66,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2022 Lenovo Flex 5i Chromebook available, starting at $529.99](https://www.aboutchromebooks.com/news/2022-lenovo-flex-5i-chromebook-available-starting-at-529-99/)
 - [Yes, there’s a Framework Chromebook, but…](https://www.aboutchromebooks.com/news/yes-theres-a-framework-chromebook-but/)
 - [Steam gaming on Chromebooks moving from Dev to Beta Channel of ChromeOS](https://www.aboutchromebooks.com/news/steam-gaming-on-chromebooks-for-chromeos-beta/)
 - [Android app resizing on Chromebooks is finally wowing me](https://www.aboutchromebooks.com/news/android-app-resizing-on-chromebooks/)
 - [Performance boosts for Chromebooks, Chrome browser on the way](https://www.aboutchromebooks.com/news/performance-settings-for-chromebooks-chrome-browser/)
-- [How to enable and use partial split on ChromeOS 105 &lpar;video&rpar;](https://www.aboutchromebooks.com/how-to/how-to-enable-and-use-partial-split-on-chromeos-105-video/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
