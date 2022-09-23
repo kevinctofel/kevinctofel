@@ -66,11 +66,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [First look at the CTL Chromebook PX14EX for education](https://www.aboutchromebooks.com/news/first-look-at-the-ctl-chromebook-px14ex-for-education/)
 - [2022 Lenovo Flex 5i Chromebook available, starting at $529.99](https://www.aboutchromebooks.com/news/2022-lenovo-flex-5i-chromebook-available-starting-at-529-99/)
 - [Yes, there’s a Framework Chromebook, but…](https://www.aboutchromebooks.com/news/yes-theres-a-framework-chromebook-but/)
 - [Steam gaming on Chromebooks moving from Dev to Beta Channel of ChromeOS](https://www.aboutchromebooks.com/news/steam-gaming-on-chromebooks-for-chromeos-beta/)
 - [Android app resizing on Chromebooks is finally wowing me](https://www.aboutchromebooks.com/news/android-app-resizing-on-chromebooks/)
-- [Performance boosts for Chromebooks, Chrome browser on the way](https://www.aboutchromebooks.com/news/performance-settings-for-chromebooks-chrome-browser/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
