@@ -66,11 +66,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [$469 HP Chromebook x360 13b runs on a MediaTek ARM processor](https://www.aboutchromebooks.com/news/hp-chromebook-x360-13b-mediatek-k1200-arm-chip/)
 - [Here’s why high-end Chromebooks exist](https://www.aboutchromebooks.com/news/heres-why-high-end-chromebooks-exist/)
 - [First look at the CTL Chromebook PX14EX for education](https://www.aboutchromebooks.com/news/first-look-at-the-ctl-chromebook-px14ex-for-education/)
 - [2022 Lenovo Flex 5i Chromebook available, starting at $529.99](https://www.aboutchromebooks.com/news/2022-lenovo-flex-5i-chromebook-available-starting-at-529-99/)
 - [Yes, there’s a Framework Chromebook, but…](https://www.aboutchromebooks.com/news/yes-theres-a-framework-chromebook-but/)
-- [Steam gaming on Chromebooks moving from Dev to Beta Channel of ChromeOS](https://www.aboutchromebooks.com/news/steam-gaming-on-chromebooks-for-chromeos-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
