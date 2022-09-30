@@ -66,11 +66,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What are your Chromebook gaming options without Stadia?](https://www.aboutchromebooks.com/news/chromebook-gaming-options-without-stadia/)
 - [You can finally order an 8 GB Lenovo Chromebook Duet 3](https://www.aboutchromebooks.com/news/8-gb-lenovo-chromebook-duet-3-available/)
 - [Chromebook automation widgets are a possibility with AutoCrOS](https://www.aboutchromebooks.com/news/chromebook-automation-widgets-autocros/)
 - [Chromebook privacy indicators for mic and camera in the works](https://www.aboutchromebooks.com/news/chromebook-privacy-indicators-for-chrome-os/)
 - [$469 HP Chromebook x360 13b runs on a MediaTek ARM processor](https://www.aboutchromebooks.com/news/hp-chromebook-x360-13b-mediatek-k1200-arm-chip/)
-- [Here’s why high-end Chromebooks exist](https://www.aboutchromebooks.com/news/heres-why-high-end-chromebooks-exist/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
