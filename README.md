@@ -66,11 +66,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [$1,019 Lenovo ThinkPad C14 Chromebook sale drops price to $662.35](https://www.aboutchromebooks.com/news/lenovo-thinkpad-c14-chromebook-sale/)
 - [$549 Asus Chromebook Flip CX5 has the same CPU as the HP Elite Dragonfly for half the cost](https://www.aboutchromebooks.com/news/asus-chromebook-flip-cx5-discount/)
 - [ChromeOS 108 performance feature adds an important option](https://www.aboutchromebooks.com/news/chromeos-108-performance-feature/)
 - [What are your Chromebook gaming options without Stadia?](https://www.aboutchromebooks.com/news/chromebook-gaming-options-without-stadia/)
 - [You can finally order an 8 GB Lenovo Chromebook Duet 3](https://www.aboutchromebooks.com/news/8-gb-lenovo-chromebook-duet-3-available/)
-- [Chromebook automation widgets are a possibility with AutoCrOS](https://www.aboutchromebooks.com/news/chromebook-automation-widgets-autocros/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
