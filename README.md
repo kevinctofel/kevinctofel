@@ -66,11 +66,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Customized Chromebook keyboard shortcuts are getting an update](https://www.aboutchromebooks.com/news/customized-chromebook-keyboard-shortcuts-are-getting-an-update/)
 - [$549 Asus Chromebook Flip CX5 has the same CPU as the HP Elite Dragonfly for half the cost &lpar;Update: now $479!&rpar;](https://www.aboutchromebooks.com/news/asus-chromebook-flip-cx5-discount/)
 - [How to maximize and minimize windows with Chromebook keyboard shortcuts](https://www.aboutchromebooks.com/how-to/how-to-maximize-and-minimize-with-chromebook-keyboard-shortcuts/)
 - [$1,019 Lenovo ThinkPad C14 Chromebook sale drops price to $662.35](https://www.aboutchromebooks.com/news/lenovo-thinkpad-c14-chromebook-sale/)
 - [ChromeOS 108 performance feature adds an important option](https://www.aboutchromebooks.com/news/chromeos-108-performance-feature/)
-- [What are your Chromebook gaming options without Stadia?](https://www.aboutchromebooks.com/news/chromebook-gaming-options-without-stadia/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
