@@ -66,11 +66,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I can see why Steam on a Chromebook is still an alpha](https://www.aboutchromebooks.com/news/i-can-see-why-steam-on-a-chromebook-is-still-an-alpha/)
 - [Are you cloud gaming on a Chromebook?](https://www.aboutchromebooks.com/news/are-you-cloud-gaming-on-chromebook/)
 - [Lenovo ThinkPad C14 Chromebook first impressions](https://www.aboutchromebooks.com/reviews/lenovo-thinkpad-c14-chromebook-first-impressions/)
 - [Chromebooks get ChromeOS 106: What you need to know](https://www.aboutchromebooks.com/news/chromebooks-get-chromeos-106-what-you-need-to-know/)
 - [Prelude to Steam: 3 new cloud gaming Chromebooks](https://www.aboutchromebooks.com/news/new-cloud-gaming-chromebooks-stream/)
-- [Lenovo Duet 5 Chromebook drops to all-time low price &lpar;again&rpar;: $379.99](https://www.aboutchromebooks.com/news/lenovo-duet-5-chromebook-price-sale/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
