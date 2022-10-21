@@ -66,11 +66,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How I use Linux on my Chromebook](https://www.aboutchromebooks.com/news/how-i-use-linux-on-my-chromebook/)
 - [The Chromebook calendar widget is getting an update](https://www.aboutchromebooks.com/news/chromebook-calendar-widget-update/)
 - [Acer Chromebook Vero 514 availability begins](https://www.aboutchromebooks.com/news/acer-chromebook-vero-514-availability/)
 - [I can see why Steam on a Chromebook is still an alpha](https://www.aboutchromebooks.com/news/i-can-see-why-steam-on-a-chromebook-is-still-an-alpha/)
 - [Are you cloud gaming on a Chromebook?](https://www.aboutchromebooks.com/news/are-you-cloud-gaming-on-chromebook/)
-- [Lenovo ThinkPad C14 Chromebook first impressions](https://www.aboutchromebooks.com/reviews/lenovo-thinkpad-c14-chromebook-first-impressions/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
