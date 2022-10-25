@@ -66,11 +66,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lenovo ThinkPad C14 Chromebook price drops to $611.40](https://www.aboutchromebooks.com/news/lenovo-thinkpad-c14-chromebook-price-drops-to-611-40/)
 - [Planning for Steam? Skip the base Lenovo IdeaPad Gaming Chromebook](https://www.aboutchromebooks.com/news/steam-skip-the-base-lenovo-ideapad-gaming-chromebook/)
 - [This discounted 12th gen Intel Chromebook is a steal at $499](https://www.aboutchromebooks.com/news/discounted-12th-gen-intel-chromebook/)
 - [How I use Linux on my Chromebook](https://www.aboutchromebooks.com/news/how-i-use-linux-on-my-chromebook/)
 - [The Chromebook calendar widget is getting an update](https://www.aboutchromebooks.com/news/chromebook-calendar-widget-update/)
-- [Acer Chromebook Vero 514 availability begins](https://www.aboutchromebooks.com/news/acer-chromebook-vero-514-availability/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
