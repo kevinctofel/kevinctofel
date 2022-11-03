@@ -66,11 +66,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChromeOS 108 brings Steam to more Chromebooks in beta](https://www.aboutchromebooks.com/news/chromeos-108-brings-steam-to-more-chromebooks-in-beta/)
 - [Lenovo ThinkPad C14 Chromebook review: Potent power at a price](https://www.aboutchromebooks.com/reviews/lenovo-thinkpad-c14-chromebook-review-potent-power-at-a-price/)
 - [ChromeOS 107 release adds these 6 features to Chromebooks](https://www.aboutchromebooks.com/news/chromeos-107-release-6-new-chromebook-features/)
 - [How to edit PDFs on a Chromebook natively](https://www.aboutchromebooks.com/how-to/how-to-edit-pdfs-on-a-chromebook-natively/)
 - [Google Chrome 107 release: Here’s what you need to know](https://www.aboutchromebooks.com/news/google-chrome-107-release-heres-what-you-need-to-know/)
-- [Lenovo ThinkPad C14 Chromebook price drops to $611.40](https://www.aboutchromebooks.com/news/lenovo-thinkpad-c14-chromebook-price-drops-to-611-40/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
