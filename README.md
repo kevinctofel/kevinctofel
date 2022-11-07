@@ -66,11 +66,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chromebook cloud gaming improves with the latest Xbox web app](https://www.aboutchromebooks.com/news/chromebook-cloud-gaming-improves-with-the-latest-xbox-web-app/)
 - [Lenovo Duet 5 Chromebook drops to all-time low price &lpar;again&rpar;: $379](https://www.aboutchromebooks.com/news/lenovo-duet-5-chromebook-price-sale/)
 - [How to shop Black Friday Chromebook deals &lpar;and how not to&rpar;](https://www.aboutchromebooks.com/news/how-to-shop-black-friday-chromebook-deals-and-how-not-to/)
 - [How to screenshot on a Chromebook &lpar;updated&rpar;](https://www.aboutchromebooks.com/how-to/how-to-screenshot-on-a-chromebook/)
 - [ChromeOS 108 brings Steam to more Chromebooks in beta](https://www.aboutchromebooks.com/news/chromeos-108-brings-steam-to-more-chromebooks-in-beta/)
-- [Lenovo ThinkPad C14 Chromebook review: Potent power at a price](https://www.aboutchromebooks.com/reviews/lenovo-thinkpad-c14-chromebook-review-potent-power-at-a-price/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
