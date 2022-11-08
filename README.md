@@ -66,11 +66,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Acer Chromebook Vero 514: What do you want to know?](https://www.aboutchromebooks.com/news/acer-chromebook-vero-514-what-do-you-want-to-know/)
 - [Tips for using Mastodon on a Chromebook](https://www.aboutchromebooks.com/how-to/tips-for-using-mastodon-on-a-chromebook/)
 - [Chromebook cloud gaming improves with the latest Xbox web app](https://www.aboutchromebooks.com/news/chromebook-cloud-gaming-improves-with-the-latest-xbox-web-app/)
 - [Lenovo Duet 5 Chromebook drops to all-time low price &lpar;again&rpar;: $379](https://www.aboutchromebooks.com/news/lenovo-duet-5-chromebook-price-sale/)
 - [How to shop Black Friday Chromebook deals &lpar;and how not to&rpar;](https://www.aboutchromebooks.com/news/how-to-shop-black-friday-chromebook-deals-and-how-not-to/)
-- [How to screenshot on a Chromebook &lpar;updated&rpar;](https://www.aboutchromebooks.com/how-to/how-to-screenshot-on-a-chromebook/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
