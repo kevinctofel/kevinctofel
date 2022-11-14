@@ -66,11 +66,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChromeOS 110 adds Material You Chromebook theming](https://www.aboutchromebooks.com/news/chromeos-110-adds-material-you-chromebook-theming/)
 - [What MediaTek’s new Chromebook chips bring to entry-level laptops](https://www.aboutchromebooks.com/news/what-mediateks-new-chromebook-chips-bring-to-entry-level-laptops/)
 - [ChromeOS 109 brings video conferencing controls to Chromebooks](https://www.aboutchromebooks.com/news/chromeos-109-brings-video-conferencing-controls-to-chromebooks/)
 - [LumaFusion for Chromebook video editor out in beta](https://www.aboutchromebooks.com/news/lumafusion-for-chromebook-video-editor-out-in-beta/)
 - [Acer Chromebook Vero 514: What do you want to know?](https://www.aboutchromebooks.com/news/acer-chromebook-vero-514-what-do-you-want-to-know/)
-- [Tips for using Mastodon on a Chromebook](https://www.aboutchromebooks.com/how-to/tips-for-using-mastodon-on-a-chromebook/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
