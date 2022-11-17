@@ -66,11 +66,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [4 Chromebook security tips for data privacy and protection](https://www.aboutchromebooks.com/how-to/4-chromebook-security-tips-for-data-privacy-and-protection/)
 - [Lenovo Duet 5 Chromebook drops to all-time low price &lpar;again&rpar;: $369](https://www.aboutchromebooks.com/news/lenovo-duet-5-chromebook-price-sale/)
 - [Chrome Password Manager will add Notes to password exports](https://www.aboutchromebooks.com/news/chrome-password-manager-will-add-notes-to-password-exports/)
 - [ChromeOS 110 adds Material You Chromebook theming](https://www.aboutchromebooks.com/news/chromeos-110-adds-material-you-chromebook-theming/)
 - [What MediaTek’s new Chromebook chips bring to entry-level laptops](https://www.aboutchromebooks.com/news/what-mediateks-new-chromebook-chips-bring-to-entry-level-laptops/)
-- [ChromeOS 109 brings video conferencing controls to Chromebooks](https://www.aboutchromebooks.com/news/chromeos-109-brings-video-conferencing-controls-to-chromebooks/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
