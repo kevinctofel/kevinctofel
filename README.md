@@ -23,6 +23,8 @@
 <br>
 ### Connect with me:
 
+[![Mastodon Follow](https://github.com/kevinctofel/kevinctofel/blob/4672c9045fb36844206828b8b2d92babe6641693/D884A9ED-1389-481E-9AA8-1C4BA2327FBA.png)](https://apfollow.mwt.me/?user=kevinctofel&instance=mastodon.world)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/kevinctofel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=kevinctofel)
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][personal website]
