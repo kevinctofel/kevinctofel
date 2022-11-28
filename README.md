@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This may be the best Cyber Monday Chromebook deal](https://www.aboutchromebooks.com/news/this-may-be-the-best-cyber-monday-chromebook-deal/?utm_source=rss&utm_medium=rss&utm_campaign=this-may-be-the-best-cyber-monday-chromebook-deal)
 - [The Framework Chromebook teardown process is super easy](https://www.aboutchromebooks.com/news/the-framework-chromebook-teardown-process-is-super-easy/?utm_source=rss&utm_medium=rss&utm_campaign=the-framework-chromebook-teardown-process-is-super-easy)
 - [How to shop Black Friday Chromebook deals &lpar;and how not to&rpar;](https://www.aboutchromebooks.com/news/how-to-shop-black-friday-chromebook-deals-and-how-not-to/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-shop-black-friday-chromebook-deals-and-how-not-to)
 - [GitHub Codespaces on a Chromebook is fantastic!](https://www.aboutchromebooks.com/news/github-codespaces-on-a-chromebook-is-fantastic/?utm_source=rss&utm_medium=rss&utm_campaign=github-codespaces-on-a-chromebook-is-fantastic)
 - [Passkeys on Chromebooks: What you need to know](https://www.aboutchromebooks.com/news/passkeys-on-chromebooks-what-you-need-to-know/?utm_source=rss&utm_medium=rss&utm_campaign=passkeys-on-chromebooks-what-you-need-to-know)
-- [4 Chromebook security tips for data privacy and protection](https://www.aboutchromebooks.com/news/4-chromebook-security-tips-for-data-privacy-and-protection/?utm_source=rss&utm_medium=rss&utm_campaign=4-chromebook-security-tips-for-data-privacy-and-protection)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
