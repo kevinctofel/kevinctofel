@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here’s what’s in the now available Chrome 108 Release](https://www.aboutchromebooks.com/news/heres-whats-in-the-now-available-chrome-108-release/?utm_source=rss&utm_medium=rss&utm_campaign=heres-whats-in-the-now-available-chrome-108-release)
 - [Material You for Chromebooks looks great in ChromeOS 110](https://www.aboutchromebooks.com/news/material-you-for-chromebooks-looks-great-in-chromeos-110/?utm_source=rss&utm_medium=rss&utm_campaign=material-you-for-chromebooks-looks-great-in-chromeos-110)
 - [This may be the best Cyber Monday Chromebook deal](https://www.aboutchromebooks.com/news/this-may-be-the-best-cyber-monday-chromebook-deal/?utm_source=rss&utm_medium=rss&utm_campaign=this-may-be-the-best-cyber-monday-chromebook-deal)
 - [The Framework Chromebook teardown process is super easy](https://www.aboutchromebooks.com/news/the-framework-chromebook-teardown-process-is-super-easy/?utm_source=rss&utm_medium=rss&utm_campaign=the-framework-chromebook-teardown-process-is-super-easy)
 - [How to shop Black Friday Chromebook deals &lpar;and how not to&rpar;](https://www.aboutchromebooks.com/news/how-to-shop-black-friday-chromebook-deals-and-how-not-to/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-shop-black-friday-chromebook-deals-and-how-not-to)
-- [GitHub Codespaces on a Chromebook is fantastic!](https://www.aboutchromebooks.com/news/github-codespaces-on-a-chromebook-is-fantastic/?utm_source=rss&utm_medium=rss&utm_campaign=github-codespaces-on-a-chromebook-is-fantastic)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
