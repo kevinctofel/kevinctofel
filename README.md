@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ChromeOS 108 release adds 5 new features to Chromebooks](https://www.aboutchromebooks.com/news/chromeos-108-release-adds-5-new-features-to-chromebooks/?utm_source=rss&utm_medium=rss&utm_campaign=chromeos-108-release-adds-5-new-features-to-chromebooks)
-- [How to use network-based Chromebook recovery](https://www.aboutchromebooks.com/news/how-to-use-network-based-chromebook-recovery/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-network-based-chromebook-recovery)
-- [Here’s what’s in the now available Chrome 108 Release](https://www.aboutchromebooks.com/news/heres-whats-in-the-now-available-chrome-108-release/?utm_source=rss&utm_medium=rss&utm_campaign=heres-whats-in-the-now-available-chrome-108-release)
-- [Material You for Chromebooks looks great in ChromeOS 110](https://www.aboutchromebooks.com/news/material-you-for-chromebooks-looks-great-in-chromeos-110/?utm_source=rss&utm_medium=rss&utm_campaign=material-you-for-chromebooks-looks-great-in-chromeos-110)
-- [This may be the best Cyber Monday Chromebook deal](https://www.aboutchromebooks.com/news/this-may-be-the-best-cyber-monday-chromebook-deal/?utm_source=rss&utm_medium=rss&utm_campaign=this-may-be-the-best-cyber-monday-chromebook-deal)
+- [ChromeOS 108 release adds 5 new features to Chromebooks](https://www.aboutchromebooks.com/news/chromeos-108-release-adds-5-new-features-to-chromebooks/)
+- [How to use network-based Chromebook recovery](https://www.aboutchromebooks.com/news/how-to-use-network-based-chromebook-recovery/)
+- [Here’s what’s in the now available Chrome 108 Release](https://www.aboutchromebooks.com/news/heres-whats-in-the-now-available-chrome-108-release/)
+- [Material You for Chromebooks looks great in ChromeOS 110](https://www.aboutchromebooks.com/news/material-you-for-chromebooks-looks-great-in-chromeos-110/)
+- [This may be the best Cyber Monday Chromebook deal](https://www.aboutchromebooks.com/news/this-may-be-the-best-cyber-monday-chromebook-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
