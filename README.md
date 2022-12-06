@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [You can now buy the HP Chromebook x360 13b with MediaTek K1200](https://www.aboutchromebooks.com/news/you-can-now-buy-the-hp-chromebook-x360-13b-with-mediatek-k1200/)
 - [Save $100 on these two discounted cloud-gaming Chromebooks](https://www.aboutchromebooks.com/news/save-100-on-these-two-discounted-cloud-gaming-chromebooks/)
 - [ChromeOS 108 release adds 5 new features to Chromebooks](https://www.aboutchromebooks.com/news/chromeos-108-release-adds-5-new-features-to-chromebooks/)
 - [How to use network-based Chromebook recovery](https://www.aboutchromebooks.com/news/how-to-use-network-based-chromebook-recovery/)
 - [Here’s what’s in the now available Chrome 108 Release](https://www.aboutchromebooks.com/news/heres-whats-in-the-now-available-chrome-108-release/)
-- [Material You for Chromebooks looks great in ChromeOS 110](https://www.aboutchromebooks.com/news/material-you-for-chromebooks-looks-great-in-chromeos-110/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
