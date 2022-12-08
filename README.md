@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel Optane SSD in the Framework Chromebook: Lifetime storage?](https://www.aboutchromebooks.com/news/intel-optane-ssd-in-the-framework-chromebook-lifetime-storage/)
 - [Acer Chromebook Vero 514 review: A unique top performer](https://www.aboutchromebooks.com/news/acer-chromebook-vero-514-review-a-unique-top-performer/)
 - [You can now buy the HP Chromebook x360 13b with MediaTek K1200](https://www.aboutchromebooks.com/news/you-can-now-buy-the-hp-chromebook-x360-13b-with-mediatek-k1200/)
 - [Save $100 on these two discounted cloud-gaming Chromebooks](https://www.aboutchromebooks.com/news/save-100-on-these-two-discounted-cloud-gaming-chromebooks/)
 - [ChromeOS 108 release adds 5 new features to Chromebooks](https://www.aboutchromebooks.com/news/chromeos-108-release-adds-5-new-features-to-chromebooks/)
-- [How to use network-based Chromebook recovery](https://www.aboutchromebooks.com/news/how-to-use-network-based-chromebook-recovery/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
