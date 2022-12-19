@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Did I miss the ChromeOS 108 virtual desk app switching improvement?](https://www.aboutchromebooks.com/news/did-i-miss-the-chromeos-108-virtual-desk-app-switching-improvement/)
 - [The $729 Acer Chromebook Spin 714 is down to $599](https://www.aboutchromebooks.com/news/2022-acer-chromebook-spin-714-discount/)
 - [ChromeOS 109 adds SFTP to the Terminal on Chromebooks](https://www.aboutchromebooks.com/news/chromeos-109-adds-sftp-to-the-terminal-on-chromebooks/)
 - [Passkeys on Chrome and Chromebooks: What you need to know &lpar;updated&rpar;](https://www.aboutchromebooks.com/news/passkeys-on-chromebooks-what-you-need-to-know/)
 - [Intel Optane SSD in the Framework Chromebook: Lifetime storage?](https://www.aboutchromebooks.com/news/intel-optane-ssd-in-the-framework-chromebook-lifetime-storage/)
-- [Acer Chromebook Vero 514 review: A unique top performer](https://www.aboutchromebooks.com/news/acer-chromebook-vero-514-review-a-unique-top-performer/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
