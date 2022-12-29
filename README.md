@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Full Lenovo ThinkCentre M60q Chromebox specs appear online](https://www.aboutchromebooks.com/news/full-lenovo-thinkcentre-m60q-chromebox-specs-appear-online/)
 - [Intel’s P-Series balancing act for Chromebook power and performance](https://www.aboutchromebooks.com/news/intels-p-series-balancing-act-for-chromebook-power-and-performance/)
 - [Here are my 3 favorite Chromebooks of 2022](https://www.aboutchromebooks.com/news/here-are-my-3-favorite-chromebooks-of-2022/)
 - [Why Chrome extensions can slow down a Chromebook](https://www.aboutchromebooks.com/news/why-chrome-extensions-can-slow-down-a-chromebook/)
 - [New Lenovo IdeaPad Flex 3i Chromebook starts at $349](https://www.aboutchromebooks.com/news/new-lenovo-ideapad-flex-3i-chromebook-starts-at-349/)
-- [Did I miss the ChromeOS 108 virtual desk app switching improvement?](https://www.aboutchromebooks.com/news/did-i-miss-the-chromeos-108-virtual-desk-app-switching-improvement/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
