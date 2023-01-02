@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My pick for 2022 Chromebook of the Year](https://www.aboutchromebooks.com/news/my-pick-for-2022-chromebook-of-the-year/)
 - [Framework Chromebook Review: Flawed but Flexible And Fantastic](https://www.aboutchromebooks.com/reviews/framework-chromebook-review-flawed-but-flexible-and-fantastic/)
 - [Full Lenovo ThinkCentre M60q Chromebox specs appear online](https://www.aboutchromebooks.com/news/full-lenovo-thinkcentre-m60q-chromebox-specs-appear-online/)
 - [Intel’s P-Series balancing act for Chromebook power and performance](https://www.aboutchromebooks.com/news/intels-p-series-balancing-act-for-chromebook-power-and-performance/)
 - [Here are my 3 favorite Chromebooks of 2022](https://www.aboutchromebooks.com/news/here-are-my-3-favorite-chromebooks-of-2022/)
-- [Why Chrome extensions can slow down a Chromebook](https://www.aboutchromebooks.com/news/why-chrome-extensions-can-slow-down-a-chromebook/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
