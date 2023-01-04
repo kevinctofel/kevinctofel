@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HP Dragonfly Pro Chromebook looks powerful and more traditional](https://www.aboutchromebooks.com/news/hp-dragonfly-pro-chromebook-looks-powerful-and-more-traditional/)
 - [The $729 Acer Chromebook Spin 714 is down to $599](https://www.aboutchromebooks.com/news/2022-acer-chromebook-spin-714-discount/)
 - [Acer Chromebox CXI5 and Add-In-One 24 are smartly designed](https://www.aboutchromebooks.com/news/acer-chromebox-cxi5-and-add-in-one-24-are-smartly-designed/)
 - [My pick for 2022 Chromebook of the Year](https://www.aboutchromebooks.com/news/my-pick-for-2022-chromebook-of-the-year/)
 - [Framework Chromebook Review: Flawed but Flexible And Fantastic](https://www.aboutchromebooks.com/reviews/framework-chromebook-review-flawed-but-flexible-and-fantastic/)
-- [Full Lenovo ThinkCentre M60q Chromebox specs appear online](https://www.aboutchromebooks.com/news/full-lenovo-thinkcentre-m60q-chromebox-specs-appear-online/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
