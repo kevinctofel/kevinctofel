@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New Asus Chromebook CM14 Flip promises 14 hour battery life](https://www.aboutchromebooks.com/news/new-asus-chromebook-cm14-flip-promises-14-hour-battery-life/)
 - [Use these model codes to find the best Chromebook](https://www.aboutchromebooks.com/news/use-these-model-codes-to-find-the-best-chromebook/)
 - [The Asus Chromebox 5 killer feature: wireless phone charging](https://www.aboutchromebooks.com/news/the-asus-chromebox-5-killer-feature-wireless-phone-charging/)
 - [Asus Chromebook Vibe CX34 Flip is a smaller, better cloud-gamer](https://www.aboutchromebooks.com/news/asus-chromebook-vibe-cx34-flip-is-a-smaller-better-cloud-gamer/)
 - [HP Dragonfly Pro Chromebook looks powerful and more traditional &lpar;updated&rpar;](https://www.aboutchromebooks.com/news/hp-dragonfly-pro-chromebook-looks-powerful-and-more-traditional/)
-- [The $729 Acer Chromebook Spin 714 is down to $599](https://www.aboutchromebooks.com/news/2022-acer-chromebook-spin-714-discount/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
