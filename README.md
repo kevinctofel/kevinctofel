@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here’s what’s in the now available Chrome 109 Release](https://www.aboutchromebooks.com/news/heres-whats-in-the-now-available-chrome-109-release/)
 - [New Asus Chromebook CM14 Flip promises 14 hour battery life](https://www.aboutchromebooks.com/news/new-asus-chromebook-cm14-flip-promises-14-hour-battery-life/)
 - [Use these model codes to find the best Chromebook](https://www.aboutchromebooks.com/news/use-these-model-codes-to-find-the-best-chromebook/)
 - [The Asus Chromebox 5 killer feature: wireless phone charging](https://www.aboutchromebooks.com/news/the-asus-chromebox-5-killer-feature-wireless-phone-charging/)
 - [Asus Chromebook Vibe CX34 Flip is a smaller, better cloud-gamer](https://www.aboutchromebooks.com/news/asus-chromebook-vibe-cx34-flip-is-a-smaller-better-cloud-gamer/)
-- [HP Dragonfly Pro Chromebook looks powerful and more traditional &lpar;updated&rpar;](https://www.aboutchromebooks.com/news/hp-dragonfly-pro-chromebook-looks-powerful-and-more-traditional/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
