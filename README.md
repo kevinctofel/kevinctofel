@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Material You For Chromebooks Looks Amazing and Nearly Ready](https://www.aboutchromebooks.com/news/material-you-for-chromebooks-looks-amazing-and-nearly-ready/)
 - [Is Minecraft on a Chromebook in the works at Microsoft?](https://www.aboutchromebooks.com/news/is-minecraft-on-a-chromebook-in-the-works-at-microsoft/)
 - [ChromeOS 109 release adds 6 new features to Chromebooks](https://www.aboutchromebooks.com/news/chromeos-109-release-adds-6-new-features-to-chromebooks/)
 - [Here’s what’s in the now available Chrome 109 Release](https://www.aboutchromebooks.com/news/heres-whats-in-the-now-available-chrome-109-release/)
 - [New Asus Chromebook CM14 Flip promises 14 hour battery life](https://www.aboutchromebooks.com/news/new-asus-chromebook-cm14-flip-promises-14-hour-battery-life/)
-- [Use these model codes to find the best Chromebook](https://www.aboutchromebooks.com/news/use-these-model-codes-to-find-the-best-chromebook/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
