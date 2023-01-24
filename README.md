@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [First look at the HP Chromebook x360 13b with MediaTek K1200](https://www.aboutchromebooks.com/news/first-look-at-the-hp-chromebook-x360-13b-with-mediatek-k1200/)
 - [Incoming tech: OCR text from PDFs on Chrome, Chromebooks](https://www.aboutchromebooks.com/news/incoming-tech-ocr-text-from-pdfs-on-chrome-chromebooks/)
 - [Material You For Chromebooks Looks Amazing and Nearly Ready](https://www.aboutchromebooks.com/news/material-you-for-chromebooks-looks-amazing-and-nearly-ready/)
 - [Is Minecraft on a Chromebook in the works at Microsoft?](https://www.aboutchromebooks.com/news/is-minecraft-on-a-chromebook-in-the-works-at-microsoft/)
 - [ChromeOS 109 release adds 6 new features to Chromebooks](https://www.aboutchromebooks.com/news/chromeos-109-release-adds-6-new-features-to-chromebooks/)
-- [Here’s what’s in the now available Chrome 109 Release](https://www.aboutchromebooks.com/news/heres-whats-in-the-now-available-chrome-109-release/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
