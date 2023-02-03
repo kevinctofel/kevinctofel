@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Use Microsoft 365 and OneDrive? They’re getting better on Chromebooks](https://www.aboutchromebooks.com/news/use-microsoft-365-and-onedrive-theyre-getting-better-on-chromebooks/)
 - [HP Fortis Chromebook gets affordable classroom updates](https://www.aboutchromebooks.com/news/hp-fortis-chromebook-gets-affordable-classroom-updates/)
 - [The Acer Chromebook 516 GE for $449 is an amazing deal](https://www.aboutchromebooks.com/news/the-acer-chromebook-516-ge-for-449-is-an-amazing-deal/)
 - [Pro Tip: A portable power bank can double your Chromebook usage on the go](https://www.aboutchromebooks.com/news/pro-tip-a-portable-power-bank-can-double-your-chromebook-usage-on-the-go/)
 - [How to change Chromebook Tote to Quick Files in ChromeOS](https://www.aboutchromebooks.com/news/how-to-change-chromebook-tote-to-quick-files-in-chromeos/)
-- [Impressive Lenovo Duet 5 Chromebook sees $120 discount](https://www.aboutchromebooks.com/news/lenovo-duet-5-chromebook-price-sale/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
