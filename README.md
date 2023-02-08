@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here’s what’s in the now available Chrome 110 Release](https://www.aboutchromebooks.com/news/heres-whats-in-the-now-available-chrome-110-release/)
 - [Save $230 on the excellent Acer Chromebook Spin 714](https://www.aboutchromebooks.com/news/save-230-on-the-excellent-acer-chromebook-spin-714/)
 - [Can’t resize certain Android apps on your Chromebook? Here’s why](https://www.aboutchromebooks.com/news/cant-resize-certain-android-apps-on-your-chromebook-heres-why/)
 - [Use Microsoft 365 and OneDrive? They’re getting better on Chromebooks](https://www.aboutchromebooks.com/news/use-microsoft-365-and-onedrive-theyre-getting-better-on-chromebooks/)
 - [HP Fortis Chromebook gets affordable classroom updates](https://www.aboutchromebooks.com/news/hp-fortis-chromebook-gets-affordable-classroom-updates/)
-- [The Acer Chromebook 516 GE for $449 is an amazing deal](https://www.aboutchromebooks.com/news/the-acer-chromebook-516-ge-for-449-is-an-amazing-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
