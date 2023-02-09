@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This new ChromeOS change could boost VM performance on Chromebooks](https://www.aboutchromebooks.com/news/this-new-chromeos-change-could-boost-vm-performance-on-chromebooks/)
 - [Here’s what’s in the now available Chrome 110 Release](https://www.aboutchromebooks.com/news/heres-whats-in-the-now-available-chrome-110-release/)
 - [Save $230 on the excellent Acer Chromebook Spin 714](https://www.aboutchromebooks.com/news/save-230-on-the-excellent-acer-chromebook-spin-714/)
 - [Can’t resize certain Android apps on your Chromebook? Here’s why](https://www.aboutchromebooks.com/news/cant-resize-certain-android-apps-on-your-chromebook-heres-why/)
 - [Use Microsoft 365 and OneDrive? They’re getting better on Chromebooks](https://www.aboutchromebooks.com/news/use-microsoft-365-and-onedrive-theyre-getting-better-on-chromebooks/)
-- [HP Fortis Chromebook gets affordable classroom updates](https://www.aboutchromebooks.com/news/hp-fortis-chromebook-gets-affordable-classroom-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
