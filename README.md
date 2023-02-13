@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Enable Material You Quick Settings Menu on a Chromebook](https://www.aboutchromebooks.com/news/how-to-enable-material-you-quick-settings-menu-on-a-chromebook/)
 - [Impressive Lenovo Duet 5 Chromebook sees $120 discount again](https://www.aboutchromebooks.com/news/lenovo-duet-5-chromebook-price-sale/)
 - [ChromeOS 111 Shows A Complete Look At Custom Keyboard Shortcuts](https://www.aboutchromebooks.com/news/chromeos-111-shows-a-complete-look-at-custom-keyboard-shortcuts/)
 - [This new ChromeOS change could boost VM performance on Chromebooks](https://www.aboutchromebooks.com/news/this-new-chromeos-change-could-boost-vm-performance-on-chromebooks/)
 - [Here’s what’s in the now available Chrome 110 Release](https://www.aboutchromebooks.com/news/heres-whats-in-the-now-available-chrome-110-release/)
-- [Save $230 on the excellent Acer Chromebook Spin 714](https://www.aboutchromebooks.com/news/save-230-on-the-excellent-acer-chromebook-spin-714/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
