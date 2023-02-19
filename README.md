@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HP Chromebook x360 14b review: MediaTek K1200 is the star](https://www.aboutchromebooks.com/news/hp-chromebook-x360-14b-review-mediatek-k1200-is-the-star/)
 - [ChromeOS 110 release adds 7 new features to Chromebooks](https://www.aboutchromebooks.com/news/chromeos-110-release-adds-7-new-features-to-chromebooks/)
 - [How to Enable Material You Quick Settings Menu on a Chromebook](https://www.aboutchromebooks.com/news/how-to-enable-material-you-quick-settings-menu-on-a-chromebook/)
 - [Impressive Lenovo Duet 5 Chromebook sees $120 discount again](https://www.aboutchromebooks.com/news/lenovo-duet-5-chromebook-price-sale/)
 - [ChromeOS 111 Shows A Complete Look At Custom Keyboard Shortcuts](https://www.aboutchromebooks.com/news/chromeos-111-shows-a-complete-look-at-custom-keyboard-shortcuts/)
-- [This new ChromeOS change could boost VM performance on Chromebooks](https://www.aboutchromebooks.com/news/this-new-chromeos-change-could-boost-vm-performance-on-chromebooks/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
