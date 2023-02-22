@@ -68,7 +68,7 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia GPUs in Chromebooks for Steam gaming on the way?](https://www.aboutchromebooks.com/news/nvidia-gpus-in-chromebooks-for-steam-gaming-on-the-way/)
+- [Chromebooks with Nvidia GPUs for Steam gaming on the way?](https://www.aboutchromebooks.com/news/chromebooks-with-nvidia-gpus-for-steam-gaming-on-the-way/)
 - [HP Chromebook x360 14b review: MediaTek K1200 is the star](https://www.aboutchromebooks.com/news/hp-chromebook-x360-14b-review-mediatek-k1200-is-the-star/)
 - [ChromeOS 110 release adds 7 new features to Chromebooks](https://www.aboutchromebooks.com/news/chromeos-110-release-adds-7-new-features-to-chromebooks/)
 - [How to Enable Material You Quick Settings Menu on a Chromebook](https://www.aboutchromebooks.com/news/how-to-enable-material-you-quick-settings-menu-on-a-chromebook/)
