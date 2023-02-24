@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FydeOS vs ChromeOS Flex: Which is right for you?](https://www.aboutchromebooks.com/news/fydeos-vs-chromeos-flex-which-is-right-for-you/)
 - [Chromebooks with Nvidia GPUs for Steam gaming on the way?](https://www.aboutchromebooks.com/news/chromebooks-with-nvidia-gpus-for-steam-gaming-on-the-way/)
 - [HP Chromebook x360 14b review: MediaTek K1200 is the star](https://www.aboutchromebooks.com/news/hp-chromebook-x360-14b-review-mediatek-k1200-is-the-star/)
 - [ChromeOS 110 release adds 7 new features to Chromebooks](https://www.aboutchromebooks.com/news/chromeos-110-release-adds-7-new-features-to-chromebooks/)
 - [How to Enable Material You Quick Settings Menu on a Chromebook](https://www.aboutchromebooks.com/news/how-to-enable-material-you-quick-settings-menu-on-a-chromebook/)
-- [Impressive Lenovo Duet 5 Chromebook sees $120 discount again](https://www.aboutchromebooks.com/news/lenovo-duet-5-chromebook-price-sale/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
