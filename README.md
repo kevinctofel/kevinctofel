@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lenovo 5i Chromebook first look: A big screen experience](https://www.aboutchromebooks.com/news/lenovo-5i-chromebook-first-look-a-big-screen-experience/)
 - [Here’s why I want a rollable display Chromebook](https://www.aboutchromebooks.com/news/heres-why-i-want-a-rollable-display-chromebook/)
 - [Lenovo IdeaPad Slim 3 Chromebook is a budget ARM laptop](https://www.aboutchromebooks.com/news/lenovo-ideapad-slim-3-chromebook-is-a-budget-arm-laptop/)
 - [FydeOS vs ChromeOS Flex: Which is right for you?](https://www.aboutchromebooks.com/news/fydeos-vs-chromeos-flex-which-is-right-for-you/)
 - [Chromebooks with Nvidia GPUs for Steam gaming on the way?](https://www.aboutchromebooks.com/news/chromebooks-with-nvidia-gpus-for-steam-gaming-on-the-way/)
-- [HP Chromebook x360 14b review: MediaTek K1200 is the star](https://www.aboutchromebooks.com/news/hp-chromebook-x360-14b-review-mediatek-k1200-is-the-star/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
