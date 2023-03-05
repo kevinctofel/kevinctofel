@@ -68,7 +68,7 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to view memory used per tab on Chromebooks &lpar;which might be changing&rpar;](https://www.aboutchromebooks.com/news/how-to-view-memory-used-per-tab-on-chromebooks-which-might-be-changing/)
+- [How to view memory used per tab on Chromebooks](https://www.aboutchromebooks.com/news/how-to-view-memory-used-per-tab-on-chromebooks-which-might-be-changing/)
 - [Lenovo 5i Chromebook first look: A big screen experience](https://www.aboutchromebooks.com/news/lenovo-5i-chromebook-first-look-a-big-screen-experience/)
 - [Here’s why I want a rollable display Chromebook](https://www.aboutchromebooks.com/news/heres-why-i-want-a-rollable-display-chromebook/)
 - [Lenovo IdeaPad Slim 3 Chromebook is a budget ARM laptop](https://www.aboutchromebooks.com/news/lenovo-ideapad-slim-3-chromebook-is-a-budget-arm-laptop/)
