@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft releases Minecraft for Chromebooks. Who needs the metaverse?](https://www.aboutchromebooks.com/news/microsoft-releases-minecraft-for-chromebooks-who-needs-the-metaverse/)
 - [3 simple ways to find your Chromebook board and brand name](https://www.aboutchromebooks.com/news/3-simple-ways-to-find-your-chromebook-board-and-brand-name/)
 - [ChromeOS 111 release adds several new Chromebook features](https://www.aboutchromebooks.com/news/chromeos-111-release-adds-several-new-chromebook-features/)
 - [Here’s what’s in the now available Chrome 111 Release](https://www.aboutchromebooks.com/news/heres-whats-in-the-now-available-chrome-111-release/)
 - [Chromebooks can auto-run PWAs at login in the future](https://www.aboutchromebooks.com/news/chromebooks-can-auto-run-pwas-at-login-in-the-future/)
-- [Lenovo Chromebook Duet 3 on sale at $269 is a steal of a deal](https://www.aboutchromebooks.com/news/lenovo-chromebook-duet-3-on-sale-at-269-is-a-steal-of-a-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
