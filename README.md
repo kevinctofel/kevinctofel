@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [You’ll appreciate the new, smart Chrome browser Memory Saver](https://www.aboutchromebooks.com/news/youll-appreciate-the-new-smart-chrome-browser-memory-saver/)
 - [New HP Chromebook x360 14c gets a 12th gen Intel upgrade, starts at $699](https://www.aboutchromebooks.com/news/new-hp-chromebook-x360-14c-gets-a-12th-gen-intel-upgrade-starts-at-699/)
 - [Microsoft releases Minecraft for Chromebooks. Who needs the metaverse?](https://www.aboutchromebooks.com/news/microsoft-releases-minecraft-for-chromebooks-who-needs-the-metaverse/)
 - [3 simple ways to find your Chromebook board and brand name](https://www.aboutchromebooks.com/news/3-simple-ways-to-find-your-chromebook-board-and-brand-name/)
 - [ChromeOS 111 release adds several new Chromebook features](https://www.aboutchromebooks.com/news/chromeos-111-release-adds-several-new-chromebook-features/)
-- [Here’s what’s in the now available Chrome 111 Release](https://www.aboutchromebooks.com/news/heres-whats-in-the-now-available-chrome-111-release/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
