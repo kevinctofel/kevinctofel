@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The entry-level Lenovo Slim 3 Chromebook arrives for $319](https://www.aboutchromebooks.com/news/the-entry-level-lenovo-slim-3-chromebook-arrives-for-319/)
 - [HP Dragonfly Pro Chromebook review: The Pixelbook of 2023?](https://www.aboutchromebooks.com/news/hp-dragonfly-pro-chromebook-review-the-pixelbook-of-2023/)
 - [I love this small change to the ChromeOS clipboard history](https://www.aboutchromebooks.com/news/i-love-this-small-change-to-the-chromeos-clipboard-history/)
 - [A $299 mini PC shows what a really good Chromebox could be](https://www.aboutchromebooks.com/news/a-299-mini-pc-shows-what-a-really-good-chromebox-could-be/)
 - [Lenovo 5i Chromebook review: Big screen, battery and compromises](https://www.aboutchromebooks.com/news/lenovo-5i-chromebook-review-big-screen-battery-and-compromises/)
-- [You’ll appreciate the new, smart Chrome browser Memory Saver](https://www.aboutchromebooks.com/news/youll-appreciate-the-new-smart-chrome-browser-memory-saver/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
