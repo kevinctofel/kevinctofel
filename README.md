@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [There’s a big discount on the Lenovo 5i Chromebook. Is it worth it?](https://www.aboutchromebooks.com/news/theres-a-big-discount-on-the-lenovo-5i-chromebook-is-it-worth-it/)
 - [How to create a private alternative to Google services for Chromebooks](https://www.aboutchromebooks.com/news/how-to-create-a-private-alternative-to-google-services-for-chromebooks/)
 - [How to use Read Anything in the ChromeOS 111 side panel](https://www.aboutchromebooks.com/news/how-to-use-the-read-anything-in-the-chromeos-111-side-panel/)
 - [The entry-level Lenovo Slim 3 Chromebook arrives for $319](https://www.aboutchromebooks.com/news/the-entry-level-lenovo-slim-3-chromebook-arrives-for-319/)
 - [HP Dragonfly Pro Chromebook review: The Pixelbook of 2023?](https://www.aboutchromebooks.com/news/hp-dragonfly-pro-chromebook-review-the-pixelbook-of-2023/)
-- [I love this small change to the ChromeOS clipboard history](https://www.aboutchromebooks.com/news/i-love-this-small-change-to-the-chromeos-clipboard-history/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
