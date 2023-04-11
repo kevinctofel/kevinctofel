@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChromeOS 112 release adds several new Chromebook features](https://www.aboutchromebooks.com/news/chromeos-112-release-adds-several-new-chromebook-features/)
 - [I wanted Android app streaming on Chromebooks, but now I’m not sure](https://www.aboutchromebooks.com/news/i-wanted-android-app-streaming-on-chromebooks-but-now-im-not-sure/)
 - [Save $200 on the powerful 2022 Acer Chromebook Spin 714](https://www.aboutchromebooks.com/news/save-200-on-the-powerful-2022-acer-chromebook-spin-714/)
 - [Here’s what’s in the now available Google Chrome 112 release](https://www.aboutchromebooks.com/news/heres-whats-in-the-now-available-google-chrome-112-release/)
 - [There’s a big discount on the Lenovo 5i Chromebook. Is it worth it?](https://www.aboutchromebooks.com/news/theres-a-big-discount-on-the-lenovo-5i-chromebook-is-it-worth-it/)
-- [How to create a private alternative to Google services for Chromebooks](https://www.aboutchromebooks.com/news/how-to-create-a-private-alternative-to-google-services-for-chromebooks/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
