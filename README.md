@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Installing PWAs on Chromebooks has a small, useful upgrade](https://www.aboutchromebooks.com/news/installing-pwas-on-chromebooks-has-a-small-useful-upgrade/)
 - [2023 Acer Chromebook Spin 714 gains new chips, lower price](https://www.aboutchromebooks.com/news/2023-acer-chromebook-spin-714-gains-new-chips-lower-price/)
 - [Chromebook and ultrawide monitor? It’s a productivity boost!](https://www.aboutchromebooks.com/news/chromebook-and-ultrawide-monitor-its-a-productivity-boost/)
 - [8 months on the Acer Chromebook Spin 714, still a top value](https://www.aboutchromebooks.com/news/8-months-on-the-acer-chromebook-spin-714-still-a-top-value/)
 - [Why is there a smaller Samsung Galaxy Chromebook Go on the way?](https://www.aboutchromebooks.com/news/why-is-there-a-smaller-samsung-galaxy-chromebook-go-on-the-way/)
-- [ChromeOS 112 release adds several new Chromebook features](https://www.aboutchromebooks.com/news/chromeos-112-release-adds-several-new-chromebook-features/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
