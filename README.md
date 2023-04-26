@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New ChromeOS privacy controls coming to Chromebooks](https://www.aboutchromebooks.com/news/new-chromeos-privacy-controls-coming-to-chromebooks/)
 - [Sync comes to Google Authenticator but Chromebooks left out](https://www.aboutchromebooks.com/news/sync-comes-to-google-authenticator-but-chromebooks-left-out/)
 - [Installing PWAs on Chromebooks has a small, useful upgrade](https://www.aboutchromebooks.com/news/installing-pwas-on-chromebooks-has-a-small-useful-upgrade/)
 - [2023 Acer Chromebook Spin 714 gains new chips, lower price](https://www.aboutchromebooks.com/news/2023-acer-chromebook-spin-714-gains-new-chips-lower-price/)
 - [Chromebook and ultrawide monitor? It’s a productivity boost!](https://www.aboutchromebooks.com/news/chromebook-and-ultrawide-monitor-its-a-productivity-boost/)
-- [8 months on the Acer Chromebook Spin 714, still a top value](https://www.aboutchromebooks.com/news/8-months-on-the-acer-chromebook-spin-714-still-a-top-value/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
