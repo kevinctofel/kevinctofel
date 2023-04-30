@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use the Google Photos video editor on a Chromebook](https://www.aboutchromebooks.com/how-to/how-to-use-the-google-photos-video-editor-on-a-chromebook/)
 - [New HP Chromebook 15a is a 15.6″ laptop with 12th gen chips](https://www.aboutchromebooks.com/news/new-hp-chromebook-15a-is-a-15-6-laptop-with-12th-gen-chips/)
 - [Finally: ChromeOS web app icons will look different on Chromebooks](https://www.aboutchromebooks.com/news/finally-chromeos-web-app-icons-will-look-different-on-chromebooks/)
 - [New ChromeOS privacy controls coming to Chromebooks](https://www.aboutchromebooks.com/news/new-chromeos-privacy-controls-coming-to-chromebooks/)
 - [Sync comes to Google Authenticator but Chromebooks left out](https://www.aboutchromebooks.com/news/sync-comes-to-google-authenticator-but-chromebooks-left-out/)
-- [Installing PWAs on Chromebooks has a small, useful upgrade](https://www.aboutchromebooks.com/news/installing-pwas-on-chromebooks-has-a-small-useful-upgrade/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
