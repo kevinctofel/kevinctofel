@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2023 Lenovo Flex 3 Chromebook: first impressions](https://www.aboutchromebooks.com/news/2023-lenovo-flex-3-chromebook-first-impressions/)
 - [You can now order the premium Dell Latitude 5430 Chromebook](https://www.aboutchromebooks.com/news/you-can-now-order-the-premium-dell-latitude-5430-chromebook/)
 - [How to use the Google Photos video editor on a Chromebook](https://www.aboutchromebooks.com/how-to/how-to-use-the-google-photos-video-editor-on-a-chromebook/)
 - [New HP Chromebook 15a is a 15.6″ laptop with 12th gen chips](https://www.aboutchromebooks.com/news/new-hp-chromebook-15a-is-a-15-6-laptop-with-12th-gen-chips/)
 - [Finally: ChromeOS web app icons will look different on Chromebooks](https://www.aboutchromebooks.com/news/finally-chromeos-web-app-icons-will-look-different-on-chromebooks/)
-- [New ChromeOS privacy controls coming to Chromebooks](https://www.aboutchromebooks.com/news/new-chromeos-privacy-controls-coming-to-chromebooks/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
