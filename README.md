@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to screenshot on a Chromebook &lpar;updated&rpar;](https://www.aboutchromebooks.com/how-to/how-to-screenshot-on-a-chromebook/)
 - [Native system tray Tasks app on Chromebooks in the works](https://www.aboutchromebooks.com/news/native-system-tray-tasks-app-on-chromebooks-in-the-works/)
 - [Here’s what’s in the now available Google Chrome 113 release](https://www.aboutchromebooks.com/news/heres-whats-in-the-now-available-google-chrome-113-release/)
 - [2023 Lenovo Flex 3 Chromebook: first impressions](https://www.aboutchromebooks.com/news/2023-lenovo-flex-3-chromebook-first-impressions/)
 - [You can now order the premium Dell Latitude 5430 Chromebook](https://www.aboutchromebooks.com/news/you-can-now-order-the-premium-dell-latitude-5430-chromebook/)
-- [How to use the Google Photos video editor on a Chromebook](https://www.aboutchromebooks.com/how-to/how-to-use-the-google-photos-video-editor-on-a-chromebook/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
