@@ -11,7 +11,7 @@
 ## I'm a 53 year old self-taught (mostly) computer geek.
 
 - 🌱 I’m currently learning to be a JavaScript Master at [Launch School](http://www.launchschool.com) 🤓
-- 🥅 2022 Goals: Progress towards JavaScript mastery
+- 🥅 2023 Goals: Progress towards JavaScript mastery, actively contribute to open source projects.
 - ⚡ Fun facts: I once ran at least a mile per day for 987 days in a row, earned U.S. All American status at age 47 in the 400m (64.8 seconds) and have completed 4 marathons
 - As of May, 2022, I'm a newly licenced motorcycle rider. Current bike: [2015 MotoGuzzi V7 Stone](https://photos.app.goo.gl/9QjN59safj89xaoNA).
 - 😄 Pronouns: He/him
