@@ -68,7 +68,7 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Arguably the best 2022 Chromebook is discounted by $200](https://www.aboutchromebooks.com/news/arguably-the-best-2022-chromebook-is-discounted-by-200/)
+- [Arguably the best Chromebook of 2022 is discounted by $200](https://www.aboutchromebooks.com/news/arguably-the-best-chromebook-of-2022-is-discounted-by-200/)
 - [How to screenshot on a Chromebook &lpar;updated&rpar;](https://www.aboutchromebooks.com/how-to/how-to-screenshot-on-a-chromebook/)
 - [Native system tray Tasks app on Chromebooks in the works](https://www.aboutchromebooks.com/news/native-system-tray-tasks-app-on-chromebooks-in-the-works/)
 - [Here’s what’s in the now available Google Chrome 113 release](https://www.aboutchromebooks.com/news/heres-whats-in-the-now-available-google-chrome-113-release/)
