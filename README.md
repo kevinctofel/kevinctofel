@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use Android App Streaming on Chromebooks](https://www.aboutchromebooks.com/how-to/how-to-use-android-app-streaming-on-chromebooks/)
 - [Dell Latitude 3445 Chromebook makes a surprise introduction](https://www.aboutchromebooks.com/news/dell-latitude-3445-chromebook-makes-a-surprise-introduction/)
 - [Arguably the best Chromebook of 2022 is discounted by $200](https://www.aboutchromebooks.com/news/arguably-the-best-chromebook-of-2022-is-discounted-by-200/)
 - [How to screenshot on a Chromebook &lpar;updated&rpar;](https://www.aboutchromebooks.com/how-to/how-to-screenshot-on-a-chromebook/)
 - [Native system tray Tasks app on Chromebooks in the works](https://www.aboutchromebooks.com/news/native-system-tray-tasks-app-on-chromebooks-in-the-works/)
-- [Here’s what’s in the now available Google Chrome 113 release](https://www.aboutchromebooks.com/news/heres-whats-in-the-now-available-google-chrome-113-release/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
