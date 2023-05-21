@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lenovo Flex 3 Chromebook review: Exceeding expectations](https://www.aboutchromebooks.com/news/lenovo-flex-3-chromebook-review-exceeding-expectations/)
 - [New HP Chromebox Enterprise G4 wows with 13th-gen Intel](https://www.aboutchromebooks.com/news/new-hp-chromebox-enterprise-g4-wows-with-13th-gen-intel/)
 - [How to use Android App Streaming on Chromebooks](https://www.aboutchromebooks.com/how-to/how-to-use-android-app-streaming-on-chromebooks/)
 - [Dell Latitude 3445 Chromebook makes a surprise introduction](https://www.aboutchromebooks.com/news/dell-latitude-3445-chromebook-makes-a-surprise-introduction/)
 - [Arguably the best Chromebook of 2022 is discounted by $200](https://www.aboutchromebooks.com/news/arguably-the-best-chromebook-of-2022-is-discounted-by-200/)
-- [How to screenshot on a Chromebook &lpar;updated&rpar;](https://www.aboutchromebooks.com/how-to/how-to-screenshot-on-a-chromebook/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
