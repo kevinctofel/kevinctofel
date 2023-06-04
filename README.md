@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I have low expectations for Steam gaming on Chromebooks](https://www.aboutchromebooks.com/opinion/why-i-have-low-expectations-for-steam-gaming-on-chromebooks/)
 - [Here’s what’s in the now available Google Chrome 114 release](https://www.aboutchromebooks.com/news/heres-whats-in-the-now-available-google-chrome-114-release/)
 - [Nab an Acer Chromebook 514 at more than half off right now](https://www.aboutchromebooks.com/news/nab-an-acer-chromebook-514-at-more-than-half-off-right-now/)
 - [Those new AMD Chromebook chips are actually a bit old](https://www.aboutchromebooks.com/news/those-new-amd-chromebook-chips-are-actually-a-bit-old/)
 - [Sidekick on a Chromebook: A better browser for ChromeOS](https://www.aboutchromebooks.com/news/sidekick-on-a-chromebook-a-better-browser-for-chromeos/)
-- [Lenovo Flex 3 Chromebook review: Exceeding expectations](https://www.aboutchromebooks.com/news/lenovo-flex-3-chromebook-review-exceeding-expectations/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
