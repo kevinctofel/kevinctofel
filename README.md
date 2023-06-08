@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Playing Minecraft on Chromebooks is now officially official](https://www.aboutchromebooks.com/news/playing-minecraft-on-chromebooks-is-now-officially-official/)
 - [You can grab one of the best ChromeOS tablets for 26% off](https://www.aboutchromebooks.com/news/you-can-grab-one-of-the-best-chromeos-tablets-for-26-off/)
 - [Why I have low expectations for Steam gaming on Chromebooks](https://www.aboutchromebooks.com/opinion/why-i-have-low-expectations-for-steam-gaming-on-chromebooks/)
 - [Here’s what’s in the now available Google Chrome 114 release](https://www.aboutchromebooks.com/news/heres-whats-in-the-now-available-google-chrome-114-release/)
 - [Nab an Acer Chromebook 514 at more than half off right now](https://www.aboutchromebooks.com/news/nab-an-acer-chromebook-514-at-more-than-half-off-right-now/)
-- [Those new AMD Chromebook chips are actually a bit old](https://www.aboutchromebooks.com/news/those-new-amd-chromebook-chips-are-actually-a-bit-old/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
