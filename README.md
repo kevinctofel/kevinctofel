@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The best hidden ChromeOS features I use on my Chromebook](https://www.aboutchromebooks.com/news/the-best-hidden-chromeos-features-i-use-on-my-chromebook/)
 - [You can now buy the 2023 Acer Chromebook Spin 714](https://www.aboutchromebooks.com/news/you-can-now-buy-the-2023-acer-chromebook-spin-714/)
 - [ChromeOS 114 release adds several new Chromebook features](https://www.aboutchromebooks.com/news/chromeos-114-release-adds-several-new-chromebook-features/)
 - [Nvidia levels up Chromebook gaming with a GeForce Now update](https://www.aboutchromebooks.com/news/nvidia-levels-up-chromebook-gaming-with-a-geforce-now-update/)
 - [Playing Minecraft on Chromebooks is now officially official](https://www.aboutchromebooks.com/news/playing-minecraft-on-chromebooks-is-now-officially-official/)
-- [You can grab one of the best ChromeOS tablets for 26% off](https://www.aboutchromebooks.com/news/you-can-grab-one-of-the-best-chromeos-tablets-for-26-off/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
