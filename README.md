@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How and why I use Linux on my Chromebook](https://www.aboutchromebooks.com/news/how-i-use-linux-on-my-chromebook-2023/)
 - [Why Chromebook X branding is the wrong approach for Google](https://www.aboutchromebooks.com/news/why-chromebook-x-branding-is-the-wrong-approach-for-google/)
 - [The big, budget ASUS Chromebook CX1 is discounted to $249](https://www.aboutchromebooks.com/news/the-big-budget-asus-chromebook-cx1-is-discounted-to-249/)
 - [A first look at the Google Password Manager Chromebook app](https://www.aboutchromebooks.com/news/a-first-look-at-the-google-password-manager-chromebook-app/)
 - [The best hidden ChromeOS features I use on my Chromebook](https://www.aboutchromebooks.com/news/the-best-hidden-chromeos-features-i-use-on-my-chromebook/)
-- [You can now buy the 2023 Acer Chromebook Spin 714](https://www.aboutchromebooks.com/news/you-can-now-buy-the-2023-acer-chromebook-spin-714/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
