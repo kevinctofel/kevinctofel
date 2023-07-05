@@ -68,8 +68,8 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to browse on a Chromebook with just the keyboard](https://www.aboutchromebooks.com/news/how-to-browse-on-a-chromebook-with-just-the-keyboard/)
-- [Why I use a Chromebook: It does what I need really well](https://www.aboutchromebooks.com/news/why-i-use-a-chromebook-2023/)
+- [How to browse on a Chromebook with just the keyboard](https://www.aboutchromebooks.com/how-to/how-to-browse-on-a-chromebook-with-just-the-keyboard/)
+- [Why I use a Chromebook: It does what I need really well](https://www.aboutchromebooks.com/opinion/why-i-use-a-chromebook-2023/)
 - [Grab the Acer Chromebook 317 for 40 percent off: $299](https://www.aboutchromebooks.com/news/grab-the-acer-chromebook-317-for-40-percent-off-299/)
 - [How and why I use Linux on my Chromebook](https://www.aboutchromebooks.com/news/how-i-use-linux-on-my-chromebook-2023/)
 - [Why Chromebook X branding is the wrong approach for Google](https://www.aboutchromebooks.com/news/why-chromebook-x-branding-is-the-wrong-approach-for-google/)
