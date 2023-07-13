@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Passkeys on Chromebooks: What you need to know &lpar;updated&rpar;](https://www.aboutchromebooks.com/news/passkeys-on-chromebooks-2023/)
 - [Snag the 2023 Acer Chromebook Spin 714 for $160 off](https://www.aboutchromebooks.com/news/snag-the-2023-acer-chromebook-spin-714-for-160-off/)
 - [ChromeOS 116 adds a Virtual Desks button to the Shelf](https://www.aboutchromebooks.com/news/chromeos-116-adds-a-virtual-desks-button-to-the-shelf/)
 - [How to browse on a Chromebook with just the keyboard](https://www.aboutchromebooks.com/how-to/how-to-browse-on-a-chromebook-with-just-the-keyboard/)
 - [Why I use a Chromebook: It does what I need really well](https://www.aboutchromebooks.com/opinion/why-i-use-a-chromebook-2023/)
-- [Grab the Acer Chromebook 317 for 40 percent off: $299](https://www.aboutchromebooks.com/news/grab-the-acer-chromebook-317-for-40-percent-off-299/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
