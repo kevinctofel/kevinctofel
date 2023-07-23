@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChromeOS 115 release adds several new Chromebook features](https://www.aboutchromebooks.com/news/chromeos-115-release-adds-several-new-chromebook-features/)
 - [Here’s what’s in the now available Google Chrome 115 release](https://www.aboutchromebooks.com/news/heres-whats-in-the-now-available-google-chrome-115-release/)
 - [This is my favorite Chromebook read-later app: Omnivore](https://www.aboutchromebooks.com/apps/this-is-my-favorite-chromebook-read-later-app-omnivore/)
 - [There should be a successor to the HP Chromebook x2](https://www.aboutchromebooks.com/opinion/there-should-be-a-successor-to-the-hp-chromebook-x2/)
 - [Chromebooks are getting boring: Why that’s both good and bad.](https://www.aboutchromebooks.com/opinion/chromebooks-are-getting-boring-why-thats-both-good-and-bad/)
-- [Passkeys on Chromebooks: What you need to know &lpar;updated&rpar;](https://www.aboutchromebooks.com/news/passkeys-on-chromebooks-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
