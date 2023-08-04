@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use Proton VPN on a Chromebook without Android or Linux](https://www.aboutchromebooks.com/how-to/how-to-use-proton-vpn-on-a-chromebook-without-android-or-linux/)
 - [ChromeOS 116 may begin the Lacros browser push to Chromebooks](https://www.aboutchromebooks.com/news/chromeos-116-may-begin-the-lacros-browser-push-to-chromebooks/)
 - [How to install Google Earth Pro on a Chromebook](https://www.aboutchromebooks.com/how-to/how-to-install-google-earth-pro-on-a-chromebook/)
 - [First look at the new Microsoft 365 Chromebook integration](https://www.aboutchromebooks.com/news/first-look-at-the-new-microsoft-365-chromebook-integration/)
 - [ChromeOS 115 release adds several new Chromebook features](https://www.aboutchromebooks.com/news/chromeos-115-release-adds-several-new-chromebook-features/)
-- [Here’s what’s in the now available Google Chrome 115 release](https://www.aboutchromebooks.com/news/heres-whats-in-the-now-available-google-chrome-115-release/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
