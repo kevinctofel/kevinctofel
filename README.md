@@ -8,7 +8,7 @@
 
 ### Hi there, I'm Kevin - aka [kct][personal website] 👋
 
-## I'm a 53 year old self-taught (mostly) computer geek.
+## I'm a 54 year old self-taught (mostly) computer geek.
 
 - 🌱 I’m currently learning to be a JavaScript Master at [Launch School](http://www.launchschool.com) 🤓
 - 🥅 2023 Goals: Progress towards JavaScript mastery, actively contribute to open source projects.
