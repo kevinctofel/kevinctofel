@@ -68,7 +68,7 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How Lacros improves Chrome profile switching on Chromebooks](https://www.aboutchromebooks.com/news/heres-how-the-lacros-browser-will-improve-profile-switching-on-chromebooks/)
+- [How Lacros improves Chrome profile switching on Chromebooks](https://www.aboutchromebooks.com/news/how-lacros-browser-will-improve-profile-switching-on-chromebooks/)
 - [Lacros on Chromebooks transition plan won’t be quick](https://www.aboutchromebooks.com/news/lacros-on-chromebooks-transition-plan-wont-be-quick/)
 - [How to use Proton VPN on a Chromebook without Android or Linux](https://www.aboutchromebooks.com/how-to/how-to-use-proton-vpn-on-a-chromebook-without-android-or-linux/)
 - [ChromeOS 116 may begin the Lacros browser push to Chromebooks](https://www.aboutchromebooks.com/news/chromeos-116-may-begin-the-lacros-browser-push-to-chromebooks/)
