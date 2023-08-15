@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Oh well, no Gen 3 Snapdragon 7c Chromebooks coming after all](https://www.aboutchromebooks.com/news/oh-well-no-gen-3-snapdragon-7c-chromebooks-coming-after-all/)
 - [Get $200 off this Core i3 HP Chromebook x360 14c all week](https://www.aboutchromebooks.com/news/get-200-off-this-core-i3-hp-chromebook-x360-14c-all-week/)
 - [How Lacros improves Chrome profile switching on Chromebooks](https://www.aboutchromebooks.com/news/how-lacros-browser-will-improve-profile-switching-on-chromebooks/)
 - [Lacros on Chromebooks transition plan won’t be quick](https://www.aboutchromebooks.com/news/lacros-on-chromebooks-transition-plan-wont-be-quick/)
 - [How to use Proton VPN on a Chromebook without Android or Linux](https://www.aboutchromebooks.com/how-to/how-to-use-proton-vpn-on-a-chromebook-without-android-or-linux/)
-- [ChromeOS 116 may begin the Lacros browser push to Chromebooks](https://www.aboutchromebooks.com/news/chromeos-116-may-begin-the-lacros-browser-push-to-chromebooks/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
