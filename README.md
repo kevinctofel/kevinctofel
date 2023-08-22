@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2023 Acer Chromebook 314 features a new Intel i3-N305 inside](https://www.aboutchromebooks.com/news/2023-acer-chromebook-314-features-a-new-intel-i3-n305-inside/)
 - [Chromebook diagnostics are coming to the ChromeOS Launcher](https://www.aboutchromebooks.com/news/chromebook-diagnostics-are-coming-to-the-chromeos-launcher/)
 - [3 ways to boost the visibility of a Chromebook cursor](https://www.aboutchromebooks.com/how-to/3-ways-to-boost-the-visibility-of-a-chromebook-cursor/)
 - [Chromebooks with Nvidia GPUs get the chopping block too](https://www.aboutchromebooks.com/news/chromebooks-with-nvidia-gpus-get-the-chopping-block-too/)
 - [Oh well, no Gen 3 Snapdragon 7c Chromebooks coming after all](https://www.aboutchromebooks.com/news/oh-well-no-gen-3-snapdragon-7c-chromebooks-coming-after-all/)
-- [Get $200 off this Core i3 HP Chromebook x360 14c all week](https://www.aboutchromebooks.com/news/get-200-off-this-core-i3-hp-chromebook-x360-14c-all-week/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
