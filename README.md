@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChromeOS 116 release adds several new Chromebook features](https://www.aboutchromebooks.com/news/chromeos-116-release-adds-several-new-chromebook-features/)
 - [Chrome 117 will alert users with old extensions installed](https://www.aboutchromebooks.com/news/chrome-117-will-alert-users-with-old-extensions-installed/)
 - [2023 Acer Chromebook 314 features a new Intel i3-N305 inside](https://www.aboutchromebooks.com/news/2023-acer-chromebook-314-features-a-new-intel-i3-n305-inside/)
 - [Chromebook diagnostics are coming to the ChromeOS Launcher](https://www.aboutchromebooks.com/news/chromebook-diagnostics-are-coming-to-the-chromeos-launcher/)
 - [3 ways to boost the visibility of a Chromebook cursor](https://www.aboutchromebooks.com/how-to/3-ways-to-boost-the-visibility-of-a-chromebook-cursor/)
-- [Chromebooks with Nvidia GPUs get the chopping block too](https://www.aboutchromebooks.com/news/chromebooks-with-nvidia-gpus-get-the-chopping-block-too/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
