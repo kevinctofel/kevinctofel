@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to see the version of Android on a Chromebook](https://www.aboutchromebooks.com/how-to/how-to-see-the-version-of-android-on-a-chromebook/)
 - [How to create a private replacement for Google services on Chromebooks](https://www.aboutchromebooks.com/news/how-to-create-a-private-replacement-for-google-services-on-chromebooks/)
 - [This is the best big-screen Labor Day Chromebook deal](https://www.aboutchromebooks.com/news/this-is-the-best-big-screen-labor-day-chromebook-deal/)
 - [Get free 3 months of GeForce Now on your Chromebook today](https://www.aboutchromebooks.com/news/get-free-3-months-of-geforce-now-on-your-chromebook-today/)
 - [ChromeOS 116 release adds several new Chromebook features](https://www.aboutchromebooks.com/news/chromeos-116-release-adds-several-new-chromebook-features/)
-- [Chrome 117 will alert users with old extensions installed](https://www.aboutchromebooks.com/news/chrome-117-will-alert-users-with-old-extensions-installed/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
