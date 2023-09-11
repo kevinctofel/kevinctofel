@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Chrome extensions can hurt Chromebook performance](https://www.aboutchromebooks.com/news/why-chrome-extensions-can-hurt-chromebook-performance/)
 - [New Google Tasks glanceable shown off in ChromeOS 117](https://www.aboutchromebooks.com/news/new-google-tasks-glanceable-shown-off-in-chromeos-117/)
 - [Here comes the Chrome browser Material You redesign](https://www.aboutchromebooks.com/news/here-comes-the-chrome-browser-material-you-redesign/)
 - [How to see the version of Android on a Chromebook](https://www.aboutchromebooks.com/how-to/how-to-see-the-version-of-android-on-a-chromebook/)
 - [How to create a private replacement for Google services on Chromebooks](https://www.aboutchromebooks.com/news/how-to-create-a-private-replacement-for-google-services-on-chromebooks/)
-- [This is the best big-screen Labor Day Chromebook deal](https://www.aboutchromebooks.com/news/this-is-the-best-big-screen-labor-day-chromebook-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
