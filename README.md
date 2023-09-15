@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Should you buy the Lenovo Slim 3i Chromebook or the Slim 3?](https://www.aboutchromebooks.com/news/should-you-buy-the-lenovo-slim-3i-chromebook-or-the-slim-3/)
 - [Google announces 10 years of ChromeOS support on Chromebooks](https://www.aboutchromebooks.com/news/google-announces-10-years-of-chromeos-support-on-chromebooks/)
 - [How Chrome extensions can hurt Chromebook performance](https://www.aboutchromebooks.com/news/why-chrome-extensions-can-hurt-chromebook-performance/)
 - [New Google Tasks glanceable shown off in ChromeOS 117](https://www.aboutchromebooks.com/news/new-google-tasks-glanceable-shown-off-in-chromeos-117/)
 - [Here comes the Chrome browser Material You redesign](https://www.aboutchromebooks.com/news/here-comes-the-chrome-browser-material-you-redesign/)
-- [How to see the version of Android on a Chromebook](https://www.aboutchromebooks.com/how-to/how-to-see-the-version-of-android-on-a-chromebook/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
