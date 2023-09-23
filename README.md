@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChromeOS 118 brings Chromebook hardware diagnostics to the Launcher](https://www.aboutchromebooks.com/news/chromeos-118-brings-chromebook-hardware-diagnostics-to-the-launcher/)
 - [Here’s what’s in the now available Google Chrome 117 release](https://www.aboutchromebooks.com/news/heres-whats-in-the-now-available-google-chrome-117-release/)
 - [Should you buy the Lenovo Slim 3i Chromebook or the Slim 3?](https://www.aboutchromebooks.com/news/should-you-buy-the-lenovo-slim-3i-chromebook-or-the-slim-3/)
 - [Google announces 10 years of ChromeOS support on Chromebooks](https://www.aboutchromebooks.com/news/google-announces-10-years-of-chromeos-support-on-chromebooks/)
 - [How Chrome extensions can hurt Chromebook performance](https://www.aboutchromebooks.com/news/why-chrome-extensions-can-hurt-chromebook-performance/)
-- [New Google Tasks glanceable shown off in ChromeOS 117](https://www.aboutchromebooks.com/news/new-google-tasks-glanceable-shown-off-in-chromeos-117/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
