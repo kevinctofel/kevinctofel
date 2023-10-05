@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is your laptop on the Chromebook Plus upgrade list?](https://www.aboutchromebooks.com/news/is-your-laptop-on-the-chromebook-plus-upgrade-list/)
 - [Google Chromebook Plus: What you need to know](https://www.aboutchromebooks.com/news/google-chromebook-plus-what-you-need-to-know/)
 - [Now more than ever, ChromeOS is Linux with Google’s desktop environment](https://www.aboutchromebooks.com/news/now-more-than-ever-chromeos-is-linux-with-googles-desktop-environment/)
 - [Steam on Chromebook comes to the ChromeOS 117 Stable Channel](https://www.aboutchromebooks.com/news/steam-on-chromebook-comes-to-the-chromeos-117-stable-channel/)
 - [ChromeOS 117 release adds several new Chromebook features](https://www.aboutchromebooks.com/news/chromeos-117-release-adds-several-new-chromebook-features/)
-- [ChromeOS 118 brings Chromebook hardware diagnostics to the Launcher](https://www.aboutchromebooks.com/news/chromeos-118-brings-chromebook-hardware-diagnostics-to-the-launcher/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
