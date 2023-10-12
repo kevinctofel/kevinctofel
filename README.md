@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lenovo IdeaPad Flex 5i Chromebook Plus: The best $499 ChromeOS laptop I’ve used](https://www.aboutchromebooks.com/news/lenovo-ideapad-flex-5i-chromebook-plus-review/)
 - [This Core i5 Chromebook Plus eligible laptop is down to $569.99](https://www.aboutchromebooks.com/news/this-core-i5-chromebook-plus-eligible-laptop-is-down-to-569-99/)
 - [Google Chromebook Plus review roundup: A mixed bag](https://www.aboutchromebooks.com/news/google-chromebook-plus-review-roundup-a-mixed-bag/)
 - [Is your laptop on the Chromebook Plus upgrade list?](https://www.aboutchromebooks.com/news/is-your-laptop-on-the-chromebook-plus-upgrade-list/)
 - [Google Chromebook Plus: What you need to know](https://www.aboutchromebooks.com/news/google-chromebook-plus-what-you-need-to-know/)
-- [Now more than ever, ChromeOS is Linux with Google’s desktop environment](https://www.aboutchromebooks.com/news/now-more-than-ever-chromeos-is-linux-with-googles-desktop-environment/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
