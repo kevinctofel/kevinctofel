@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use the most underrated ChromeOS feature on a Chromebook: Install with Linux](https://www.aboutchromebooks.com/news/how-to-use-the-most-underrated-chromeos-feature-on-a-chromebook-install-with-linux/)
 - [The $499 Asus Chromebook Plus CM34 Flip is on sale for $399](https://www.aboutchromebooks.com/news/the-499-asus-chromebook-plus-cm34-flip-is-on-sale-for-399/)
 - [Google Chromebook Plus and ChromeOS thoughts](https://www.aboutchromebooks.com/news/google-chromebook-plus-and-chromeos-thoughts/)
 - [4 Chromebook security tips for data privacy and protection](https://www.aboutchromebooks.com/news/4-chromebook-security-tips-for-data-privacy-and-protection-2023/)
 - [Lenovo IdeaPad Flex 5i Chromebook Plus: The best $499 ChromeOS laptop I’ve used](https://www.aboutchromebooks.com/news/lenovo-ideapad-flex-5i-chromebook-plus-review/)
-- [This Core i5 Chromebook Plus eligible laptop is down to $569.99](https://www.aboutchromebooks.com/news/this-core-i5-chromebook-plus-eligible-laptop-is-down-to-569-99/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
