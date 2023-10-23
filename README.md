@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Snag a new Chromebook Plus at a $100 to $200 discount](https://www.aboutchromebooks.com/news/snag-a-new-chromebook-plus-at-a-100-to-200-discount/)
 - [Could Flexor for ChromeOS bring an Android desktop to Chromebooks?](https://www.aboutchromebooks.com/news/could-flexor-for-chromeos-bring-an-android-desktop-to-chromebooks/)
 - [ChromeOS 118 release adds several new Chromebook features](https://www.aboutchromebooks.com/news/chromeos-118-release-adds-several-new-chromebook-features/)
 - [How to use the most underrated ChromeOS feature on a Chromebook: Install with Linux](https://www.aboutchromebooks.com/news/how-to-use-the-most-underrated-chromeos-feature-on-a-chromebook-install-with-linux/)
 - [The $499 Asus Chromebook Plus CM34 Flip is on sale for $399](https://www.aboutchromebooks.com/news/the-499-asus-chromebook-plus-cm34-flip-is-on-sale-for-399/)
-- [Google Chromebook Plus and ChromeOS thoughts](https://www.aboutchromebooks.com/news/google-chromebook-plus-and-chromeos-thoughts/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
