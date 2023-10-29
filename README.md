@@ -70,7 +70,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [The best hidden ChromeOS features I use on my Chromebook &lpar;Updated&rpar;](https://www.aboutchromebooks.com/news/best-hidden-chromeos-features-on-chromebook-october-2023/)
 - [Snag a new Chromebook Plus at a $100 to $200 discount](https://www.aboutchromebooks.com/news/snag-a-new-chromebook-plus-at-a-100-to-200-discount/)
-- [Could Flexor for ChromeOS bring an Android desktop to Chromebooks?](https://www.aboutchromebooks.com/news/could-flexor-for-chromeos-bring-an-android-desktop-to-chromebooks/)
+- [Could Flexor for ChromeOS bring an Android desktop to Chromebooks? &lpar;Updated&rpar;](https://www.aboutchromebooks.com/news/could-flexor-for-chromeos-bring-an-android-desktop-to-chromebooks/)
 - [ChromeOS 118 release adds several new Chromebook features](https://www.aboutchromebooks.com/news/chromeos-118-release-adds-several-new-chromebook-features/)
 - [How to use the most underrated ChromeOS feature on a Chromebook: Install with Linux](https://www.aboutchromebooks.com/news/how-to-use-the-most-underrated-chromeos-feature-on-a-chromebook-install-with-linux/)
 <!-- BLOG-POST-LIST:END -->
