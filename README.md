@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Snag a new Chromebook Plus at a $100 to $200 discount](https://www.aboutchromebooks.com/news/snag-a-new-chromebook-plus-at-a-100-to-200-discount-black-friday/)
 - [Debian 12 Linux upgrade for  Chromebooks nearly here](https://www.aboutchromebooks.com/news/debian-12-linux-upgrade-for-chromebooks-nearly-here/)
 - [How to hover and view Chrome browser tab memory usage](https://www.aboutchromebooks.com/how-to/how-to-hover-and-view-chrome-browser-tab-memory-usage/)
 - [ChromeOS Reading Mode is getting the Read Aloud treatment](https://www.aboutchromebooks.com/news/chromeos-reading-mode-is-getting-the-read-aloud-treatment/)
 - [The best hidden ChromeOS features I use on my Chromebook &lpar;Updated&rpar;](https://www.aboutchromebooks.com/news/best-hidden-chromeos-features-on-chromebook-october-2023/)
-- [Snag a new Chromebook Plus at a $100 to $200 discount](https://www.aboutchromebooks.com/news/snag-a-new-chromebook-plus-at-a-100-to-200-discount/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
