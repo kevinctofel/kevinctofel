@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChromeOS 119 release adds several new Chromebook features](https://www.aboutchromebooks.com/news/chromeos-119-release-adds-several-new-chromebook-features/)
 - [Check out the new partial split snap group view in ChromeOS](https://www.aboutchromebooks.com/news/check-out-the-new-partial-split-snap-group-view-in-chromeos/)
 - [Early Black Friday deal drops the price of this excellent Chromebook Plus](https://www.aboutchromebooks.com/news/early-black-friday-deal-drops-the-price-of-this-excellent-chromebook-plus/)
 - [Nearly a year later, the Framework Chromebook is still fantastic](https://www.aboutchromebooks.com/reviews/nearly-a-year-later-the-framework-chromebook-is-still-fantastic/)
 - [ARM chips from Nvidia and AMD should power Chromebooks](https://www.aboutchromebooks.com/opinion/arm-chips-from-nvidia-and-amd-should-power-chromebooks/)
-- [Here comes the Asus Chromebook CM30 Detachable ChromeOS tablet](https://www.aboutchromebooks.com/news/here-comes-the-asus-chromebook-cm30-detachable-chromeos-tablet/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
