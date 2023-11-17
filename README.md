@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why the Lenovo Chromebook Duet 5 is stuck on ChromeOS 116](https://www.aboutchromebooks.com/news/why-the-lenovo-chromebook-duet-5-is-stuck-on-chromeos-116/)
 - [Microsoft’s new web app streams Windows on a Chromebook](https://www.aboutchromebooks.com/news/microsofts-new-web-app-streams-windows-on-a-chromebook/)
 - [ChromeOS 119 release adds several new Chromebook features](https://www.aboutchromebooks.com/news/chromeos-119-release-adds-several-new-chromebook-features/)
 - [Check out the new partial split snap group view in ChromeOS](https://www.aboutchromebooks.com/news/check-out-the-new-partial-split-snap-group-view-in-chromeos/)
 - [Early Black Friday deal drops the price of this excellent Chromebook Plus](https://www.aboutchromebooks.com/news/early-black-friday-deal-drops-the-price-of-this-excellent-chromebook-plus/)
-- [Nearly a year later, the Framework Chromebook is still fantastic](https://www.aboutchromebooks.com/reviews/nearly-a-year-later-the-framework-chromebook-is-still-fantastic/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
