@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What happened to the ChromeOS 119 release?](https://www.aboutchromebooks.com/news/what-happened-to-the-chromeos-119-release/)
 - [Black Friday sale on all Chromebook Plus laptops is here](https://www.aboutchromebooks.com/news/black-friday-sale-on-all-chromebook-plus-laptops/)
 - [How to set your Chromebook wallpaper to a Google Photos album](https://www.aboutchromebooks.com/how-to/how-to-set-your-chromebook-wallpaper-to-a-google-photos-album/)
 - [Early Black Friday deal drops the price of this excellent Chromebook Plus](https://www.aboutchromebooks.com/news/early-black-friday-deal-drops-the-price-of-this-excellent-chromebook-plus/)
 - [Why the Lenovo Chromebook Duet 5 is stuck on ChromeOS 116](https://www.aboutchromebooks.com/news/why-the-lenovo-chromebook-duet-5-is-stuck-on-chromeos-116/)
-- [Microsoft’s new web app streams Windows on a Chromebook](https://www.aboutchromebooks.com/news/microsofts-new-web-app-streams-windows-on-a-chromebook/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
