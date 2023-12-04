@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lenovo Chromebox Micro debuts as a mini PC for signage](https://www.aboutchromebooks.com/news/lenovo-chromebox-micro-debuts-as-a-mini-pc-for-signage/)
 - [Here’s the ChromeOS fix for the Lenovo Chromebook Duet 5](https://www.aboutchromebooks.com/news/heres-the-chromeos-fix-for-the-lenovo-chromebook-duet-5/)
 - [ChromeOS 119 release returns a week after being pulled](https://www.aboutchromebooks.com/news/chromeos-119-release-returns-a-week-after-being-pulled/)
 - [What happened to the ChromeOS 119 release?](https://www.aboutchromebooks.com/news/what-happened-to-the-chromeos-119-release/)
 - [Black Friday sale on all Chromebook Plus laptops is here](https://www.aboutchromebooks.com/news/black-friday-sale-on-all-chromebook-plus-laptops/)
-- [How to set your Chromebook wallpaper to a Google Photos album](https://www.aboutchromebooks.com/how-to/how-to-set-your-chromebook-wallpaper-to-a-google-photos-album/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
