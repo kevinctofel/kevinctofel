@@ -68,7 +68,7 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Here’s what’s in the now available Google Chrome 120 release](https://www.aboutchromebooks.com/news/heres-whats-in-the-now-available-google-chrome-120-release/)
+- [Google Chrome 120 release: Here’s what’s new](https://www.aboutchromebooks.com/news/heres-whats-in-the-now-available-google-chrome-120-release/)
 - [Chromebook buyers guide for late 2023 to make a smart choice](https://www.aboutchromebooks.com/news/chromebook-buyers-guide-late-2023/)
 - [Lenovo Chromebox Micro debuts as a mini PC for signage](https://www.aboutchromebooks.com/news/lenovo-chromebox-micro-debuts-as-a-mini-pc-for-signage/)
 - [Here’s the ChromeOS fix for the Lenovo Chromebook Duet 5](https://www.aboutchromebooks.com/news/heres-the-chromeos-fix-for-the-lenovo-chromebook-duet-5/)
