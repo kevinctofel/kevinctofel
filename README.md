@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChromeOS 121 brings a big Linux upgrade to Chromebooks](https://www.aboutchromebooks.com/news/chromeos-121-brings-a-big-linux-upgrade-to-chromebooks/)
 - [AI chips in Chromebooks are a solution to… what?](https://www.aboutchromebooks.com/opinion/ai-chips-in-chromebooks-are-a-solution-to-what/)
 - [Asus Chromebook Plus CX54 is first with Intel Meteor Lake](https://www.aboutchromebooks.com/news/asus-chromebook-plus-cx54-is-first-with-intel-meteor-lake/)
 - [Lenovo Chromebook Duet tablets get ChromeOS 119 after a delay](https://www.aboutchromebooks.com/news/lenovo-chromebook-duet-tablets-get-chromeos-119-after-a-delay/)
 - [A home server and Chromebook make an incredible pair](https://www.aboutchromebooks.com/news/a-home-server-and-chromebook-make-an-incredible-pair/)
-- [Google Chrome 120 release: Here’s what’s new](https://www.aboutchromebooks.com/news/heres-whats-in-the-now-available-google-chrome-120-release/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
