@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here’s what’s in the ChromeOS 120 release for Chromebooks](https://www.aboutchromebooks.com/news/heres-whats-in-the-chromeos-120-release-for-chromebooks/)
 - [Asus ExpertBook CX54 Chromebook Plus looks fantastic!](https://www.aboutchromebooks.com/news/asus-expertbook-cx54-chromebook-plus-looks-fantastic/)
 - [Here are the Asus Chromebook CM30 tablet details](https://www.aboutchromebooks.com/news/here-are-the-asus-chromebook-cm30-tablet-details/)
 - [What’s your pick for Chromebook of the Year?](https://www.aboutchromebooks.com/news/whats-your-pick-for-chromebook-of-the-year/)
 - [The big HP Chromebook Plus laptop gets a big 50% discount](https://www.aboutchromebooks.com/news/big-hp-chromebook-plus-laptop-half-off-discount/)
-- [ChromeOS 121 brings a big Linux upgrade to Chromebooks](https://www.aboutchromebooks.com/news/chromeos-121-brings-a-big-linux-upgrade-to-chromebooks/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
