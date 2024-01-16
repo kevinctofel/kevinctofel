@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why CES was mostly a bust for new Chromebooks](https://www.aboutchromebooks.com/news/why-ces-was-mostly-a-bust-for-new-chromebooks/)
 - [A removable Chromebook display that’s an Android tablet?](https://www.aboutchromebooks.com/news/a-removable-chromebook-display-thats-an-android-tablet/)
 - [Skip the touchscreen and this Acer Chromebook Plus is $299](https://www.aboutchromebooks.com/news/skip-the-touchscreen-and-this-acer-chromebook-plus-is-299/)
 - [Here’s what’s in the ChromeOS 120 release for Chromebooks](https://www.aboutchromebooks.com/news/heres-whats-in-the-chromeos-120-release-for-chromebooks/)
 - [Asus ExpertBook CX54 Chromebook Plus looks fantastic!](https://www.aboutchromebooks.com/news/asus-expertbook-cx54-chromebook-plus-looks-fantastic/)
-- [Here are the Asus Chromebook CM30 tablet details](https://www.aboutchromebooks.com/news/here-are-the-asus-chromebook-cm30-tablet-details/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
