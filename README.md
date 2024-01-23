@@ -68,11 +68,11 @@
 ### 📕 Latest About Chromebook Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to install Firefox on a Chromebook the easy way](https://www.aboutchromebooks.com/how-to/how-to-install-firefox-on-a-chromebook-the-easy-way/)
 - [ChromeOS 122 bringing Focus Mode to Chromebooks](https://www.aboutchromebooks.com/news/chromeos-122-focus-mode-to-chromebooks/)
 - [The big HP Chromebook Plus laptop gets a $200 discount](https://www.aboutchromebooks.com/news/big-hp-chromebook-plus-laptop-discount-jan-2024/)
 - [Why CES was mostly a bust for new Chromebooks](https://www.aboutchromebooks.com/news/why-ces-was-mostly-a-bust-for-new-chromebooks/)
 - [A removable Chromebook display that’s an Android tablet?](https://www.aboutchromebooks.com/news/a-removable-chromebook-display-thats-an-android-tablet/)
-- [Skip the touchscreen and this Acer Chromebook Plus is $299](https://www.aboutchromebooks.com/news/skip-the-touchscreen-and-this-acer-chromebook-plus-is-299/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️
