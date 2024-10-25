@@ -13,7 +13,7 @@
 - 🌱 I’m currently working at my local Wawa and coding on the side. 🤓
 - 🥅 2024 Goals: Progress towards JavaScript mastery, actively contribute to open source projects.
 - ⚡ Fun facts: I once ran at least a mile per day for 987 days in a row, earned U.S. All American status at age 47 in the 400m (64.8 seconds) and have completed 4 marathons
-- As of May, 2022, I'm a newly licenced motorcycle rider. Current bike: [2015 MotoGuzzi V7 Stone](https://photos.app.goo.gl/9QjN59safj89xaoNA).
+- As of May, 2022, I'm a newly licenced motorcycle rider. Current bike: [2024 Triumph Speed 400](https://share.icloud.com/photos/01cZVrnlE675HXHB96wuBRk3Q).
 - 😄 Pronouns: He/him
 
 ### My Helium hotspot
@@ -62,20 +62,6 @@
   [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinctofel)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinctofel)](https://github.com/anuraghazra/github-readme-stats)
-  
----
-
-### 📕 Latest About Chromebook Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How to install Firefox on a Chromebook the easy way](https://www.aboutchromebooks.com/how-to/how-to-install-firefox-on-a-chromebook-the-easy-way/)
-- [ChromeOS 122 bringing Focus Mode to Chromebooks](https://www.aboutchromebooks.com/news/chromeos-122-focus-mode-to-chromebooks/)
-- [The big HP Chromebook Plus laptop gets a $200 discount](https://www.aboutchromebooks.com/news/big-hp-chromebook-plus-laptop-discount-jan-2024/)
-- [Why CES was mostly a bust for new Chromebooks](https://www.aboutchromebooks.com/news/why-ces-was-mostly-a-bust-for-new-chromebooks/)
-- [A removable Chromebook display that’s an Android tablet?](https://www.aboutchromebooks.com/news/a-removable-chromebook-display-thats-an-android-tablet/)
-<!-- BLOG-POST-LIST:END -->
-
-➡️
 
 ---
 
