@@ -13,7 +13,7 @@
 - 🌱 I’m currently working at my local Wawa and coding on the side. 🤓
 - 🥅 2024 Goals: Progress towards JavaScript mastery, actively contribute to open source projects.
 - ⚡ Fun facts: I once ran at least a mile per day for 987 days in a row, earned U.S. All American status at age 47 in the 400m (64.8 seconds) and have completed 4 marathons
-- As of May, 2022, I'm a newly licenced motorcycle rider. Current bike: [2024 Triumph Speed 400](https://share.icloud.com/photos/01cZVrnlE675HXHB96wuBRk3Q).
+- 🏍️ As of May, 2022, I'm a newly licenced motorcycle rider. Current bike: [2024 Triumph Speed 400](https://share.icloud.com/photos/01cZVrnlE675HXHB96wuBRk3Q).
 - 😄 Pronouns: He/him
 
 ### My Helium hotspot
